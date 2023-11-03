@@ -1,7 +1,7 @@
 # Principles of Programming 1
 ---
-*Date :*  04-10-2022 
-*Module :* #CM10227
+*Date :*  04-10-2023 
+*Module :* #CM12003
 *Teacher*: #DrWillemHeijltjes , [Zack Lyons](https://moodle.bath.ac.uk/user/profile.php?id=25337)
 *Resources :*
 

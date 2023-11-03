@@ -1,12 +1,4 @@
 {
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "obsidian-languagetool-plugin:ltautocheck-text": [],
   "obsidian-languagetool-plugin:ltcheck-text": [
     {
@@ -31,6 +23,15 @@
         "Mod"
       ],
       "key": "M"
+    }
+  ],
+  "global-search-and-replace:search-and-replace": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
     }
   ]
 }

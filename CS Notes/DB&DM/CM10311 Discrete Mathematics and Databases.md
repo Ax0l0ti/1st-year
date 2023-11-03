@@ -1,7 +1,7 @@
 # Discrete Mathematics and Databases
 ---
-*Date :*  03-10-2022 
-*Module :*  #CM10311
+*Date :*  03-10-2023 
+*Module :*  #CM12004
 *Teacher*: [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806)
 *Resources :* [[CM10311-Maths LN.pdf]], [Discrete Math Playlist Youtube](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 *Courseworks :* [[Problem sheet 1.pdf |PS1 Questions]], [[Problem Sheet 1 |PS1 Answers]] | [[Problem sheet 2.pdf |PS2 Questions]], [[Problem Sheet 2 |PS2 Answers]]

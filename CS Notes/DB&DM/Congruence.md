@@ -1,7 +1,7 @@
 # Congruences
 ---
-*Date :*  25-11-2022 
-*Module :* #cm10311
+*Date :*  25-11-2023 
+*Module :* #CM12004
 *Teacher*: 
 *Resources :* [Congruence Modulo m (Theory) - YouTube](https://www.youtube.com/watch?v=-SpWfD4WsmM&ab_channel=NesoAcademy), [Solving congruences, Simple examples - YouTube](https://www.youtube.com/watch?v=KwxslifHITg&ab_channel=blackpenredpen), [Congruences Complex example - YouTube](https://www.youtube.com/watch?v=LInNgWMtFEs&ab_channel=blackpenredpen)
 

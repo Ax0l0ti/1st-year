@@ -4,5 +4,6 @@
   "obsidian-pandoc",
   "obsidian-regex-replace",
   "settings-search",
-  "obsidian-git"
+  "obsidian-git",
+  "global-search-and-replace"
 ]

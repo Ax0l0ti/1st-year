@@ -1,7 +1,7 @@
 # What is AI
 ---
-*Date :*  10-10-2022 
-*Module :* #CM10310 
+*Date :*  10-10-2023 
+*Module :* #CM12001 
 *Teacher*: #EmelieBarman
 *Resources :*
 

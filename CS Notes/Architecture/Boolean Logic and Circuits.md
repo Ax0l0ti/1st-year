@@ -1,7 +1,7 @@
 # Boolean Logic and Circuits
 ---
-*Date :*  05-12-2022 
-*Module :* #CM10194 
+*Date :*  05-12-2023 
+*Module :* #CM12002 
 *Teacher*: #FabioNemetz 
 *Resources :* [Introduction to Karnaugh Maps - YouTube](https://www.youtube.com/watch?v=RO5alU6PpSU&ab_channel=TheOrganicChemistryTutor), [Website for creating Sofp & k-maps](http://www.32x8.com/var4.html)
 

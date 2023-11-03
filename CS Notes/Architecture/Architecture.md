@@ -1,7 +1,7 @@
 # Uniprocessor Architectures
 ---
-*Date :*  10-10-2022 
-*Module :* #CM10194 
+*Date :*  10-10-2023 
+*Module :* #CM12002 
 *Teacher*: #FabioNemetz 
 *Resources :* 
 

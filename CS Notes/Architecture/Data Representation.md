@@ -1,7 +1,7 @@
 # Data Representation
 ---
-*Date :*  24-10-2022 
-*Module :* #CM10194 
+*Date :*  24-10-2023 
+*Module :* #CM12002 
 *Teacher*: [Fabio Nemetz](https://moodle.bath.ac.uk/user/profile.php?id=490)
 *Resources :* [Decimal to IEEE 754 - YouTube](https://www.youtube.com/watch?v=8afbTaA-gOQ&ab_channel=AbishaliniSivaraman)
 

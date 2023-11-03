@@ -1,7 +1,7 @@
 # Artificial Intelligence
 ---
-*Date :*  03-10-2022 
-*Module :* #CM10310
+*Date :*  03-10-2023 
+*Module :* #CM12001
 *Teacher*: [Ben Ralph](https://moodle.bath.ac.uk/user/profile.php?id=71461), #OlgaIsupova, #EmelieBarman
 *Resources :*
 

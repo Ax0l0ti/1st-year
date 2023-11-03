@@ -1,7 +1,7 @@
 # The C programming language
 ---
-*Date :*  20-12-2022 
-*Module :* #CM10227 
+*Date :*  20-12-2023 
+*Module :* #CM12003 
 *Teacher*: 
 *Resources :*
 

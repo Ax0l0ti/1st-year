@@ -1,7 +1,7 @@
 # Elements of set theory
 ---
-*Date :*  10-10-2022 
-*Module :* #CM10311 
+*Date :*  10-10-2023 
+*Module :* #CM12004 
 *Teacher*:  [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806)
 *Resources :*
 
