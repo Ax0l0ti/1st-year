@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "aa7c24091ad17e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42a63589c1f00dd",
+        "type": "leaf",
+        "dimension": 49.05149051490515,
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Attachments/Problem sheet 1.pdf"
+          }
+        }
+      },
+      {
+        "id": "c7d0f9eeb33a8672",
+        "type": "leaf",
+        "dimension": 50.94850948509485,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CS Notes/Problem Sheet 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "038ebaee904adf88",
+    "type": "split",
+    "children": [
+      {
+        "id": "27b333ed2057d2ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d171da91ece6b74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eeb5af6a855fd0b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "c programming",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62dd4745f4608871",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5637479f0ce3f71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS Notes/Problem Sheet 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c3550d6260ac942e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d5a35f0b952d3d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8a9cfbbab30b9de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS Notes/Problem Sheet 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ed593aafd43a483",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS Notes/Problem Sheet 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ff1e966abeb8396",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c7d0f9eeb33a8672",
+  "lastOpenFiles": [
+    "Attachments/Problem sheet 1.pdf",
+    "CS Notes/Problem Sheet 1.md",
+    "CS Notes/Elements of math logic.md",
+    "CS Notes/CM10311 Discrete Mathematics and Databases.md",
+    "CS Notes/CM10227 Principles of Programming 1.md",
+    "CS Notes/Programming.md",
+    "CS Notes/Elements of set theory.md",
+    "CS Notes/The C programming language.md",
+    "Attachments/CM10311-full-LN.pdf",
+    "CS Notes/CM10194 Computer System Architecture 1.md"
+  ]
+}
