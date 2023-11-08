@@ -11,8 +11,12 @@
             "id": "fafd81cc2284b6e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS Notes/DB & DM CM12004/Elements of math logic.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS Notes/DB & DM CM12004/Elements of math logic.md"
+              }
             }
           },
           {
@@ -77,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS Notes/DB & DM CM12004/Elements of math logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS Notes/DB & DM CM12004/Elements of math logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
