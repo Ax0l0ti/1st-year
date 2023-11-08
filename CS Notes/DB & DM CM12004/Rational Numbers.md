@@ -1,7 +1,7 @@
 # Rational Numbers
 ---
 *Date :*  31-10-2023 
-*Module :* #CM12004 
+*Module :* #CM12004DM 
 *Teacher*: 
 *Resources :* [Introduction to Cauchy Sequences - YouTube](https://www.youtube.com/watch?v=jD5s2jvnH1k&ab_channel=ElliotNicholson)
 

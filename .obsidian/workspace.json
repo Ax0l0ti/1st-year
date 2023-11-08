@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6db69c032eb8cf13",
+        "id": "1bd54cfa6ddfde2f",
         "type": "tabs",
         "children": [
           {
-            "id": "2e3dafad2bdabaf1",
+            "id": "fafd81cc2284b6e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS Notes/CM10227 Principles of Programming 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CM10227",
+                "query": "tag:#CM12004DB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,9 +66,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS Notes/CM10227 Principles of Programming 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Notes/CM10227 Principles of Programming 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Notes/CM10227 Principles of Programming 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -163,34 +155,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e3dafad2bdabaf1",
+  "active": "fafd81cc2284b6e4",
   "lastOpenFiles": [
+    "CS Notes/DB & DM CM12004/Database Design.md",
+    "CS Notes/DB & DM CM12004/Data.md",
+    "CS Notes/DB & DM CM12004/Relations.md",
+    "CS Notes/DB & DM CM12004/Relational Algebra + SQL.md",
+    "CS Notes/DB & DM CM12004/Congruence.md",
+    "CS Notes/DB & DM CM12004/Elements of set theory.md",
+    "CS Notes/DB & DM CM12004/Elements of math logic.md",
+    "CS Notes/DB & DM CM12004/Quantifiers.md",
+    "CS Notes/DB & DM CM12004/Rational Numbers.md",
+    "CS Notes/DB & DM CM12004/Orders.md",
+    "CS Notes/DB & DM CM12004/Proof.md",
+    "CS Notes/DB & DM CM12004/Functions (maps).md",
+    "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
+    "CS Notes/DB & DM CM12004/Problem Sheet 1.md",
+    "Attachments/CM10311-Maths LN.pdf",
+    "Templates/Lecture notes.md",
+    "CS Notes/DB & DM CM12004/Problem Sheet 2.md",
     "CS Notes/Module Codes.md",
-    "CS Notes/Programming.md",
-    "CS Notes/The C programming language.md",
-    "CS Notes/The Java programming language.md",
-    "CS Notes/Architecture/Architecture.md",
-    "CS Notes/Architecture/Boolean Logic and Circuits.md",
-    "CS Notes/Architecture/Brief history of Computer.md",
-    "CS Notes/Architecture/Data Representation.md",
-    "CS Notes/Architecture/CM10194 Computer System Architecture 1.md",
-    "CS Notes/Architecture/Data Storage.md",
-    "CS Notes/Architecture/Instructions.md",
-    "CS Notes/Architecture/Implementing Arithmetic.md",
-    "CS Notes/Architecture/IO.md",
-    "CS Notes/Architecture/Pipelining.md",
-    "CS Notes/Architecture/Sequential Logic.md",
-    "CS Notes/DB&DM/CM10311 Discrete Mathematics and Databases.md",
-    "CS Notes/DB&DM/Congruence.md",
-    "CS Notes/DB&DM/Data.md",
-    "CS Notes/DB&DM/Database Design.md",
-    "CS Notes/DB&DM/Elements of math logic.md",
-    "CS Notes/DB&DM/Elements of set theory.md",
-    "CS Notes/DB&DM/Orders.md",
-    "CS Notes/DB&DM/Proof.md",
-    "CS Notes/DB&DM/Quantifiers.md",
-    "CS Notes/DB&DM/Rational Numbers.md",
-    "CS Notes/DB&DM/Relational Algebra + SQL.md",
+    "CS Notes/DB & DM CM12004/Learning From Problelm Sheets.md",
+    "CS Notes/CM10312 Mathematics of Computation.md",
+    "CS Notes/Progamming/Prog 1 CM12003/Data Structures.md",
+    "CS Notes/Architecture CM12002/Data Representation.md",
+    "CS Notes/Architecture CM12002/CM12002 Computer System Architecture 1.md",
+    "CS Notes/Architecture CM12002/CM12002 Computer System Architecture.md",
+    "CS Notes/AI CM12001/CM12001 Artificial Intelligence 1.md",
+    "CS Notes/Progamming/Prog 1 CM12003/The Java programming language.md",
+    "CS Notes/Progamming/Prog 1 CM12003/The C programming language.md",
+    "CS Notes/Progamming/Prog 2 CM12005",
+    "CS Notes/Progamming/Prog 1 CM12003",
+    "CS Notes/Progamming",
+    "CS Notes/Prog CM12003/Prog 2 CM1200",
+    "CS Notes/Prog CM12003/Prog 1 CM12003",
     "Attachments/Problem sheet 1.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -198,12 +196,6 @@
     "CS Notes/M 4 Comp/M 4 Comp",
     "CS Notes/M 4 Comp/DM",
     "CS Notes/M 4 Comp",
-    "CS Notes/DB&DM/DB",
-    "CS Notes/DB&DM/DM",
-    "CS Notes/DB&DM",
-    "CS Notes/Architecture",
-    "Attachments/CM10311-Maths LN.pdf",
-    "CS Notes/M/M 4 Comp",
     "Attachments/Pasted image 20221017114635.png",
     "Attachments/Pasted image 20221017124545.png",
     "Attachments/Pasted image 20221025115936.png",

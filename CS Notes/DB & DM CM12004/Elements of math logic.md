@@ -1,7 +1,7 @@
 # Elements of math logic
 ---
 *Date :*  03-10-2023 
-*Module :* #CM12004
+*Module :* #CM12004DM
 *Teacher*:  [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806)
 *Resources :
 

@@ -10,7 +10,7 @@
 > [[What is AI ]]
 > [[The Turing Test ]]
 > [[AI Ethics ]]
-> [[Uniformed Search]]
+> [[Uniformed search]]
 > [[Informed Search]]
 > [[Adversarial Search]]
 > [[Introduction to Probability]]

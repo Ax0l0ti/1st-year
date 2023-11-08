@@ -1,4 +1,4 @@
-# Computer System Architecture 1
+# Computer System Architecture
 ---
 *Date :*  03-10-2023 
 *Module :* #CM12002

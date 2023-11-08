@@ -1,7 +1,7 @@
-# {{DM Problem S 1}}
+# DM Problem S 1 - OG's work
 ---
-*Date :* {{date: DD-MM-YYYY }}
-*Module :* #
+*Date :* {{date: 20-09-2023 }}
+*Module :* #CM12004DM 
 *Teacher*:  
 *Resources :*
 

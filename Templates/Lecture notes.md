@@ -1,4 +1,4 @@
-# {{title}}
+# title
 ---
 *Date :* {{date: DD-MM-YYYY }}
 *Module :*

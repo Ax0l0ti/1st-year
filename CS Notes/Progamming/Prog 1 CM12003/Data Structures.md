@@ -1,3 +1,19 @@
+# Data Structures
+---
+*Date :* {{date: DD-MM-YYYY }}
+*Module :* #CM12003
+*Teacher*:  #DrWillemHeijltjes 
+*Resources :*
+
+---
+##### Contents: 
+> [[#Stacks]]
+> [[#Stacks in Recursion]]
+> [[# ]]
+> 
+--- 
+
+
 ### Stacks
 Stacks work on the Last In, First Out principle (LIFO).This means that the data that was added last (most recently) is the first one to be removed. 
 
@@ -9,7 +25,7 @@ A stack has three operations :
 	- Pop - Removes item from the last index
 	- Peek – Returns item in the last index of the stack
 
-###### Stacks in Recursion
+### Stacks in Recursion
 A stack data structure is used in recursive algorithms to temporarily store the calling function’s return address and local variables.
 ![300](https://miro.medium.com/max/1400/1*C3LaaTtC6miYoIlhkX7zQQ.png)
 

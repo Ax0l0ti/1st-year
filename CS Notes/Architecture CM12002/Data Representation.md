@@ -14,7 +14,7 @@
 > [[#Using Mantissa and Exponent]]
 --- 
 
-Electronic computers are based on two-state devices(trasnsistors and logic gates). This can be related to the binary system. 
+Electronic computers are based on two-state devices(transistors and logic gates). This can be related to the binary system. 
 A binary digit(0 or 1) is called a bit.
 
 ### Numeration Systems

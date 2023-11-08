@@ -1,7 +1,7 @@
 # Database Design
 ---
 *Date :*  05-12-2023 
-*Module :* #CM12004 
+*Module :* #CM12004DM 
 *Teacher*: #BhagiPatel 
 *Resources :*
 

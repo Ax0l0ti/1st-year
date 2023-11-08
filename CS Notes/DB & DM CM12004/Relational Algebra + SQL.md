@@ -1,7 +1,7 @@
 # Relational Algebra + SQL
 ---
 *Date :*  12-12-2023 
-*Module :* #CM12004 
+*Module :* #CM12004DB 
 *Teacher*: #BhagiPatel 
 *Resources :*
 
