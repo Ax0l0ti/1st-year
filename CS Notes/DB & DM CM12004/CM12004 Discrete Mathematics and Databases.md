@@ -29,10 +29,25 @@
 >[[Data]]
 >[[Database Design]]
 
-
 ---
-
+# Coursework
 
 75% exams 25% Coursework
 Coursework involves 2 problem sheets 
 Problem sheets should be saved as a pdf file
+
+---
+# ChatGPT
+
+### prompt
+
+
+
+### response
+
+
+
+--- 
+
+# Resources 
+

@@ -2,7 +2,7 @@
 ---
 *Date :*  04-10-2023 
 *Module :* #CM12003
-*Teacher*: #DrWillemHeijltjes , [Zack Lyons](https://moodle.bath.ac.uk/user/profile.php?id=25337)
+*Teacher*: #TheGoatHeijltjes , [Zack Lyons](https://moodle.bath.ac.uk/user/profile.php?id=25337)
 *Resources :*
 
 ---

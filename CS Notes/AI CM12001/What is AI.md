@@ -20,3 +20,4 @@ Characteristics that define an AI can be categorised into:
 	- Behaving humanly (HB)
 	- Thinking rationally / ideally (IT)
 	- Behaving rationally / ideally (IB)
+

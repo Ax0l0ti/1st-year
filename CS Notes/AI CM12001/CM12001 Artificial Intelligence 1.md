@@ -2,7 +2,7 @@
 ---
 *Date :*  03-10-2023 
 *Module :* #CM12001
-*Teacher*: [Ben Ralph](https://moodle.bath.ac.uk/user/profile.php?id=71461), #OlgaIsupova, #EmelieBarman
+*Teacher*: [Ben Ralph](https://moodle.bath.ac.uk/user/profile.php?id=71461), #EmelieBarman, #BenRalph, #NelloCWaffleMan 
 *Resources :*
 
 ---
@@ -14,11 +14,12 @@
 > [[Informed Search]]
 > [[Adversarial Search]]
 > [[Introduction to Probability]]
-> [[Marko Decission Procedures]]
+> [[Marko Decision Procedures]]
 > [[Bayesian Networks]]
 > 
 --- 
 
+# Coursework
 ###### Coursework 1 (30%)
 Python Based
 Deadline in week 12 (January)
@@ -35,5 +36,19 @@ End of semester 2 (June)
 Multiple choice questions
 Closed Book 
 
+---
+# chatgpt 
 
-Standard book for reading in the field of AI is Artificial Intelligence by Russell and Norvig. 3rd Edition is the main reference. 
+### prompt
+
+
+
+### response
+
+
+
+--- 
+
+# Resources 
+Standard book for reading in the field of AI is Artificial Intelligence by Russell and Norvig. 3rd Edition is the main reference.
+

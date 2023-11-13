@@ -2,7 +2,7 @@
 ---
 *Date :* {{date: DD-MM-YYYY }}
 *Module :* #CM12003
-*Teacher*:  #DrWillemHeijltjes 
+*Teacher*:  #TheGoatHeijltjes 
 *Resources :*
 
 ---
