@@ -14,7 +14,7 @@
 --- 
 
 Turing test is used to test whether a system is acting/thinking like humans or rationally. 
-![[Pasted image 20221017163501.png | 300]]
+![[Turing Test.png| 300]]
 
 ###### Visual Turing test
 - Questions with binary answers 

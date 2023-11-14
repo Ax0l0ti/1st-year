@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Format cheat sheet.md",
+                "file": "CS Notes/Architecture CM12002/Instructions.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#CM12002",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Format cheat sheet.md"
+                "file": "CS Notes/Architecture CM12002/Instructions.md"
               }
             }
           },
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Format cheat sheet.md",
+                "file": "CS Notes/Architecture CM12002/Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Format cheat sheet.md",
+                "file": "CS Notes/Architecture CM12002/Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,53 +165,54 @@
   },
   "active": "fafd81cc2284b6e4",
   "lastOpenFiles": [
-    "CS Notes/Progamming/Prog 2 CM12005/CM1005 Programming 2.md",
-    "CS Notes/Module Codes.md",
-    "CS Notes/M 4 Comp/CM12006 Mathematics of Computation.md",
-    "Templates/New notes Template.md",
-    "CS Notes/Progamming/Prog 1 CM12003/CM12003 Principles of Programming 1.md",
-    "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
-    "CS Notes/AI CM12001/CM12001 Artificial Intelligence 1.md",
-    "CS Notes/Architecture CM12002/CM12002 Computer System Architecture.md",
-    "CS Notes/Architecture CM12002/Architecture.md",
-    "CS Notes/AI CM12001/Uniformed search.md",
-    "Templates/List of Shortcuts.md",
-    "CS Notes/AI CM12001/What is AI.md",
-    "CS Notes/AI CM12001/Informed Search.md",
-    "Templates/Format cheat sheet.md",
-    "CS Notes/AI CM12001/The Turing Test.md",
-    "CS Notes/Progamming/Prog 1 CM12003/Data Structures.md",
-    "Templates/Links.md",
     "CS Notes/Architecture CM12002/IO.md",
     "CS Notes/Architecture CM12002/Instructions.md",
-    "CS Notes/Architecture CM12002/Brief history of Computer.md",
-    "CS Notes/Architecture CM12002/Boolean Logic and Circuits.md",
     "CS Notes/Architecture CM12002/Data Storage.md",
     "CS Notes/Architecture CM12002/Implementing Arithmetic.md",
-    "CS Notes/DB & DM CM12004/Elements of math logic.md",
-    "CS Notes/DB & DM CM12004/Database Design.md",
-    "CS Notes/DB & DM CM12004/Data.md",
+    "CS Notes/Architecture CM12002/Data Representation.md",
+    "CS Notes/Architecture CM12002/CM12002 Computer System Architecture.md",
+    "CS Notes/Architecture CM12002/Brief history of Computer.md",
+    "CS Notes/Architecture CM12002/Boolean Logic and Circuits.md",
+    "CS Notes/Architecture CM12002/Architecture.md",
+    "CS Notes/Architecture CM12002/Sequential Logic.md",
+    "Attachments/Pasted image 20230104204531.png",
+    "Attachments/Pasted image 20221212113528.png",
+    "Attachments/Pasted image 20221129203619.png",
+    "Attachments/Pasted image 20221129093252.png",
+    "Attachments/Pasted image 20221128114739.png",
+    "Attachments/Pasted image 20221205114257.png",
+    "Attachments/Pasted image 20221205113625.png",
+    "Attachments/Pasted image 20221129201625.png",
+    "Attachments/BIn.png",
+    "Attachments/Binary Arithmetic Example 3.png",
+    "Attachments/Problem sheet 1.pdf",
+    "CS Notes/AI CM12001/Uniformed search.md",
+    "CS Notes/DB & DM CM12004/Turing Machines.md",
+    "CS Notes/DB & DM CM12004/DM/Relations.md",
+    "CS Notes/DB & DM CM12004/DB/Relational Algebra + SQL.md",
+    "CS Notes/DB & DM CM12004/DM/Congruence.md",
+    "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
+    "CS Notes/DB & DM CM12004/DB/Quantifiers.md",
+    "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
+    "CS Notes/DB & DM CM12004/DM/Problem Sheet 2.md",
+    "CS Notes/DB & DM CM12004/DM/Proof.md",
+    "CS Notes/DB & DM CM12004/DM/Problem Sheet 1.md",
+    "CS Notes/DB & DM CM12004/DM/Orders.md",
+    "CS Notes/DB & DM CM12004/DM/Learning From Problelm Sheets.md",
+    "Templates/New notes Template.md",
+    "CS Notes/DB & DM CM12004/DM/Functions (maps).md",
+    "CS Notes/DB & DM CM12004/DM/Elements of set theory.md",
     "Attachments/CM10311-Maths LN.pdf",
     "CS Notes/Progamming/Prog 2 CM12005",
     "CS Notes/Progamming/Prog 1 CM12003",
     "CS Notes/Progamming",
     "CS Notes/Prog CM12003/Prog 2 CM1200",
     "CS Notes/Prog CM12003/Prog 1 CM12003",
-    "Attachments/Problem sheet 1.pdf",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "CS Notes/M 4 Comp/M 4 Comp",
     "CS Notes/M 4 Comp/DM",
-    "CS Notes/M 4 Comp",
-    "Attachments/Pasted image 20221017114635.png",
-    "Attachments/Pasted image 20221017124545.png",
-    "Attachments/Pasted image 20221025115936.png",
-    "Attachments/Pasted image 20221121100743.png",
-    "Attachments/Pasted image 20221205114052.png",
-    "Attachments/Pasted image 20221212103826.png",
-    "Attachments/Pasted image 20221212114803.png",
-    "Attachments/Pasted image 20221213095739.png",
-    "Attachments/Pasted image 20230104204531.png"
+    "CS Notes/M 4 Comp"
   ]
 }

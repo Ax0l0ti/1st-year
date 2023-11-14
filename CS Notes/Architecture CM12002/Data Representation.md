@@ -48,7 +48,7 @@ Some examples of numerations systems:
 
 ###### ==Converting from octal to binary==
 - Get each digit from the ocatal and create that number with 4 2 1 table. Look image below, makes more sense. 
-	![[Pasted image 20221107213208.png || 300]]
+	![[Hex 2 Binary Example.png|| 300]]
 
 ###### ==Converting from Hex to decimal==
 - Take the decimal representation of the most significant bit and times by $16^{n-1}$ where $n$ is the number of digits. $n$ decrements by one each time. 
@@ -109,7 +109,7 @@ The number is normalised if $1 \le  |m| < R$  (except zero)
 
 ### Floating Point Binary
 $Number = \pm m \times 2^{\pm x}$
-![[Pasted image 20221031114449.png | 300]]
+![[Binary Standard Form.png| 300]]
 
 Floating numbers are stored using the IEEE Standard. There are two basic formats for IEEE:
 	- Single Precision: 32 bits (4 bytes)
@@ -140,4 +140,4 @@ Example:
 - Count the number of spaces the decimal moved **(n)** and add the BIAS (127) to **n** and convert to binary. 
 - Final result: Sign Exponent Mantissa
 - Example:
-	![[Pasted image 20221108163038.png |400]]
+	![[Binary Example.png|400]]

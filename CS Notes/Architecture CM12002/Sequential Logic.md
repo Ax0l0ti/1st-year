@@ -20,7 +20,7 @@ Input combinations may result in any one of a number of stable or unstable state
 >**Nondeterministic:** even for the same input, it can exhibit different behaviors on different runs, as opposed to a deterministic algorithm.
 
 A simple SR Latch implemented with NOR gates
-![[Pasted image 20221213094042.png]]
+![[SR Latch w NOR gates.png]]
 
 SR latches are asynchronous (unlocked). Two separate gates can't switch simultaneously. There is a delay before a logic gate responds to an input. 
 
@@ -57,7 +57,7 @@ by using and inverter, the non-clock inputs to the two AND gates are guaranteed 
 
 ### J-K flip flops
 This type of flip-flop makes use of the restricted combination (1,1). It is used to toggle, or change the output state, of the flip-flop.
-![[Pasted image 20221213102154.png | 300]]
+![[J-K Flip Flop.png| 300]]
 ![[Pasted image 20221213102205.png | 300]]
 The J-K flip-flop is a universal flip-flop: It can behave as an SR flip-flop or D flip-flop
 

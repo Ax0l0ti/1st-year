@@ -14,15 +14,15 @@
 > 
 --- 
 #### Abstraction 
-![[Pasted image 20221004092024.png | 300 ]]
+![[UI and OS.png| 300 ]]
 
 The lowest level is electrons and you go higher to make it easier to use for users. 
 
-![[Pasted image 20221004092525.png || 300]]
+![[Transformations Arthitecture.png|| 300]]
 
 
 Computers can be most generally thought as data processors. 
-![[Pasted image 20221004094413.png |300]]
+![[in out function.png|300]]
 
 
 #### Analogue and Digital computing
@@ -38,12 +38,12 @@ They use continuously variable analogues such as electric current or voltages to
 
 #### Brief history of Computers
 It all began with the **Antikythera Device** (100BC). 
-![[Pasted image 20221004102154.png | 200]]
+![[old ass cog.png| 200]]
 Then it was followed by the **Pascaline** by Balise Pascal. It could add and subtract two numbers directly and multiply and divide by repetition.
-![[Pasted image 20221004102604.png | 200]]
+![[WTF box.png| 200]]
 
 What we consider a computer from today's standard came much later. It was Charles Babbage's **Analytical engine** designed in 1837. The design could be described as Turing-Complete however Babbage was never able to complete construction of any of his machines due to conflicts with his chief engineer and inadequate funding. 
-![[Pasted image 20221004103211.png | 300]]
+![[copper boi.png| 300]]
 Ada Lovelace known to be the first ever programmer later wrote about the Analytical engine and the problems that can be solved. 
 
 One of most notable individual in computer science is Alan Turing. He worked for the government code and cypher school. 

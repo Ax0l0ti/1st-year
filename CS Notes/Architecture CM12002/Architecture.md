@@ -14,7 +14,8 @@
 > [[#Parallel Architectures]]
 > [[#Memory Architectures]]
 --- 
-
+Personal docs -
+[Computer systems architectures ( CM12002 ) - Google Docs](https://docs.google.com/document/d/1EzEg2Ur3hNqMmzDv8KQfUXVzitG7Gmceo5SKTnZeyD8/edit#heading=h.4chf0znkme2v) 
 ### The Von-Neuman Architectre
 - ==Arithemetic Logic Unit (ALU)== is where computational operations are carried out (math and logic). To carrout the operations we need:
 	- An operation specification
@@ -30,7 +31,7 @@ Data and instructions are stored in a single store. This makes carrying out oper
 
 A CPU is a combination of a control unit and the ALU. 
 
-![[Pasted image 20221010115547.png]]  
+![[CPU Diagram.png]]  
 
 ###### Short Video on the Von Neumann Architecture
 <iframe width="702" height="395" src="https://www.youtube.com/embed/5BpgAHBZgec" title="The Von Neumann Architecture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -79,7 +80,7 @@ Solutions:
 
 ### The Harvard Architecture 
 The main idea behind harvard architecture to store data and instruction separately. This means that the CPU can access instructions and data simultaneously. 
-![[Pasted image 20221011083603.png | 300]]
+![[Data movement of CPU.png| 300]]
 
 The Harvard architecture is useful:
 	- In special-purpose devices like microcontrollers and signal processors (e.g., data from sensors) with instructions stored in ROM.
@@ -94,14 +95,14 @@ Modifications made to the original Harvard Architecture:
 	- Provide a data pathway from the instruction store to the data store, so only one loading mechanism from store to CPU is required.
 	- Have separate caching for code and data, but a single store, so that the processor can function in either Harvard or Von Neumann mode.
 
-![[Pasted image 20221011085940.png | 300]]
+![[Von Neumann vs Harvard.png| 300]]
 
 
 ### Caching
 
 Cache is a data sotre, which store data most often used by the CPUand is capable of more rapid access.
 Cache is closer to the CPU and faster than RAM. 
-![[Pasted image 20221017112625.png | 400]]
+![[CPU w other components.png| 400]]
 
 #### Levels of Cache
 - Cache Level 1 (L1)
@@ -112,7 +113,7 @@ Cache is closer to the CPU and faster than RAM.
 	- Larger than L1 cache
 - Main memory
 	- Larger and slower than cache
-![[Pasted image 20221017113059.png | 200]]
+![[Simplified Computer.png| 200]]
 
 ### Registers
 
@@ -187,7 +188,7 @@ Distributed memory:
 There is a limit of how much a process can be parellized -- e.g. if computation 'B' needs the output from computation 'A' as its input, then they cannot be computed in parallel. 
 
 These constraints of data processing can be represented using series-parrallel graphs. 
-![[Pasted image 20221018092154.png | 300]]
+![[CPU task execution.png| 300]]
 
 ###### Amdhal's Law
 Amdhal's law states that for a given task, suppose a proportion $0 \le p \le 1$ can be parellised, but a proportion $s = 1-p$ is inherently sequential. So the maximum speedup obtainable by using **N** processors is: 
@@ -200,7 +201,7 @@ $$\begin{array}{}
 \end{array}
 $$
 After applying this formula in a case with infinite number of cores it is clear that after a certain point increase the number of cores has very little increase in speed. 
-![[Pasted image 20221018093237.png | 350]]
+![[Amdahl's Law.png| 350]]
 
 Example Question: 
 	Calculate the maximum speed obtained when 50% of the process is parallel using 2 parallel processors. 

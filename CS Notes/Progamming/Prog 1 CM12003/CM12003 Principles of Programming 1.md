@@ -12,6 +12,8 @@
 > [[# ]]
 > 
 --- 
+Personal docs - 
+[Programming 1 ( CM12003 ) - Google Docs](https://docs.google.com/document/d/1h-sII_E13cywocrmr4m-O46r_qUYMJda5R7CHwz8zgg/edit#heading=h.4chf0znkme2v)
 
 The module is 100% coursework based. 
 	- Python 50%

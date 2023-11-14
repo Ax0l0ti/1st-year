@@ -20,7 +20,7 @@
 
 ![[Assessment and coursework details.png | 500]]
 
-![[Pasted image 20221003114337.png | 400]]
+![[Lesson Plan Comp architecture.png| 400]]
 
 
 ---

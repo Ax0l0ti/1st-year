@@ -1,3 +1,11 @@
+# DM Problem S 2 - OG's work
+---
+*Date :* 20-09-2023
+*Module :* #CM12004DM 
+*Teacher*:  
+*Resources :*
+
+---
 
 
 [[Problem sheet 2.pdf|Questions ]]

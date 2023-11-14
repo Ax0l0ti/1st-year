@@ -56,7 +56,7 @@ Look at maths boolean logic for all the boolean logic rules
 
 Question: Show that $A.(A + B ) = A$
 	Answer: 		
-		![[Pasted image 20221205114052.png]]
+		![[Binary Arithmetic Example 3.png]]
 Question: Show that $A + A.B = A$
 	Answer:
 		![[Pasted image 20221205114257.png]]
@@ -69,8 +69,8 @@ A SofP of a Boolean formula is:
 	- e.g: $A + B.C = A.B.C + A.B.\neg C + A.\neg B . C + A.\neg B . \neg C + \neg A . B . C$
 
 We arrived at the expression above by doing the following:
-	![[Pasted image 20221205115217.png]]
-	![[Pasted image 20221205115325.png]]
+	![[Binary Arithmetic Example.png]]
+	![[Boolean logic of Karnaugh maps.png]]
 **Theorem**
 Every boolean expression over $n$ variables is equivalent to a standard sum of products. 
 
@@ -90,7 +90,7 @@ The order when creating a K-map with always goes as such: $00,01,11,10$
 *So here is how it goes. For a given formula you're filling in the value in the table. Once the table is created you're going to check variables and where that order fits in. Negation is always read as zero. Let's say we had ABC then the cell where A = 1, B=1 and C =1 is 1. Simiilarly, if $A \neg B$ then we fill the cell where A = 1 and B =0.*
 
 So a boolean formula with four variables in a K-map will look as such:
-![[Pasted image 20221206091619.png]]
+![[Karnaugh maps Example 2.png]]
 
 ###### Creating formulas from K-maps
 After the map is created any two adjacent squres with entries of 1 $\to$ corresponding product terms differ in only one variable. This means that one variable can be eleminated. 
@@ -98,9 +98,9 @@ After the map is created any two adjacent squres with entries of 1 $\to$ corresp
 Adjacent squres can be grouped in the powers of 2; ie, $2,4,8,...$. So more variables can be eliminated. Important to remember that when grouping variables they can be also be grouped around the edges. 
 
 *So you read the map and see from the grouped variables which one's stay constant. The one's that change can be removed as they have no impact on the boolean formula. Look at the table below. Notice how the variables C and D keep changing as you go across the with the adjacent pairs. So they can be ignore. AB stays the same; its always 00. Since the value in the cells are 1 the boolean formula for the table becomes:* $\neg A \neg B$
-![[Pasted image 20221206093144.png]]
+![[Karnaugh maps Explanation.png]]
 Look at more examples below for better understanding:
-![[Pasted image 20221206093509.png]]
+![[Karnaugh maps.png]]
 
 *Simplifying Boolean expressions (recap)
 1)  Write it in the form of a standard sum of products;
@@ -120,4 +120,4 @@ For example a seven-segment display uses this idea.
 	- It is driven by binary coded decimal (BCD)
 	- A separate set of combinational logic turns on or off each segment
 ![[Pasted image 20221212113528.png]]
-![[Pasted image 20221212113458.png]]
+![[Karnaugh maps Example.png]]

@@ -199,7 +199,7 @@ Symbols * and & are associated with pointers.
 
 When * is found in a variable declaration, it denotes a pointer variable that points to a memory address Elsewhere, * “dereferences” a pointer – it gets the value being pointed to
 
-![[Pasted image 20221025115936.png | 300]]
+![[Storing in Memory.png| 300]]
 
 **&** gives the memory address (e.g. 0x6ffcd8) of a variable
 

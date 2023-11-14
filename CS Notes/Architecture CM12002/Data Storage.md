@@ -7,7 +7,7 @@
 
 ---
 ##### Contents: 
-> [[#The Sotre]]
+> [[#The Store]]
 > [[#Cell Contents]]
 > [[#Cell addresses]]
 > [[#Types of Memory Access]]
@@ -16,9 +16,9 @@
 
 Bits are grouped in sequences called cells. A possible size for a cell is 8 bits and it is called a byte. Sequence of 16 bits is called a word; and 32 or 64 bits are called long words. 
 
-###### The Sotre
-The store consists of a collection of cells. Each cell is given an address for identification. A cell is the smallest addressabe unit of a store. 
-![[Pasted image 20221025092255.png | 200]]
+###### The Store
+The store consists of a collection of cells. Each cell is given an address for identification. A cell is the smallest addressable unit of a store. 
+![[Memory Addresses.png| 200]]
 
 ### Cell Attributes
 ###### Cell Contents

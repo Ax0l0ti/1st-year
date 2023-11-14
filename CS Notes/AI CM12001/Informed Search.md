@@ -8,7 +8,7 @@
 ---
 ##### Contents: 
 > [[#Greedy Search]]
-> [[# Properties of Heuristics ]]
+> [[#Properties of Heuristics ]]
 > [[# ]]
 > 
 --- 

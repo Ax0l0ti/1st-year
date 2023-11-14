@@ -7,7 +7,7 @@
 
 ---
 ##### Contents: 
-> [[# ]]
+> [[# Agents ]]
 > [[# ]]
 > [[# ]]
 > 
@@ -20,4 +20,11 @@ Characteristics that define an AI can be categorised into:
 	- Behaving humanly (HB)
 	- Thinking rationally / ideally (IT)
 	- Behaving rationally / ideally (IB)
+
+### Agents
+
+An **agent** is something that **acts** 
+
+A **Rational Agent** is something that **acts rationally**
+
 

@@ -67,4 +67,4 @@ Relational Databases contain:
 	- Allows for data definition and manipulation
 
 ### History of databases summary
-![[Pasted image 20230112151601.png]]
+![[History of Database Timeline.png]]

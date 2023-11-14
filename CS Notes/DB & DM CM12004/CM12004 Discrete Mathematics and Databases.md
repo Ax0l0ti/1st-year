@@ -16,9 +16,11 @@
 > [[Proof]]
 > [[Functions (maps)]]
 > [[Relations]]
+> [[Turing Machines]]
 > [[Rational Numbers]]
 > [[Number Systems]]
 > [[Proof]]
+> 
 
 --- 
 ###### Databases
@@ -30,6 +32,8 @@
 >[[Database Design]]
 
 ---
+Personal docs -
+[Discrete Maths and Databases ( CM12004 ) - Google Docs](https://docs.google.com/document/d/1NkRyIM7WCvkm3J7xhbn9Dw6zVJ1sqRxfCue00pkZngA/edit#heading=h.4chf0znkme2v) 
 # Coursework
 
 75% exams 25% Coursework

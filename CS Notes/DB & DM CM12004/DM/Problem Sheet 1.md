@@ -1,19 +1,11 @@
 # DM Problem S 1 - OG's work
 ---
-*Date :* {{date: 20-09-2023 }}
+*Date :* 20-09-2023
 *Module :* #CM12004DM 
 *Teacher*:  
 *Resources :*
 
 ---
-##### Contents: 
-> [[# ]]
-> [[# ]]
-> [[# ]]
-> 
---- 
-
-
 
 [[Problem sheet 1.pdf|Questions]] 
 # Problem Sheet 1

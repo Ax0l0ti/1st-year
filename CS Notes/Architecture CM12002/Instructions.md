@@ -25,7 +25,7 @@ An operand is coded as an address where the actual operand is located. For examp
 - Typically variable number of bytes
 
 The memory hierarchy
-	![[Pasted image 20221114113007.png | 400]]
+	![[CPU Pyramid.png| 400]]
 
 ### Registers and the CPU
 
@@ -45,7 +45,7 @@ The memory hierarchy
 
 ###### Two address codes
 `Code style used in most modern computers. `
-![[Pasted image 20221115093929.png | 300]]
+![[Instruction Language.png| 300]]
 
 
 ### Addresses and Sequencing instructions

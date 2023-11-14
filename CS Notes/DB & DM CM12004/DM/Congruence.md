@@ -8,18 +8,18 @@
 
 ---
 ##### Contents: 
+> [[#Divisiblity of Integers]]
+> [[#Division operation in $ frac{Z}{mZ}$]] 
 > [[# ]]
-> [[# ]]
-> [[# ]]
-> 
 --- 
-###### Divisiblity of Integers
+
+#### Divisibility of Integers
 
 **Definition**: For $a, b, m ∈ Z, m > 0$, we say that $a$ is congruent to $b$ modulo$m$ and write $a ≡ b$ mod m, if $a − b$ is divisible by $m$. Equivalently, $a ≡ b$ mod $m$ if $a$ is divisible by $m$ with the same remainder as is $b$ divisible by $m$.
 
 **Proposition 1**: Let for $a, m ∈ Z, m > 0$, an integer $r$ be the remainder of the division of $a$ by $m$. Then $a ≡ r$ mod $m$.
 
-**Poroposition 2**: Fix $m\in Z$. The relation "congruent modul $m$" is an equivalence relation. That is:
+**Proposition 2**: Fix $m\in Z$. The relation "congruent module $m$" is an equivalence relation. That is:
 	- $a \equiv a$ mod m;
 	- if $a\equiv b$ mod m, then $b \equiv a$ mod m;
 	- if $a \equiv b$ mod $m$ and $b \equiv c$ mod $m$ , then $a \equiv c$ mod $m$. 

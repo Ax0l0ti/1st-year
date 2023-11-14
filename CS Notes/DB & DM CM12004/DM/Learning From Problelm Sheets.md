@@ -1,3 +1,18 @@
+# Learning From Problem Sheets
+---
+*Date :* {{date: DD-MM-YYYY }}
+*Module :* #CM12004DM 
+*Teacher*: 
+*Resources :*
+
+---
+##### Contents: 
+> [[# ]]  [[#ChatGPT notes]]
+> [[# ]]
+> [[# ]]
+> 
+--- 
+
 ## Maps (functions)
 
 Let $A$ and $B$ be sets. $A$ maps to $B$, $A \to B$. Let's write:
