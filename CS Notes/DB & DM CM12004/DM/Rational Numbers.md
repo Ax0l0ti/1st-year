@@ -7,11 +7,26 @@
 
 ---
 ##### Contents: 
-> [[# ]]
-> [[# ]]
-> [[# ]]
-> 
+> [[#Overview]]
+> [[#Arithmetic operations on $Q$]]
+> [[#Cauchy Sequences]]
+> [[#Arithmetic of Cauchy sequence]]
+> [[#Null Sequences]]
+> [[#Equivalence relations for Cauchy sequences and real numbers]]
+> [[#Real and Rational]]
 --- 
+
+# Overview
+
+**Cauchy sequence** 
+- terms in sequence begin to approach each other
+- sequence around a number e.g $\pi$ sequence $= 3, 3.1, 3.12, 3.121, 3.1214$
+- {$a_{n}$} + {$b_{n}$} = {$a_{n} + b_{n}$}
+**Null sequence**
+- sequence approaches 0 
+- basically a Cauchy around 0 
+
+
 
 Let $A = \{\frac{x}{y} | x,y \in Z, y \ne 0 \}$ then we can't say that $\frac{1}{2} \equiv \frac{27}{54}$. This is because $x$ and $y$ would be different integers from the set, hence they become different from each other even though their representation is the same. 
 $\frac{x_1}{y_1} \text{is equivalent} \frac{x_2}{y_2}$ if and only if $x_1y_2 = x_2y_1$ 
@@ -45,9 +60,8 @@ $Q$ represents set of all rational numbers
 
 
 ### Cauchy Sequences
-Let $N$ be the set of all natural numbers.
-*Natural numbers are set of positive integers (excluding zero)*
 
+Cauchy Sequences tend towards a point e.g $\sqrt{2}$
 **Definition**: A sequence of rational numbers is a function $a: N \to Q$. 
 Traditionally, the image  of $a$ at $n$ is denoted by $a_n$ and the whole sequence by $\{a_n\}$. One can think of a sequence as of an infinite string $a_1, a_2, . . . , a_n, . . ..$ We will refer to an as to the $nth$ member of the sequence ${a_n}$.
 
@@ -84,5 +98,19 @@ Example:
 Let C be the set of all Cauchy sequences. 
 Introduce the following relation ∼ on C. For $\{a_n\}, \{b_n\} \in C$ let $\{a_n\} ∼ \{b_n\}$ if the difference $\{a_n\} − \{b_n\}$ is a null sequence.
 Example: $\{1/n\} ∼ \{1/n^2\}$ 
+
+
+### Rational & Irrational Proof
+
+$\mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$
+
+using a square size 1 x 1, cross from corner to corner is $\sqrt{2}$ 
+
+Suppose $\sqrt{2}  =$ $x/y$ ==simplified== $\implies 2 = x^2 / y^2 \implies 2y^2 = x^2 \implies x^2$ is even $\implies x is even \implies x = 2z \implies 2y^2 = 4z^2 \implies y^2 = 2z^2 \implies y = even$
+==CONTRADICTION==
+$x/y$ is simplified yet $y$ is even $\vee$ $x$ is even
+
+### Irrational Approximation
+
 
 

@@ -25,7 +25,7 @@ An operand is coded as an address where the actual operand is located. For examp
 - Typically variable number of bytes
 
 The memory hierarchy
-	![[CPU Pyramid.png| 400]]
+	![[Memory Hierachy.png| 400]]
 
 ### Registers and the CPU
 
@@ -34,18 +34,18 @@ The memory hierarchy
 - Control unit has registers for storing program information
 
 ###### One and a half address codes
-![[Pasted image 20221114115211.png]]
+![[One and a half address codes.png]]
 - If we have more than one data register, then we need only 3 bits in the instruction set without greatly increasing the amount of store we need to hold the instructions. 
 
 ##### Zero address codes
 - These are instructions with no arguments
 - For example INC Rn (increment register 'n')
 - The computer is stops when operation is carried out
- ![[Pasted image 20221115093833.png]]
+ ![[Zero Address Codes.png]]
 
 ###### Two address codes
 `Code style used in most modern computers. `
-![[Instruction Language.png| 300]]
+![[Two Address codes.png| 300]]
 
 
 ### Addresses and Sequencing instructions
@@ -56,7 +56,7 @@ The memory hierarchy
 	- Holds the address of the next instruction 
 - **Instruction register (IR)**
 	- Holds the instruction currently being executed 
-`Used for accessing Memoroy`
+	`Used for accessing Memoroy`
 - **Memory Address Registers (MAR)**
 	- Holds the address that is being accessed
 - **Memory Buffer (MB)**
@@ -107,7 +107,7 @@ Operand addressing modes
 
 
 ### Instruction Types
-- Arithmetic Instructions $\to$ provide computational capabiliites for processing numeric data 
+- Arithmetic Instructions $\to$ provide computational capabilities for processing numeric data 
 - Logic (Boolean) Instructions 
 - Control Instructions $\to$ are used to branch to a different set of instructions
 - Movement of data into or out of register or memory locations. 

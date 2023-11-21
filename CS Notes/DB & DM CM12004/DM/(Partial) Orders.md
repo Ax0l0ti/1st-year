@@ -1,4 +1,4 @@
-# Orders
+# (Partial) Orders
 ---
 *Date :*  14-11-2023 
 *Module :* #CM12004DM 
@@ -8,6 +8,7 @@
 ---
 ##### Contents: 
 > [[#Arithmetic of real numbers]]
+> [[#Reflexive, symmetric & Transitive]]
 > [[#Partial order and total order]]
 > [[#Maximal and minimal elements]]
 > 
@@ -19,7 +20,23 @@
 - Then $x+y$ is the real number containing the sequence $\{a_n\}+\{b_n\}$. 
 - Similarly, $xy$ is the real number containing the sequence $\{a_n\}\cdot\{b_n\}$
 
-### Partial order and total order
+
+### Reflexive, symmetric & Transitive
+
+#### Reflexive $aRa$  
+- **Definition:** A relation $R$ on a set $A$ is said to be reflexive if, for ==**every**== element $x$ in $A$, the ordered pair $((a,a))$ belongs to $R$.
+- **Explanation:** In simpler terms, a relation is reflexive if every element in the set is related to itself. This means that for any element $x$ in the set $A$, the statement $aRa$ holds true.
+Opposite - TODO Irreflexive 
+#### Symmetric $aRb \implies bRa$
+-  **Definition:** A relation $R$ on a set $A$ is said to be symmetric if, for every ==**pair**== of elements $a$ and $b$ in $A$, if $(a,b)$ belongs to $R$, then $(b,a)$ also belongs to $R$.
+- **Explanation:** In simpler terms, a relation is symmetric if whenever $a$ is related to $b$, then $b$ is also related to $a$. This implies that if $aRb$ holds, then $bRa$ must also hold.
+Opposite - Asymmetric
+#### Transitive $aRb \vee bRc \implies bRa$
+- **Definition:** A relation $R$ on a set $A$ is said to be transitive if, for every ==**triple**== of elements $a$, $b$ and $c$ in $A$ , if $(a,b)$ belongs to $R$ and $(b,c)$ belongs to $R$, then $(a,c)$ also belongs to $R$.
+- **Explanation:** In simpler terms, a relation is transitive if whenever $a$ is related to $b$, and $b$ is related to $c$, then $a$ is also related to $c$. This implies that if $aRb$ and $bRc$ hold, then $aRc$ must also hold.
+Opposite - TODO
+
+### Partial order and Strict Partial order
 
 >**Definition**: A relation R on set $A$ is called partial order on $A$, if $R$ is:
 >	- Reflexive
@@ -45,6 +62,13 @@ Examples:
 	1) Relation $≤$ on $Z$ is a total order. 
 	2) Let $A = \{∅, \{a\}, \{a, b\}, \{a, b, c\}, \{a, b, c, d\}\}$. The the relation $⊂$ is a total order on $A$.
 
+### Quick table of Strict vs Partial Order 
+
+| Partial Order | Strict P.O  |
+| ------------- | ----------- |
+|   Reflexive   | Irreflexive |
+|   Symmetric   | Asymmetric  |
+|   Transitive  | Transitive  |
 ### Maximal and minimal elements
 
 >**Definition**: Let $R$ be a partial order on $A$. Element $x \in A$ is called maximal if $\forall y \in A ((x,y)\in R \to x = y)$ 
@@ -77,8 +101,8 @@ Example: $(< on \ Z)$ is asymmetric
 **Proof**: 
 We need to prove that $<$ is asymmetric and transitive
 **Asymmetric**: Suppose that, $(x < y) ∧ (y < x)$ is true for some $x, y ∈ A$. Then, by the definition of $<, (x ≤ y) ∧ (y ≤ x)$. Since the relation $≤$ is antisymmetric, it follows that $x = y$, which contradicts to x $<$ y in view of the definition of $<$. 
-**Transitive**: $(x < y) \wedge (y < z)$ need to proove: $x < z$
-By definition of $<: (x \le y) \wedge (y \le Z)$. By transitivity of $\le$ we have $x \le z$. Supppose $x \le z$, then $(z \le y) \wedge (y \le z )$, by antisymmetry, $y = z$. 
+**Transitive**: $(x < y) \wedge (y < z)$ need to prove: $x < z$
+By definition of $<: (x \le y) \wedge (y \le Z)$. By transitivity of $\le$ we have $x \le z$. Suppose $x \le z$, then $(z \le y) \wedge (y \le z )$, by asymmetry, $y = z$. 
 
 
 
