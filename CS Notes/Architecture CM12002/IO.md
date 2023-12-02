@@ -7,8 +7,8 @@
 
 ---
 ##### Contents: 
-> [[# ]]
-> [[# ]]
+> [[#External devices]]
+> [[#I/O modules Functions]]
 > [[# ]]
 > 
 --- 
@@ -18,9 +18,9 @@ Any transfer of information beyond the CPU and main memory is considered to be I
 A computer architecture needs to specify how data is sent out and recieved and how to manage requests for input and outputs particularly for devices with differnt requirements and capabilities. 
 
 One of the important variable in I/O devices is their operating speed. This can be in the form of:
-	- Electronics (other computers)
-	- Electromechanical (printer, disk)
-	- Human (mouse, keyboard)
+	- **Electronics** (other computers)
+	- **Electromechanical** (printer, disk)
+	- **Human** (mouse, keyboard)
 
 ### External devices
 External devices provide a means of exchanging data between the external environment and the computer. They attach to the computer by a link to an I/O module.

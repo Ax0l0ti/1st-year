@@ -12,6 +12,7 @@
 > [[AI Ethics ]]
 > [[Uniformed search]]
 > [[Informed Search]]
+> [[Constraint Satisfaction]]
 > [[Adversarial Search]]
 > [[Introduction to Probability]]
 > [[Marko Decision Procedures]]

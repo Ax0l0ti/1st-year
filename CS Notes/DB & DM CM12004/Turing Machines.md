@@ -20,8 +20,17 @@ Response :
 
 --- 
 
-### Heading
+### Universal Turing Machine
 
-**bold**
-- bul
-normal 
+
+
+
+
+
+##### Composition
+- **Read Write Head**
+- ****
+
+### Turing Machine 
+
+##### Finite State Machine

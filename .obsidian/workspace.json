@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
+                "file": "CS Notes/Architecture CM12002/IO.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md"
+                "file": "CS Notes/Architecture CM12002/IO.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
+                "file": "CS Notes/Architecture CM12002/IO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
+                "file": "CS Notes/Architecture CM12002/IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,16 +164,23 @@
   },
   "active": "fafd81cc2284b6e4",
   "lastOpenFiles": [
-    "CS Notes/DB & DM CM12004/DM/Arithmetic operations on $Q$.md",
+    "CS Notes/DB & DM CM12004/Turing Machines.md",
+    "CS Notes/DB & DM CM12004/Number Systems.md",
+    "CS Notes/Architecture CM12002/IO.md",
     "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
+    "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
+    "CS Notes/AI CM12001/Constraint Satisfaction.md",
+    "CS Notes/AI CM12001/Uniformed search.md",
+    "CS Notes/AI CM12001/What is AI.md",
+    "CS Notes/AI CM12001/CM12001 Artificial Intelligence 1.md",
+    "CS Notes/AI CM12001/Adversarial Search.md",
+    "Pasted image 20231127135548.png",
+    "Templates/New notes Template.md",
+    "CS Notes/DB & DM CM12004/DM/Arithmetic operations on $Q$.md",
     "CS Notes/DB & DM CM12004/DM/().md",
     "Templates/Format cheat sheet.md",
     "Templates/List of Shortcuts.md",
-    "CS Notes/DB & DM CM12004/Number Systems.md",
-    "CS Notes/DB & DM CM12004/Turing Machines.md",
     "CS Notes/DB & DM CM12004/DM/Relations.md",
-    "Templates/New notes Template.md",
-    "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
     "CS Notes/DB & DM CM12004/DM/Proof.md",
     "CS Notes/DB & DM CM12004/DM/Elements of set theory.md",
     "CS Notes/Architecture CM12002/FDE.md",
@@ -181,17 +188,11 @@
     "Pasted image 20231121100403.png",
     "CS Notes/Architecture CM12002/Data Storage.md",
     "CS Notes/Architecture CM12002/Instructions.md",
-    "CS Notes/Architecture CM12002/IO.md",
     "CS Notes/Architecture CM12002/Boolean Logic and Circuits.md",
     "CS Notes/Architecture CM12002/![[Pasted.md",
     "Pasted image 20231121100246.png",
     "CS Notes/Architecture CM12002/CM12002 Computer System Architecture.md",
     "CS Notes/Architecture CM12002/Architecture.md",
-    "CS Notes/Architecture CM12002/Implementing Arithmetic.md",
-    "CS Notes/Architecture CM12002/Data Representation.md",
-    "CS Notes/AI CM12001/Uniformed search.md",
-    "CS Notes/Progamming/Prog 1 CM12003/CM12003 Principles of Programming 1.md",
-    "CS Notes/DB & DM CM12004/DB/Quantifiers.md",
     "Strict vs normal Partial Order.png",
     "Attachments/BIn.png",
     "Attachments/Pasted image 20230104204531.png",
@@ -199,7 +200,6 @@
     "Attachments/Pasted image 20221129203619.png",
     "Attachments/Pasted image 20221129093252.png",
     "Attachments/Pasted image 20221128114739.png",
-    "Attachments/Pasted image 20221205114257.png",
     "Attachments/Problem sheet 1.pdf",
     "Attachments/CM10311-Maths LN.pdf",
     "CS Notes/Progamming/Prog 2 CM12005",
