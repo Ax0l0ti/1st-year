@@ -7,15 +7,18 @@
 
 ---
 ##### Contents: 
-> [[# ]]
-> [[# ]]
-> [[# ]]
+> [[#Standard Sum of Products (SofP)]]
+> [[#Simplifying Formula]]
+> [[#Karnaugh Maps]]
+> 	[[#Creating K-maps from boolean formula]]
+> 	[[#Creating formulas from K-maps]]
+> 	[[#Application of K-maps]]
 > 
 --- 
 
 There are two different kinds of ciurcuits:
 	- Combinational Logic
-	- Sequential Logic
+	- [[Sequential Logic]]
 
 Combinational logic circuits combine their inputs in a a way that is:
 	- Static

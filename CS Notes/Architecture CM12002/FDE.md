@@ -1,6 +1,6 @@
 # Fetch Decode Execute Cycle
 ---
-*Date :* {{date: 21-11-2023 }}
+*Date :* DD-MM-YYYY21-11-2023
 *Module :* #CM12002
 *Teacher*: #FabioNemetz 
 *Resources :*

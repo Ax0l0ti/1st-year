@@ -1,6 +1,6 @@
 # title
 ---
-*Date :* {{date: DD-MM-YYYY }}
+*Date :* DD-MM-YYYY
 *Module :* 
 *Teacher*: 
 *Resources :*

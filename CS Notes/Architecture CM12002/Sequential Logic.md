@@ -7,9 +7,17 @@
 
 ---
 ##### Contents: 
-> [[# ]]
-> [[# ]]
-> [[# ]]
+> [[#SR Latch (Set-Reset Latch)]]
+> [[#Flip-Flops]]
+> --> SR
+> ------> Clocked SR 
+> ------> Gated SR
+> --> D
+> --> J-K 
+> [[#Parallel Register]] 
+> [[#Counters ]]
+> [[#Ripple Counter (asynchronous)]]
+> [[#Synchronous Counter]]
 > 
 --- 
 

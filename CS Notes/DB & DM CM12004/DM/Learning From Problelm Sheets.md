@@ -1,6 +1,6 @@
 # Learning From Problem Sheets
 ---
-*Date :* {{date: DD-MM-YYYY }}
+OLD GEEZER NOTES
 *Module :* #CM12004DM 
 *Teacher*: 
 *Resources :*

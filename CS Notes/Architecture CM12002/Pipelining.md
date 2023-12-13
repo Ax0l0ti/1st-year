@@ -7,30 +7,33 @@
 
 ---
 ##### Contents: 
-> [[# ]]
-> [[# ]]
+> [[#Pipelining]]
+> [[#Problems with Pipelining]]
+> [[#Superscalar architectures]]
 > [[# ]]
 > 
 --- 
 
+### Pipelining
 Pipelining is a technique for implementing instruction-level parallelism within a single processor.
 Another instruction can be begun before the previous one is finished.
 
 Generally when we execute a sequence of instructions it goes as such:
-F D F E S | F D F E S | $\to$ Fetch Decode Fetch Execute Store
+F D F E S | F D F E S | $\to$ **Fetch Decode Fetch Execute Store**
 
 However with modern processors instructions can overlap:
 ![[Pasted image 20221122113752.png | 300]]
 So as we decode the first instruction, we can start fetching the second and so on. 
 
+#### Problems with Pipelining
 However there are some problems with this method. 
-- Branching $\to$ When we branch next instruction is fetched from somewhere else entirely. This causes the pipeline to break and causes a temporary drop in speedup as we re-fill the pipeline. 
+- **Branching** $\to$ When we branch next instruction is fetched from somewhere else entirely. This causes the pipeline to break and causes a temporary drop in speedup as we re-fill the pipeline. 
 
-- Instruction Conflicts $\to$ Most times result of one execution cycle is necessary for the next fetch cycle to start. This can cause complications in data flow through the processor. 
+- **Instruction Conflicts** $\to$ Most times result of one execution cycle is necessary for the next fetch cycle to start. This can cause complications in data flow through the processor. 
 
-- Load Delays $\to$ Fetching values is relatively slow. Sometimes pipeline stalls when one stage takes unexpectedly long. 
+- **Load Delays** $\to$ Fetching values is relatively slow. Sometimes pipeline stalls when one stage takes unexpectedly long. 
 
-- Unequal stage times $\to$ For a pipeline to flow smoothly each stage must take(roughly) the same amount of time. Otherwise the pipeline moves at the rate of the slowest stage. 
+- **Unequal stage times** $\to$ For a pipeline to flow smoothly each stage must take(roughly) the same amount of time. Otherwise the pipeline moves at the rate of the slowest stage. 
 
 ### Superscalar architectures
 > **Latency** is a measure of amount of time between the start of an action and it's completion

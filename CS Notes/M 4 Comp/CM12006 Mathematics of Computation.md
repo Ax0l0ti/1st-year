@@ -1,6 +1,6 @@
 # Maths for Computation
 ---
-*Date :* {{date: DD-MM-YYYY }}
+*Date :* DD-MM-YYYY
 *Module :* 
 *Teacher*: 
 *Resources :*

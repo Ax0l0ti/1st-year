@@ -39,3 +39,24 @@
 
 # Resources 
 
+
+1. Introduction to the unit, a bit of history 
+2. Uniprocessor Architectures (von Neumann) 
+3. Parallel Architectures 
+4. Data Representation
+5. Data Storage
+6. Real Numbers 
+7. Representing and Executing Instructions 
+8. More Instruction Execution 
+9. Operand Modes and Instruction Set 
+10. Control and Pipelining 
+11. Input/Output, Handling I/O, Programmed I/O 
+12. Interrupt/Direct Memory Access 
+13. Boolean Logic and Circuits 
+14. Simplifying Boolean Formulas 
+15. Karnaugh Maps 
+16. Implementing Arithmetic 
+17. Sequential Logic 
+18. Flip-Flops 
+19. Using Flip-Flops
+

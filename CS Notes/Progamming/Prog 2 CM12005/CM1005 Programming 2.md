@@ -1,6 +1,6 @@
 # Programming 2 
 ---
-*Date :* {{date: DD-MM-YYYY }}
+*Date :* DD-MM-YYYY
 *Module :* 
 *Teacher*: 
 *Resources :*

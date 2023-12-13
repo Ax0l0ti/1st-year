@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Notes/Architecture CM12002/IO.md",
+                "file": "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Notes/Architecture CM12002/IO.md"
+                "file": "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Notes/Architecture CM12002/IO.md",
+                "file": "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Notes/Architecture CM12002/IO.md",
+                "file": "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,35 +164,35 @@
   },
   "active": "fafd81cc2284b6e4",
   "lastOpenFiles": [
-    "CS Notes/DB & DM CM12004/Turing Machines.md",
-    "CS Notes/DB & DM CM12004/Number Systems.md",
-    "CS Notes/Architecture CM12002/IO.md",
-    "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
-    "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
-    "CS Notes/AI CM12001/Constraint Satisfaction.md",
-    "CS Notes/AI CM12001/Uniformed search.md",
-    "CS Notes/AI CM12001/What is AI.md",
-    "CS Notes/AI CM12001/CM12001 Artificial Intelligence 1.md",
-    "CS Notes/AI CM12001/Adversarial Search.md",
-    "Pasted image 20231127135548.png",
-    "Templates/New notes Template.md",
-    "CS Notes/DB & DM CM12004/DM/Arithmetic operations on $Q$.md",
-    "CS Notes/DB & DM CM12004/DM/().md",
-    "Templates/Format cheat sheet.md",
-    "Templates/List of Shortcuts.md",
-    "CS Notes/DB & DM CM12004/DM/Relations.md",
-    "CS Notes/DB & DM CM12004/DM/Proof.md",
-    "CS Notes/DB & DM CM12004/DM/Elements of set theory.md",
-    "CS Notes/Architecture CM12002/FDE.md",
     "Obsidian Hacks.md",
-    "Pasted image 20231121100403.png",
-    "CS Notes/Architecture CM12002/Data Storage.md",
-    "CS Notes/Architecture CM12002/Instructions.md",
+    "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
+    "CS Notes/DB & DM CM12004/Querying A DataBase.md",
+    "Templates/New notes Template.md",
+    "CS Notes/Module Codes.md",
+    "CS Notes/DB & DM CM12004/DM/Divisibility of Integers.md",
     "CS Notes/Architecture CM12002/Boolean Logic and Circuits.md",
-    "CS Notes/Architecture CM12002/![[Pasted.md",
-    "Pasted image 20231121100246.png",
+    "CS Notes/Architecture CM12002/Brief history of Computer.md",
+    "CS Notes/Architecture CM12002/Sequential Logic.md",
     "CS Notes/Architecture CM12002/CM12002 Computer System Architecture.md",
-    "CS Notes/Architecture CM12002/Architecture.md",
+    "CS Notes/Architecture CM12002/Pipelining.md",
+    "CS Notes/DB & DM CM12004/DM/FSM Turing Machines.md",
+    "CS Notes/DB & DM CM12004/DM/Functions (maps).md",
+    "CS Notes/DB & DM CM12004/DM/Learning From Problelm Sheets.md",
+    "CS Notes/DB & DM CM12004/DM/Number Systems.md",
+    "CS Notes/DB & DM CM12004/DM/Problem Sheet 2.md",
+    "CS Notes/DB & DM CM12004/DM/Proof.md",
+    "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
+    "CS Notes/DB & DM CM12004/DM/Relations.md",
+    "CS Notes/Architecture CM12002/FDE.md",
+    "CS Notes/M 4 Comp/CM12006 Mathematics of Computation.md",
+    "CS Notes/Progamming/Prog 2 CM12005/CM1005 Programming 2.md",
+    "CS Notes/Progamming/Prog 1 CM12003/Data Structures.md",
+    "CS Notes/DB & DM CM12004/Turing Machines.md",
+    "CS Notes/Architecture CM12002/IO.md",
+    "CS Notes/AI CM12001/Constraint Satisfaction.md",
+    "Pasted image 20231127135548.png",
+    "Pasted image 20231121100403.png",
+    "Pasted image 20231121100246.png",
     "Strict vs normal Partial Order.png",
     "Attachments/BIn.png",
     "Attachments/Pasted image 20230104204531.png",

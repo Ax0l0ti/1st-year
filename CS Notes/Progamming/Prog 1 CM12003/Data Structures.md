@@ -1,6 +1,6 @@
 # Data Structures
 ---
-*Date :* {{date: DD-MM-YYYY }}
+*Date :* DD-MM-YYYY
 *Module :* #CM12003
 *Teacher*:  #TheGoatHeijltjes 
 *Resources :*
