@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
+                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md"
+                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md"
               }
             }
           },
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
+                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
+                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,10 +163,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fafd81cc2284b6e4",
+  "active": "eeb5af6a855fd0b7",
   "lastOpenFiles": [
-    "Obsidian Hacks.md",
+    "CS Notes/DB & DM CM12004/DM/Proof.md",
+    "CS Notes/DB & DM CM12004/DM/Problem Sheet 2.md",
+    "CS Notes/DB & DM CM12004/DM/Problem Sheet 1.md",
+    "CS Notes/DB & DM CM12004/DM/Number Systems.md",
     "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
+    "Obsidian Hacks.md",
     "CS Notes/DB & DM CM12004/Querying A DataBase.md",
     "Templates/New notes Template.md",
     "CS Notes/Module Codes.md",
@@ -178,9 +183,6 @@
     "CS Notes/DB & DM CM12004/DM/FSM Turing Machines.md",
     "CS Notes/DB & DM CM12004/DM/Functions (maps).md",
     "CS Notes/DB & DM CM12004/DM/Learning From Problelm Sheets.md",
-    "CS Notes/DB & DM CM12004/DM/Number Systems.md",
-    "CS Notes/DB & DM CM12004/DM/Problem Sheet 2.md",
-    "CS Notes/DB & DM CM12004/DM/Proof.md",
     "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
     "CS Notes/DB & DM CM12004/DM/Relations.md",
     "CS Notes/Architecture CM12002/FDE.md",
@@ -189,7 +191,6 @@
     "CS Notes/Progamming/Prog 1 CM12003/Data Structures.md",
     "CS Notes/DB & DM CM12004/Turing Machines.md",
     "CS Notes/Architecture CM12002/IO.md",
-    "CS Notes/AI CM12001/Constraint Satisfaction.md",
     "Pasted image 20231127135548.png",
     "Pasted image 20231121100403.png",
     "Pasted image 20231121100246.png",
