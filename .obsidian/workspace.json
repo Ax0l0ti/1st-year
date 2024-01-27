@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fafd81cc2284b6e4",
+            "id": "e93ee4d8fe028bab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
+                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5bb87f66d41ac9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Hacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#CM12004",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md"
+                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md"
               }
             }
           },
@@ -83,12 +95,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 250.50260543823242
   },
   "right": {
     "id": "c3550d6260ac942e",
@@ -104,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
+                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
+                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,37 +174,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eeb5af6a855fd0b7",
+  "active": "e93ee4d8fe028bab",
   "lastOpenFiles": [
-    "CS Notes/DB & DM CM12004/DM/Proof.md",
-    "CS Notes/DB & DM CM12004/DM/Problem Sheet 2.md",
-    "CS Notes/DB & DM CM12004/DM/Problem Sheet 1.md",
-    "CS Notes/DB & DM CM12004/DM/Number Systems.md",
-    "CS Notes/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
-    "Obsidian Hacks.md",
-    "CS Notes/DB & DM CM12004/Querying A DataBase.md",
-    "Templates/New notes Template.md",
+    "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md",
+    "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
     "CS Notes/Module Codes.md",
-    "CS Notes/DB & DM CM12004/DM/Divisibility of Integers.md",
-    "CS Notes/Architecture CM12002/Boolean Logic and Circuits.md",
-    "CS Notes/Architecture CM12002/Brief history of Computer.md",
-    "CS Notes/Architecture CM12002/Sequential Logic.md",
-    "CS Notes/Architecture CM12002/CM12002 Computer System Architecture.md",
-    "CS Notes/Architecture CM12002/Pipelining.md",
-    "CS Notes/DB & DM CM12004/DM/FSM Turing Machines.md",
-    "CS Notes/DB & DM CM12004/DM/Functions (maps).md",
-    "CS Notes/DB & DM CM12004/DM/Learning From Problelm Sheets.md",
-    "CS Notes/DB & DM CM12004/DM/Rational Numbers.md",
-    "CS Notes/DB & DM CM12004/DM/Relations.md",
-    "CS Notes/Architecture CM12002/FDE.md",
-    "CS Notes/M 4 Comp/CM12006 Mathematics of Computation.md",
-    "CS Notes/Progamming/Prog 2 CM12005/CM1005 Programming 2.md",
-    "CS Notes/Progamming/Prog 1 CM12003/Data Structures.md",
-    "CS Notes/DB & DM CM12004/Turing Machines.md",
-    "CS Notes/Architecture CM12002/IO.md",
+    "CS Notes/Semester 1/DB & DM CM12004/DB/CM12004 Databases.md",
+    "CS Notes/Semester 1/DB & DM CM12004/DB/Relational Algebra + SQL.md",
+    "CS Notes/Semester 1/DB & DM CM12004/DB/Quantifiers.md",
+    "CS Notes/Semester 1/DB & DM CM12004/DM/CM12004 Discrete Maths.md",
+    "CS Notes/Semester 1/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
+    "CS Notes/Semester 1/DB & DM CM12004/DM/Partial Orders.md",
+    "CS Notes/Semester 1/DB & DM CM12004/DB/Untitled.md",
+    "CM12004 Database Notes.pdf",
+    "CS Notes/Semester 1/DB & DM CM12004/DB/Data.md",
+    "CS Notes/Semester 1/Prog 1 CM12003/CM12003 Principles of Programming 1.md",
+    "CS Notes/Semester 2",
+    "CS Notes/Semester 1/AI CM12001/Adversarial Search.md",
+    "CS Notes/Semester 1/AI CM12001/CM12001 Artificial Intelligence 1.md",
+    "CS Notes/Semester 1/AI CM12001/Constraint Satisfaction.md",
+    "CS Notes/Semester 1/AI CM12001/What is AI.md",
+    "CS Notes/Semester 1/AI CM12001/Uniformed search.md",
+    "CS Notes/Semester 1/AI CM12001/The Turing Test.md",
+    "CS Notes/Semester 1/AI CM12001/Informed Search.md",
+    "CS Notes/Semester 1/AI CM12001",
+    "CS Notes/Semester 1/Architecture CM12002/IO.md",
+    "CS Notes/Semester 1/Architecture CM12002/Sequential Logic.md",
+    "CS Notes/Semester 1/Architecture CM12002/Pipelining.md",
+    "CS Notes/Semester 1/Architecture CM12002/Instructions.md",
+    "CS Notes/Semester 1/Architecture CM12002/FDE.md",
+    "CS Notes/Semester 1/Architecture CM12002/Implementing Arithmetic.md",
+    "CS Notes/Semester 1/Architecture CM12002/Data Storage.md",
+    "CS Notes/Semester 1/Architecture CM12002",
+    "CS Notes/Semester 1/DB & DM CM12004/DM",
+    "CS Notes/Semester 1/DB & DM CM12004/DB",
+    "CS Notes/Semester 1/DB & DM CM12004",
+    "CS Notes/Semester 2/M 4 Comp",
+    "CS Notes/Semester 2/Prog 2 CM12005",
+    "CS Notes/Semester 1/Prog 1 CM12003",
+    "Pasted image 20231121100246.png",
     "Pasted image 20231127135548.png",
     "Pasted image 20231121100403.png",
-    "Pasted image 20231121100246.png",
     "Strict vs normal Partial Order.png",
     "Attachments/BIn.png",
     "Attachments/Pasted image 20230104204531.png",
@@ -201,18 +222,8 @@
     "Attachments/Pasted image 20221129203619.png",
     "Attachments/Pasted image 20221129093252.png",
     "Attachments/Pasted image 20221128114739.png",
-    "Attachments/Problem sheet 1.pdf",
-    "Attachments/CM10311-Maths LN.pdf",
-    "CS Notes/Progamming/Prog 2 CM12005",
-    "CS Notes/Progamming/Prog 1 CM12003",
-    "CS Notes/Progamming",
-    "CS Notes/Prog CM12003/Prog 2 CM1200",
-    "CS Notes/Prog CM12003/Prog 1 CM12003",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "CS Notes/M 4 Comp/M 4 Comp",
-    "CS Notes/M 4 Comp/DM",
-    "CS Notes/M 4 Comp"
+    "Untitled.canvas"
   ]
 }

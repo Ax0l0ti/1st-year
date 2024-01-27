@@ -1,4 +1,4 @@
-# (Partial) Orders
+# Partial Orders
 ---
 *Date :*  14-11-2023 
 *Module :* #CM12004DM 
@@ -67,7 +67,7 @@ Examples:
 | Partial Order | Strict P.O  |
 | ------------- | ----------- |
 |   Reflexive   | Irreflexive |
-|   Symmetric   | Asymmetric  |
+|   Antisymmetric   | Asymmetric  |
 |   Transitive  | Transitive  |
 ### Maximal and minimal elements
 

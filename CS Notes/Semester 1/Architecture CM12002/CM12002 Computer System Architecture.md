@@ -54,7 +54,7 @@
 12. Interrupt/Direct Memory Access 
 13. Boolean Logic and Circuits 
 14. Simplifying Boolean Formulas 
-15. Karnaugh Maps 
+15. naugh Maps 
 16. Implementing Arithmetic 
 17. Sequential Logic 
 18. Flip-Flops 

@@ -20,6 +20,12 @@
 > [[#10. Extended Models]]
 > 
 --- 
+
+==the transition function δ is key:== ${– Q × Γ → Q × Γ × \{L, S, R\} }$
+	A machine is in a state $q ∈ Q$ and the head is over the tape at symbol $a ∈ Γ$, then after the move we are in a state $r ∈ Q$ with $b ∈ Γ$ replacing the a on the tape and the head has moved either left (L), Stay/Stop (S) or right (R)
+	
+e.g $δ \space q0 \times a → q1 \times b \times L$
+
 ## ChatGPT notes 
 
 ### Finite State Machines (FSM) and Turing Machines:

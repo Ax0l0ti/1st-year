@@ -16,7 +16,7 @@
 > 
 --- 
 
-There are two different kinds of ciurcuits:
+There are two different kinds of circuits:
 	- Combinational Logic
 	- [[Sequential Logic]]
 
@@ -35,7 +35,7 @@ There are three fundamental logic operations:
 	- OR
 	- NOT
 
-Demorgan's laws 
+De Morgan's laws 
 $$
 \begin{array}{}
 \neg \neg A = A \text{ (double negation)} \\
