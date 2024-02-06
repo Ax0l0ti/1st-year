@@ -1,20 +1,20 @@
 # The Java programming language
 ---
 *Date :*  15-11-2023 
-*Module :* #CM12003 
+*Module :* #CM12005 
 *Teacher*: 
 *Resources :*
 
 ---
 ##### Contents: 
-> [[# ]]
-> [[# ]]
+> [[#Inheritance]]
+> [[#Polymorphism]]
 > [[# ]]
 > 
 --- 
 
-### Inheritence
->Inheritence allows the definition of classes as extensions of other classes. 
+### Inheritance
+>Inheritance allows the definition of classes as extensions of other classes. 
 
 ![[Pasted image 20221129112214.png | 500]]
 
@@ -53,14 +53,14 @@ public class Video{
 }
 ```
 
-Using inheritence we can:
+Using inheritance we can:
 	- define one superclass - ITEM
 	- define subclasses for video and musicFile
 	- Superclass defines common attributes
 	- The subclasses inherit the superclass attributes
 	- The subclasses add own attributes
 
-So we write the following code of the Item clas (which will be our superclass):
+So we write the following code of the Item class (which will be our superclass):
 ```Java
 public class Item{ 
 	private String Title; 

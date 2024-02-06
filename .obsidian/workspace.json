@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
+                "file": "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CM12004",
+                "query": "tag:#CM12003",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md"
+                "file": "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
+                "file": "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
+                "file": "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,18 +177,25 @@
   "active": "e93ee4d8fe028bab",
   "lastOpenFiles": [
     "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md",
+    "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md",
+    "CS Notes/Semester 1/Prog 1 CM12003/Programming.md",
+    "CS Notes/Semester 1/Prog 1 CM12003/The C programming language.md",
+    "CS Notes/Semester 1/Prog 1 CM12003/Data Structures.md",
+    "CS Notes/Semester 1/Prog 1 CM12003/CM12003 Principles of Programming 1.md",
+    "CS Notes/Semester 2/M 4 Comp/Old M4CLN.md",
+    "DMLec129LN.pdf",
+    "MfCLN.pdf",
     "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
-    "CS Notes/Module Codes.md",
+    "CS Notes/Semester 1/DB & DM CM12004/DM/CM12004 Discrete Maths.md",
     "CS Notes/Semester 1/DB & DM CM12004/DB/CM12004 Databases.md",
+    "CS Notes/Module Codes.md",
     "CS Notes/Semester 1/DB & DM CM12004/DB/Relational Algebra + SQL.md",
     "CS Notes/Semester 1/DB & DM CM12004/DB/Quantifiers.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DM/CM12004 Discrete Maths.md",
     "CS Notes/Semester 1/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
     "CS Notes/Semester 1/DB & DM CM12004/DM/Partial Orders.md",
     "CS Notes/Semester 1/DB & DM CM12004/DB/Untitled.md",
     "CM12004 Database Notes.pdf",
     "CS Notes/Semester 1/DB & DM CM12004/DB/Data.md",
-    "CS Notes/Semester 1/Prog 1 CM12003/CM12003 Principles of Programming 1.md",
     "CS Notes/Semester 2",
     "CS Notes/Semester 1/AI CM12001/Adversarial Search.md",
     "CS Notes/Semester 1/AI CM12001/CM12001 Artificial Intelligence 1.md",
@@ -200,18 +207,11 @@
     "CS Notes/Semester 1/AI CM12001",
     "CS Notes/Semester 1/Architecture CM12002/IO.md",
     "CS Notes/Semester 1/Architecture CM12002/Sequential Logic.md",
-    "CS Notes/Semester 1/Architecture CM12002/Pipelining.md",
-    "CS Notes/Semester 1/Architecture CM12002/Instructions.md",
-    "CS Notes/Semester 1/Architecture CM12002/FDE.md",
-    "CS Notes/Semester 1/Architecture CM12002/Implementing Arithmetic.md",
-    "CS Notes/Semester 1/Architecture CM12002/Data Storage.md",
     "CS Notes/Semester 1/Architecture CM12002",
     "CS Notes/Semester 1/DB & DM CM12004/DM",
     "CS Notes/Semester 1/DB & DM CM12004/DB",
     "CS Notes/Semester 1/DB & DM CM12004",
     "CS Notes/Semester 2/M 4 Comp",
-    "CS Notes/Semester 2/Prog 2 CM12005",
-    "CS Notes/Semester 1/Prog 1 CM12003",
     "Pasted image 20231121100246.png",
     "Pasted image 20231127135548.png",
     "Pasted image 20231121100403.png",
