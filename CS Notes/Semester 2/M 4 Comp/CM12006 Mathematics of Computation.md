@@ -1,15 +1,23 @@
 # Maths for Computation
 ---
-*Date :* DD-MM-YYYY
-*Module :* 
+*Date :* km
+*Module :* #CM12006 
 *Teacher*: 
-*Resources :*
+*Resources :* [[MfCLN.pdf]]
 
 ---
 ##### Contents: 
 > [[# ]]  [[#ChatGPT notes]]
-> [[#]]
-> [[# ]]
+> Matrix Nonsense 
+> 	[[Matrix Detriments]]
+> 	[[Inverting matrixes]]
+> 	[[Eigen vectors & Eigen values]]
+> 	[[Gaussian Elimination]]
+> 	[[Stuff in Vector Space]]
+> [[Taylor & Maclaurin]]
+> [[Function Classification]]
+> [[Number Theory]]
+> [[Basic Cryptography]]
 > 
 ---
 

@@ -7,20 +7,30 @@
 
 ---
 ##### Contents: 
-> [[What is AI ]]
-> [[The Turing Test ]]
-> [[AI Ethics ]]
-> [[Uniformed search]]
-> [[Informed Search]]
-> [[Constraint Satisfaction]]
-> [[Adversarial Search]]
-> [[Introduction to Probability]]
-> [[Marko Decision Procedures]]
-> [[Bayesian Networks]]
-> 
+> Sem 1 
+> 	[[What is AI ]]
+> 	[[The Turing Test ]]
+> 	[[AI Ethics ]]
+> 	[[Uniformed search]]
+> 	[[Informed Search]]
+> 	[[Constraint Satisfaction]]
+> 	[[Adversarial Search]]
+> Sem 2
+> 	[[Introduction to Probability]]
+> 	[[Marko Decision Processes]] (MDPs)
+> 	[[MDPs & Value Iteration]]
+> 	[[Intro to ML & Supervised Learning]]
+> 	[[Unsupervised Learning]]
+> 	[[Bayesian Networks]]
+
+![[CM12001Sem2TimeTable.png]]
+
+![[CM12001Sem2Resourse.png]]
 --- 
 Personal docs -
 [Artificial intelligence 1 (CM12001) - Google Docs](https://docs.google.com/document/d/1nrCzg7MEdW4LlPq_MH_gmKbdoNPdtw_H72zo477RQxo/edit#heading=h.4chf0znkme2v) 
+
+
 # Coursework
 ###### Coursework 1 (30%)
 Python Based

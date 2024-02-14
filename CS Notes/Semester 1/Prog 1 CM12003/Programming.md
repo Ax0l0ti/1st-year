@@ -159,30 +159,8 @@ Encapsulation usually means wrapping a piece of code in a function.
 
 ### Generalisation
 Generalisation means taking something specific and making it more general. 
-
-
-
-
- 
-
-
-
- 
-
-
-
- 
-
-
-
-
-
-
-
-
-
 ### Complex datatypes
-Complex datatype is a dataype that is made of one or more other datatypes. e.g. Array
+Complex datatype is a datatype that is made of one or more other datatypes. e.g. Array
 
 Complex datatypes are useful because: 
 	- Collect together data in useful ways

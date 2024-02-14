@@ -7,8 +7,11 @@
 
 ---
 ##### Contents: 
-> [[# ]]
-> [[# ]]
+> [[#Commenting]]
+> [[#Data types in C]]
+> [[#Conditionals]]
+> [[#Arrays]]
+> [[#Pointers]]
 > [[# ]]
 > 
 --- 
@@ -85,6 +88,11 @@ A function in C is built by giving:
 <return type> <function name>(<parameters){
 	<function body>
 	return <return values>
+}
+e.g 
+int scramble( int eggs ) {
+
+	return 69
 }
 ```
 
@@ -204,8 +212,40 @@ When * is found in a variable declaration, it denotes a pointer variable that po
 **&** gives the memory address (e.g. 0x6ffcd8) of a variable
 
 ```C
-int a = 3; 
-printf ("%d␣%p\n", a , & a ) ;
+int n = 10;
+printf("n = %d and address %p", n, &n);
 
-// The code prints the following : 3 0 x7fff6e890304
+is exactly the same as
+
+int n = 10;
+int* p = &n;
+printf("n = %d and address %p", n, p);
+
+// The code prints the following : 10 0x7fff6e890304
 ```
+#### Pointer to a pointer 
+``` C
+int a; // Basic integer 
+int *a; // Pointer to int
+int **a; // pointer to address of pointer to int
+```
+
+### Pass by reference Vs Pass by Value 
+
+| Pass by reference                                                                                                | Pass by Value - ==C language==                                       |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| assigning w a variable passes the refrerence address of that value                                               | assigning w a variable passes the actual value held in that variable |
+| e.g<br>EVERYTHING is pass by value. but ==we can simulate PbR via Pointers==<br><br><br>\\\\ PbV but a can now be used for reference<br>int \*a = &n<br> | e.g<br><br>``` C<br>int n = 10;<br>```                               |
+|                                                                                                                  |                                                                      |
+#### You can add to pointers 
+
+``` C
+\\ pointers can simply be incrimented
+int *p = &n;
+p = p + 1;
+
+```
+
+
+
+![[DeepCopyViaPassByVal.png]]

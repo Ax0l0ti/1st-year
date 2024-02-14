@@ -36,11 +36,11 @@ Below is a characteristic table for the SR latch above. It shows the Set (S) and
 ![[Pasted image 20230104204531.png | 300]]
 
 ###### Problems with simple SR Latches
-- Asynchrous transitions
-	- Circuts with several components, output states depend on the order in which changes to inputs occur
+- Asynchronous transitions
+	- Circuits with several components, output states depend on the order in which changes to inputs occur
 	- Solution: Use a clock input to enable/disable transition, yielding a gated latch or flip-flop. 
 - Non-deterministic transitions associated with certain inputs
-	- Solution: avoid states leading to such transistions by adding gates to control the inputs. 
+	- Solution: avoid states leading to such transitions by adding gates to control the inputs. 
 
 ### Flip-Flops
 Flip-flops introduce a clock to latches: this synchronises state transitions across sequential logic circuits.
@@ -73,6 +73,7 @@ The J-K flip-flop is a universal flip-flop: It can behave as an SR flip-flop or 
 There are two types of registers:
 	- Parallel registers (normal registers)
 	- Shift registers (to implement shift operation)
+	- TODO 
 
 ###### Parallel Register
 - Consists of 1-bit memories that can be read or written simultaneously

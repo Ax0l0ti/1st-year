@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md",
+                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CM12003",
+                "query": "pruning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -83,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md"
+                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md"
               }
             }
           },
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.50260543823242
+    "width": 200
   },
   "right": {
     "id": "c3550d6260ac942e",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md",
+                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md",
+                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,52 +177,52 @@
   },
   "active": "e93ee4d8fe028bab",
   "lastOpenFiles": [
+    "MfCCW1.pdf",
     "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md",
-    "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md",
-    "CS Notes/Semester 1/Prog 1 CM12003/Programming.md",
+    "CS Notes/Semester 1/AI CM12001/Adversarial Search.md",
     "CS Notes/Semester 1/Prog 1 CM12003/The C programming language.md",
-    "CS Notes/Semester 1/Prog 1 CM12003/Data Structures.md",
+    "DeepCopyViaPassByVal.png",
+    "Pasted image 20240213155907.png",
+    "PointerCode.png",
     "CS Notes/Semester 1/Prog 1 CM12003/CM12003 Principles of Programming 1.md",
-    "CS Notes/Semester 2/M 4 Comp/Old M4CLN.md",
-    "DMLec129LN.pdf",
-    "MfCLN.pdf",
+    "CS Notes/Semester 1/Prog 1 CM12003/Programming.md",
     "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
+    "CS Notes/Semester 1/AI CM12001/CM12001 Artificial Intelligence 1.md",
+    "CM12001Sem2Resourse.png",
+    "CM12001Sem2TimeTable.png",
+    "CS Notes/Semester 2/M 4 Comp/Inverting matrixes.md",
+    "CS Notes/Semester 2/M 4 Comp/Matrix Detriments.md",
+    "CS Notes/Semester 1/Prog 1 CM12003/Data Structures.md",
+    "CS Notes/Semester 1/DB & DM CM12004/DB/Data.md",
+    "CS Notes/Semester 1/AI CM12001/Uniformed search.md",
+    "CS Notes/Semester 1/AI CM12001/Introduction to Probability.md",
+    "Templates/New notes Template.md",
+    "FDE cycle.png",
+    "Pasted image 20231121100403.png",
+    "Constraint Satisfaction.png",
+    "Obsidian Hacks.md",
+    "DMLec129LN.pdf",
+    "CM12004 Database Notes.pdf",
+    "MfCLN.pdf",
+    "CS Notes/Semester 1/Architecture CM12002/Sequential Logic.md",
+    "RunDownOfUniDetMethod.png",
+    "StolenDetrimentDefintion.png",
+    "CS Notes/Semester 2/M 4 Comp/Old M4CLN.md",
+    "CS Notes/Module Codes.md",
+    "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md",
     "CS Notes/Semester 1/DB & DM CM12004/DM/CM12004 Discrete Maths.md",
     "CS Notes/Semester 1/DB & DM CM12004/DB/CM12004 Databases.md",
-    "CS Notes/Module Codes.md",
     "CS Notes/Semester 1/DB & DM CM12004/DB/Relational Algebra + SQL.md",
     "CS Notes/Semester 1/DB & DM CM12004/DB/Quantifiers.md",
     "CS Notes/Semester 1/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
     "CS Notes/Semester 1/DB & DM CM12004/DM/Partial Orders.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DB/Untitled.md",
-    "CM12004 Database Notes.pdf",
-    "CS Notes/Semester 1/DB & DM CM12004/DB/Data.md",
     "CS Notes/Semester 2",
-    "CS Notes/Semester 1/AI CM12001/Adversarial Search.md",
-    "CS Notes/Semester 1/AI CM12001/CM12001 Artificial Intelligence 1.md",
-    "CS Notes/Semester 1/AI CM12001/Constraint Satisfaction.md",
-    "CS Notes/Semester 1/AI CM12001/What is AI.md",
-    "CS Notes/Semester 1/AI CM12001/Uniformed search.md",
-    "CS Notes/Semester 1/AI CM12001/The Turing Test.md",
-    "CS Notes/Semester 1/AI CM12001/Informed Search.md",
     "CS Notes/Semester 1/AI CM12001",
-    "CS Notes/Semester 1/Architecture CM12002/IO.md",
-    "CS Notes/Semester 1/Architecture CM12002/Sequential Logic.md",
     "CS Notes/Semester 1/Architecture CM12002",
     "CS Notes/Semester 1/DB & DM CM12004/DM",
     "CS Notes/Semester 1/DB & DM CM12004/DB",
     "CS Notes/Semester 1/DB & DM CM12004",
     "CS Notes/Semester 2/M 4 Comp",
-    "Pasted image 20231121100246.png",
-    "Pasted image 20231127135548.png",
-    "Pasted image 20231121100403.png",
-    "Strict vs normal Partial Order.png",
-    "Attachments/BIn.png",
-    "Attachments/Pasted image 20230104204531.png",
-    "Attachments/Pasted image 20221212113528.png",
-    "Attachments/Pasted image 20221129203619.png",
-    "Attachments/Pasted image 20221129093252.png",
-    "Attachments/Pasted image 20221128114739.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
