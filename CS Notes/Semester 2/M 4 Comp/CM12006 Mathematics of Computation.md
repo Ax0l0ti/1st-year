@@ -2,23 +2,30 @@
 ---
 *Date :* km
 *Module :* #CM12006 
-*Teacher*: 
-*Resources :* [[MfCLN.pdf]]
+*Teacher*:  
+*Resources :* 
+	[[MfCLN.pdf]]
+	[[]]
 
 ---
 ##### Contents: 
-> [[# ]]  [[#ChatGPT notes]]
-> Matrix Nonsense 
+> Matrix Nonsense:
 > 	[[Matrix Detriments]]
-> 	[[Inverting matrixes]]
-> 	[[Eigen vectors & Eigen values]]
+> 	[[Inverting matrices]]
+> 	[[Cramer's Rule]]
+> 	[[Eigen vectors & Eigen values]] #TODO 
 > 	[[Gaussian Elimination]]
+> 	[[Cramer's Rule]]
 > 	[[Stuff in Vector Space]]
-> [[Taylor & Maclaurin]]
-> [[Function Classification]]
-> [[Number Theory]]
-> [[Basic Cryptography]]
-> 
+> Pure Mathematics 
+> 	[[Taylor & Maclaurin]] #TODO look at txtbook 
+> 	[[Function Classification]]
+> 	[[Number Theory]]
+> The name is pretty obvious
+> 	[[Basic Cryptography]]
+> Coursework
+> 	[[MfCCW1.pdf]]
+> 	[[MfCCW2.pdf]]
 ---
 
 

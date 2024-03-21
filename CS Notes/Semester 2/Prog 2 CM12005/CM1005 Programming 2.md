@@ -2,7 +2,7 @@
 ---
 
 *Module :* #CM12005
-*Teacher*: #
+*Teacher*: 
 *Resources :*
 
 ---
@@ -24,18 +24,5 @@ Recommends ChatGPT use responsibly
 | **Content:** | Example topics include: introduction to a large-scale OOP language such as **Java**, introduction to data structures and algorithms, event handling and error handling, basic **multi-threading** and networking, basic software engineering, incremental development and Agile. |
 |  |  |
 
-
----
-# ChatGPT notes
-
-### prompt
-
-
-
-### response
-
-
-
---- 
 
 # Resources 

@@ -7,21 +7,7 @@
 
 ---
 ##### Contents: 
-> [[# ]]  [[#ChatGPT notes]]
-> [[# ]]
-> [[# ]]
-> 
---- 
-### ChatGPT notes 
-
-Prompt : 
-
-Response : 
+ > [[#]]
 
 --- 
 
-### Heading
-
-**bold**
-- bul
-normal 

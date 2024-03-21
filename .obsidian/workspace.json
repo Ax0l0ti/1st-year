@@ -20,18 +20,25 @@
             }
           },
           {
+            "id": "72694850065dbc94",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "b5bb87f66d41ac9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Obsidian Hacks.md",
-                "mode": "source",
-                "source": false
+                "file": "CSysArchLN1.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pruning",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,54 +178,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e93ee4d8fe028bab",
+  "active": "72694850065dbc94",
   "lastOpenFiles": [
-    "MfCCW1.pdf",
-    "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md",
-    "CS Notes/Semester 1/AI CM12001/Adversarial Search.md",
-    "CS Notes/Semester 1/Prog 1 CM12003/The C programming language.md",
-    "DeepCopyViaPassByVal.png",
-    "Pasted image 20240213155907.png",
-    "PointerCode.png",
-    "CS Notes/Semester 1/Prog 1 CM12003/CM12003 Principles of Programming 1.md",
-    "CS Notes/Semester 1/Prog 1 CM12003/Programming.md",
-    "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
-    "CS Notes/Semester 1/AI CM12001/CM12001 Artificial Intelligence 1.md",
-    "CM12001Sem2Resourse.png",
-    "CM12001Sem2TimeTable.png",
-    "CS Notes/Semester 2/M 4 Comp/Inverting matrixes.md",
-    "CS Notes/Semester 2/M 4 Comp/Matrix Detriments.md",
-    "CS Notes/Semester 1/Prog 1 CM12003/Data Structures.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DB/Data.md",
-    "CS Notes/Semester 1/AI CM12001/Uniformed search.md",
-    "CS Notes/Semester 1/AI CM12001/Introduction to Probability.md",
-    "Templates/New notes Template.md",
-    "FDE cycle.png",
-    "Pasted image 20231121100403.png",
-    "Constraint Satisfaction.png",
-    "Obsidian Hacks.md",
-    "DMLec129LN.pdf",
-    "CM12004 Database Notes.pdf",
-    "MfCLN.pdf",
-    "CS Notes/Semester 1/Architecture CM12002/Sequential Logic.md",
-    "RunDownOfUniDetMethod.png",
-    "StolenDetrimentDefintion.png",
-    "CS Notes/Semester 2/M 4 Comp/Old M4CLN.md",
+    "CS Notes/AIChS.md",
+    "CS Notes/MfCChS.md",
     "CS Notes/Module Codes.md",
-    "CS Notes/Semester 2/Prog 2 CM12005/Java programming language.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DM/CM12004 Discrete Maths.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DB/CM12004 Databases.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DB/Relational Algebra + SQL.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DB/Quantifiers.md",
-    "CS Notes/Semester 1/DB & DM CM12004/CM12004 Discrete Mathematics and Databases.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DM/Partial Orders.md",
+    "CS Notes/CSysyChS.md",
+    "CS Notes/Resources.md",
+    "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
+    "Attachments/CM10194 - SA1 LN.pdf",
+    "CSysArchLN1.pdf",
+    "Templates/New notes Template.md",
+    "Templates/Format cheat sheet.md",
+    "Templates/List of Shortcuts.md",
+    "Templates/Obsidian Hacks.md",
+    "CS Notes/Semester 1/AI CM12001/CM12001 Artificial Intelligence 1.md",
+    "CS Notes/Semester 1/AI CM12001/Constraint Satisfaction.md",
+    "CS Notes/Semester 1/AI CM12001/MDPs & Value Iteration.md",
+    "CS Notes/Semester 1/AI CM12001/Adversarial Search.md",
+    "CS Notes/Semester 1/AI CM12001/What is AI.md",
+    "CS Notes/Semester 2/M 4 Comp/Inverting matrices.md",
+    "CS Notes/Semester 2/M 4 Comp/Eigen vectors & Eigen values.md",
+    "CS Notes/Semester 2/M 4 Comp/Gaussian Elimination.md",
+    "CS Notes/Semester 2/M 4 Comp/Problem Sheet 1 M4Comp.md",
+    "Attachments/MfCCW2.pdf",
+    "Attachments/MfCompCW2.pdf.crdownload",
+    "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md",
+    "Attachments/CM12001Sem2Resourse.png",
+    "Attachments/CM12004 Database Notes.pdf",
+    "CSysArchLN2.pdf",
+    "Attachments/WTF box.png",
+    "Attachments/Von Neumann vs Harvard.png",
+    "Attachments/StolenDetrimentDefintion.png",
+    "Attachments/RunDownOfUniDetMethod.png",
+    "Attachments/PointerCode.png",
+    "Attachments/Copying Arrays.png",
+    "MfCCW1.pdf",
+    "MfCLN.pdf",
+    "Attachments/DeepCopyViaPassByVal.png",
+    "Attachments/DMLec129LN.pdf",
+    "CS Notes/CM12002 - SA1 LN.pdf.md",
+    "CS Notes/Semester 2/M 4 Comp/Cramer's Rule.md",
+    "CS Notes/Semester 2/M 4 Comp/Matrix Detriments.md",
+    "c53430c6efce025a9bb8fc7cd6e4983c0f3b10ad.svg",
+    "Attachments/CM12001Sem2TimeTable.png",
+    "CS Notes/Semester 1/AI CM12001/Uniformed search.md",
+    "CS Notes/Semester 1/DB & DM CM12004/DM/Number Systems.md",
     "CS Notes/Semester 2",
-    "CS Notes/Semester 1/AI CM12001",
-    "CS Notes/Semester 1/Architecture CM12002",
-    "CS Notes/Semester 1/DB & DM CM12004/DM",
-    "CS Notes/Semester 1/DB & DM CM12004/DB",
-    "CS Notes/Semester 1/DB & DM CM12004",
-    "CS Notes/Semester 2/M 4 Comp",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
