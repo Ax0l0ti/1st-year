@@ -5,7 +5,6 @@
 *Teacher*:  
 *Resources :* 
 	[[MfCLN.pdf]]
-	[[]]
 
 ---
 ##### Contents: 

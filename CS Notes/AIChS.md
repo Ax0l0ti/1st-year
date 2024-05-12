@@ -1,8 +1,9 @@
 #TODO 
-# T 
+# AI Cheat Sheet
 ---
 ### Link: 
- > l
+ > #CM12001 
+ > [[CM12001 Artificial Intelligence 1]]
 
 ---
 ### Speed run 

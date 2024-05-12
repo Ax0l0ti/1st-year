@@ -13,7 +13,6 @@ Examed [[AIChS]] [[MfCChS]] [[CSysyChS]]
 > [[#Discrete Mathematics]]
 > [[#Programming 2]]
 > [[#Mathematics for Computation]]
-
 --- 
 # AI 
 [[CM12001 Artificial Intelligence 1]]

@@ -1,8 +1,9 @@
 #TODO 
-# T 
+# Computer System Architecture Cheat Sheet 
 ---
 ### Link: 
- > l
+ > #CM12002 
+ > [[CM12002 Computer System Architecture]]
 
 ---
 ### Speed run 

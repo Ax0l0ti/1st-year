@@ -3,7 +3,7 @@
 *Date :*  03-10-2023 
 *Module :* #CM12002
 *Teacher*: [Fabio Nemetz](https://moodle.bath.ac.uk/user/profile.php?id=490)
-*Resources :* [[CM12002 - SA1 LN.pdf | Lecture Notes 01 ]] , [[arduino_projects_book.pdf |Arduino Booklet]]
+*Resources :* [[CM12002 - SA1 LN.pdf | Lecture Notes 01 ]] , [[arduino_projects_book.pdf |Arduino Booklet]], [[CSysArchLN1.pdf]], [[CSysArchLN2.pdf]]
 *Past Papers :* [Past Papers - OneDrive](https://computingservices-my.sharepoint.com/personal/sb3250_bath_ac_uk/_layouts/15/onedrive.aspx?login_hint=sb3250%40bath%2Eac%2Euk&id=%2Fpersonal%2Fsb3250%5Fbath%5Fac%5Fuk%2FDocuments%2FResources%2FSystem%20Architecture%2FPast%20Papers)
 
 ---

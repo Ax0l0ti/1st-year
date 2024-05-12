@@ -1,9 +1,9 @@
 # Format cheat sheet
 ---
 
- | **Bold** | *Italics* |
- | -------- | -------- |
- | ***Bold & Italics*** | ==Highlight== |
+|     | **Bold**             | *Italics*     |
+| --- | -------------------- | ------------- |
+|     | ***Bold & Italics*** | ==Highlight== |
 
  |  |  |
  | ---- | ----- |

@@ -61,8 +61,3 @@ c & d\\
 ##### How tf 2x2 works out in Uni terms 
  So the fancy formula is $\det A = (-1)^{i+1}a_{i1} \det A_{i1} + (-1)^{i+j}a_{ij} \det A_{ij} + ~...~ + (-1)^{i+n}a_{in} \det A_{in}$
  But this is basically $\det A = first + other ~ columns + final$
-
- ---
-
-### Det of 3x3 Matrix
-
