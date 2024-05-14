@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md",
+                "file": "CS Notes/MfCChS.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md"
+                "file": "CS Notes/MfCChS.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md",
+                "file": "CS Notes/MfCChS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md",
+                "file": "CS Notes/MfCChS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,6 +176,7 @@
   "active": "d749193829ebb712",
   "lastOpenFiles": [
     "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
+    "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md",
     "CS Notes/MfCChS.md",
     "CS Notes/Semester 1/DB & DM CM12004/DM/Elements of math logic.md",
     "CS Notes/Semester 1/DB & DM CM12004/DM/Functions (maps).md",
@@ -189,7 +190,6 @@
     "CS Notes/Semester 1/DB & DM CM12004/DB/Quantifiers.md",
     "CS Notes/Semester 1/DB & DM CM12004/DB/Database Design.md",
     "CS Notes/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
-    "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md",
     "CS Notes/Semester 2/M 4 Comp/Inverting matrices.md",
     "CS Notes/Semester 2/M 4 Comp/Gaussian Elimination.md",
     "CS Notes/Semester 2/M 4 Comp/Function Classification.md",

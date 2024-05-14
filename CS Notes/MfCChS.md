@@ -16,8 +16,8 @@
 	$b)$ **==Maclurin series==** is a **rip off** of **Taylor** where $a = 0$ 
 		$i)$ - Equation $f(x) = f(0) + xf'(0) + { {x^2f''(0)}\over{2!} } + ... + {{x^nf^n(0)}\over{n!} }$
 	$c)$ $\delta/\epsilon$ Method for Continuity
-		**Formula**: Prove $f$  @ $c$ by showing:
-	    $∀ϵ>0,∃δ>0,∣x−c∣<δ⟹∣f(x)−f(c)∣<ϵ$
+		**for** $∣x−c∣<δ$ **prove** $∣f(x)−f(c)∣<ϵ$
+			**Notation**: $∀ϵ>0,∃δ>0,∣x−c∣<δ⟹∣f(x)−f(c)∣<ϵ$
 	$d)$ ==**Vector Span**==
 		**Definition**: Span of $\{v1​,v2​,...,vk​\}$ is all combinations $a1​v1​+a2​v2​+...+ak​vk​$.
 		Make Matrix, **TRANSPOSE** the n **REDUCE** before solving 
