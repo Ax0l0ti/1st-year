@@ -4,6 +4,7 @@
 *Teacher*: 
 Examed [[AIChS]] [[MfCChS]] [[CSysyChS]]
 
+
 ---
 ##### Contents: 
 > [[# ]]  [[#AI]]
@@ -19,6 +20,7 @@ Examed [[AIChS]] [[MfCChS]] [[CSysyChS]]
 Cheat sheet - [[AIChS]]
 #### Sem 1 
 
+No exam
 #### Sem 2
 
 EXAMED 
@@ -30,31 +32,29 @@ Cheat sheet - [[CSysyChS]]
 #### Sem 1 
 > 	[[CSysArchLN1.pdf]]
  >	[[CSysArchLN2.pdf]]
-
+ 
+no exam 
+#### Sem 2
 EXAMED 
 
 ---
 ## Programming 1
-[[CM12003 Principles of Programming 1]]
-#### Sem 1 
+[[CM12003 Programming 1]]
 
 ---
 ## Databases
 [[CM12004 Databases]]
-#### Sem 1 
 [[CM12004 Database Notes.pdf]]
 
 ---
 ## Discrete Mathematics
 [[CM12004 Discrete Maths]]
-#### Sem 1 
+Discrete Maths Lecture notes 1 to 9
 [[DMLec129LN.pdf]]
-
 
 ---
 ## Programming 2
 [[CM1005 Programming 2]]
-#### Sem 2
 
 ---
 ## Mathematics for Computation
@@ -62,7 +62,6 @@ EXAMED
 Cheat sheet - [[MfCChS]]
 #### Sem 2
 	[[MfCLN.pdf]]
-
 #### Coursework
 	[[MfCCW1.pdf]]
 	[[MfCCW2.pdf]]

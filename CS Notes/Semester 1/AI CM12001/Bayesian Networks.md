@@ -1,4 +1,4 @@
-# title 
+Bayesian Networks
 ---
 *Date :* DD-MM-YYYY
 *Module :* 
@@ -18,4 +18,3 @@
 	$c)$ - 
 ---
 #TODO 
-#Structuring

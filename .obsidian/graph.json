@@ -5,18 +5,54 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#PNode  ",
+      "color": {
+        "a": 1,
+        "rgb": 1029083
+      }
+    },
+    {
+      "query": "file: Resources",
+      "color": {
+        "a": 1,
+        "rgb": 530407
+      }
+    },
+    {
+      "query": "tag:#CheatSheet  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "tag:#Structuring  ",
+      "color": {
+        "a": 1,
+        "rgb": 12320512
+      }
+    },
+    {
+      "query": "tag:#TODO  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 311,
-  "scale": 0.8684659406763057,
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.8205450951127715,
+  "close": false
 }

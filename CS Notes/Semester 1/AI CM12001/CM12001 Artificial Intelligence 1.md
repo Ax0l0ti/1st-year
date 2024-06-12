@@ -1,6 +1,5 @@
-# Artificial Intelligence
+Artificial Intelligence #PNode
 ---
-*Date :*  03-10-2023 
 *Module :* #CM12001
 *Teacher*: [Ben Ralph](https://moodle.bath.ac.uk/user/profile.php?id=71461), #EmelieBarman, #BenRalph, #NelloCWaffleMan 
 *Resources :*
@@ -17,7 +16,6 @@
 > 	[[Adversarial Search]]
 > Sem 2
 > 	[[Introduction to Probability]]
-> 	[[Marko Decision Processes]] (MDPs)
 > 	[[MDPs & Value Iteration]]
 > 	[[Intro to ML & Supervised Learning]]
 > 	[[Unsupervised Learning]]
@@ -31,28 +29,16 @@ Personal docs -
 [Artificial intelligence 1 (CM12001) - Google Docs](https://docs.google.com/document/d/1nrCzg7MEdW4LlPq_MH_gmKbdoNPdtw_H72zo477RQxo/edit#heading=h.4chf0znkme2v) 
 
 
-# Coursework
-###### Coursework 1 (30%)
-Python Based
-Deadline in week 12 (January)
-
-###### Coursework 2 (20%)
-Python Based
-Deadline in Week 6
-
-###### Coursework 3 (20%)
-Python Based
-
-###### Exam (30%)
-End of semester 2 (June)
-Multiple choice questions
-Closed Book 
+# Weightings
+| Coursework 1 (30%)                            | Coursework 2 (20%)                 | Coursework 3 (20%) | Exam (30%)                                                           |
+| --------------------------------------------- | ---------------------------------- | ------------------ | -------------------------------------------------------------------- |
+| Python Based<br>Deadline in week 12 (January) | Python Based<br>Deadline in Week 6 | Python Based       | End of semester 2 (June)<br>Multiple choice questions<br>Closed Book |
 
 ---
-# chatgpt 
+# ChatGPT 
 
 ### prompt
-please explain all of these topics > [[What is AI ]] > [[The Turing Test ]] > [[AI Ethics ]] > [[Uniformed search]] > [[Informed Search]] > [[Adversarial Search]] > [[Introduction to Probability]] > [[Marko Decission Procedures]] > [[Bayesian Networks]]
+please explain all of these topics > [[What is AI ]] > [[The Turing Test ]] > [[AI Ethics ]] > [[Uniformed search]] > [[Informed Search]] > [[Adversarial Search]] > [[Introduction to Probability]] > [[Bayesian Networks]]
 ### response
 
 Certainly! Let's start with the basics and gradually move towards more advanced topics.

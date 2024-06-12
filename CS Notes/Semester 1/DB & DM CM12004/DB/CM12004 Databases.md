@@ -1,7 +1,7 @@
-# CM12004 Databases
+# CM12004 Databases #PNode
 ---
 *Module :*  #CM12004DB
-*Teacher*: nah
+*Teacher*: nah bro he ain't real #Nicolai
 *Resources :* [[CM10311-Maths LN.pdf]], 
 *Past Papers*: [Past Papers - OneDrive](https://computingservices-my.sharepoint.com/personal/sb3250_bath_ac_uk/_layouts/15/onedrive.aspx?login_hint=sb3250%40bath%2Eac%2Euk&id=%2Fpersonal%2Fsb3250%5Fbath%5Fac%5Fuk%2FDocuments%2FResources%2FDiscrete%20Maths%2FPast%20Papers)
 

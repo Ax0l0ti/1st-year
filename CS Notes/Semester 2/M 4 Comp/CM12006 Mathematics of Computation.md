@@ -1,8 +1,7 @@
-# Maths for Computation
+# Maths for Computation #PNode
 ---
-*Date :* km
 *Module :* #CM12006 
-*Teacher*:  
+*Teacher*:  [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806) #Nicolai
 *Resources :* 
 	[[MfCLN.pdf]]
 
@@ -12,12 +11,12 @@
 > 	[[Matrix Detriments]]
 > 	[[Inverting matrices]]
 > 	[[Cramer's Rule]]
-> 	[[Eigen vectors & Eigen values]] #TODO 
+> 	[[Eigen vectors & Eigen values]] 
 > 	[[Gaussian Elimination]]
 > 	[[Cramer's Rule]]
 > 	[[Stuff in Vector Space]]
 > Pure Mathematics 
-> 	[[Taylor & Maclaurin]] #TODO look at txtbook 
+> 	[[Taylor & Maclaurin]] look at Alvl txtbook 
 > 	[[Function Classification]]
 > 	[[Number Theory]]
 > The name is pretty obvious

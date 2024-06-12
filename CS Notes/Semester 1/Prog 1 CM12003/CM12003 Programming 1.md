@@ -1,14 +1,13 @@
-# Principles of Programming 1
+# Programming 1 #PNode
 ---
 *Module :* #CM12003
 *Teacher*: #TheGoatHeijltjes , [Zack Lyons](https://moodle.bath.ac.uk/user/profile.php?id=25337)
-*Resources :*
 
 ---
 ##### Contents: 
 > [[Programming]]
 > [[The C programming language]]
-> [[# ]]
+> [[Data Structures]]
 > 
 --- 
 Personal docs - 

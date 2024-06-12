@@ -4,32 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1bd54cfa6ddfde2f",
+        "id": "d60a5fe2ce710ad9",
         "type": "tabs",
         "children": [
           {
-            "id": "d749193829ebb712",
+            "id": "a6922cb0aba8f0f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS Notes/MfCChS.md",
+                "file": "CS Notes/Semester 1/Architecture CM12002/Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6b440321f5fc1a5a",
+            "id": "6015965a426c4d54",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "CS Notes/Semester 1/AI CM12001/CM12001 Artificial Intelligence 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MfC",
+                "query": "Flip ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS Notes/MfCChS.md"
+                "file": "CS Notes/Semester 1/AI CM12001/CM12001 Artificial Intelligence 1.md"
               }
             }
           },
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS Notes/MfCChS.md",
+                "file": "CS Notes/Semester 1/AI CM12001/CM12001 Artificial Intelligence 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS Notes/MfCChS.md",
+                "file": "CS Notes/Semester 1/AI CM12001/CM12001 Artificial Intelligence 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,44 +176,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d749193829ebb712",
+  "active": "6015965a426c4d54",
   "lastOpenFiles": [
-    "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
-    "CS Notes/Semester 2/Prog 2 CM12005/CM1005 Programming 2.md",
-    "CS Notes/MfCChS.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DM/Elements of math logic.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DM/Functions (maps).md",
-    "CS Notes/Semester 1/DB & DM CM12004/DM/Partial Orders.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DM/Number Systems.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DM/Relations.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DM/Rational Numbers.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DM/Problem Sheet 2.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DM/Problem Sheet 1.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DB/Relational Algebra + SQL.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DB/Quantifiers.md",
-    "CS Notes/Semester 1/DB & DM CM12004/DB/Database Design.md",
-    "CS Notes/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
-    "CS Notes/Semester 2/M 4 Comp/Inverting matrices.md",
-    "CS Notes/Semester 2/M 4 Comp/Gaussian Elimination.md",
-    "CS Notes/Semester 2/M 4 Comp/Function Classification.md",
-    "CS Notes/Semester 2/M 4 Comp/Cramer's Rule.md",
-    "CS Notes/Semester 2/M 4 Comp/Eigen vectors & Eigen values.md",
-    "CS Notes/Semester 2/M 4 Comp/Matrix Detriments.md",
-    "CS Notes/Semester 1/Architecture CM12002/CM12002 Computer System Architecture.md",
-    "Attachments/VAN ENCKEVORT Noah - Course Change Form - April 2024 v1.pdf",
     "CS Notes/Semester 1/AI CM12001/CM12001 Artificial Intelligence 1.md",
-    "CS Notes/Semester 1/AI CM12001/Adversarial Search.md",
-    "Attachments/MfCCW2.pdf",
+    "CS Notes/Semester 1/AI CM12001/Bayesian Networks.md",
+    "Templates/New notes Template.md",
+    "Templates/Shortcuts.md",
+    "CS Notes/Semester 1/AI CM12001/MDPs & Value Iteration.md",
+    "CS Notes/Holy Grail/CSysyChS.md",
+    "CS Notes/Semester 1/Architecture CM12002/Architecture.md",
+    "CS Notes/Semester 1/Architecture CM12002/Boolean Logic and Circuits.md",
+    "Templates/Format cheat sheet.md",
     "CS Notes/Resources.md",
-    "CS Notes/AIChS.md",
-    "MfCCW1.pdf",
-    "CSysArchLN1.pdf",
-    "MfCLN.pdf",
+    "CS Notes/Holy Grail/MfCChS.md",
+    "CS Notes/Holy Grail/AIChS.md",
+    "CS Notes/Module Codes.md",
+    "CS Notes/Semester 1/Architecture CM12002/Sequential Logic.md",
+    "CS Notes/Semester 1/AI CM12001/Uniformed search.md",
+    "CS Notes/Semester 1/Prog 1 CM12003/Data Structures.md",
+    "CS Notes/Semester 1/Architecture CM12002/CM12002 Computer System Architecture.md",
+    "CS Notes/Semester 1/Architecture CM12002/CSysArchLN1.pdf",
+    "CS Notes/Semester 1/Architecture CM12002/CSysArchLN2.pdf",
+    "CS Notes/Semester 1/Architecture CM12002/Brief history of Computer.md",
+    "CS Notes/Semester 1/Architecture CM12002/IO.md",
+    "CS Notes/Semester 1/Architecture CM12002/Data Storage.md",
+    "CS Notes/Semester 1/Architecture CM12002/Data Representation.md",
+    "Templates/Playground/Untitled 1.canvas",
+    "Templates/Playground/Untitled.md",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Templates/New notes Template 1.md",
+    "Untitled.md",
+    "Templates/Playground",
+    "CS Notes/Semester 2/M 4 Comp/MfCLN.pdf",
+    "CS Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
+    "CS Notes/Semester 2/M 4 Comp/Eigen vectors & Eigen values.md",
+    "CS Notes/Semester 2/M 4 Comp/MfCCW1.pdf",
+    "CS Notes/Holy Grail",
+    "Attachments/VAN ENCKEVORT Noah - Course Change Form - April 2024 v1.pdf",
+    "Attachments/MfCCW2.pdf",
     "Attachments/CM10194 - SA1 LN.pdf",
     "Attachments/MfCompCW2.pdf.crdownload",
     "Attachments/CM12001Sem2Resourse.png",
-    "Attachments/CM12004 Database Notes.pdf",
-    "CSysArchLN2.pdf",
     "Attachments/WTF box.png",
     "Attachments/Von Neumann vs Harvard.png",
     "Attachments/StolenDetrimentDefintion.png",
@@ -218,11 +225,7 @@
     "Attachments/PointerCode.png",
     "Attachments/Copying Arrays.png",
     "Attachments/DeepCopyViaPassByVal.png",
-    "Attachments/DMLec129LN.pdf",
     "c53430c6efce025a9bb8fc7cd6e4983c0f3b10ad.svg",
-    "Attachments/CM12001Sem2TimeTable.png",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Attachments/CM12001Sem2TimeTable.png"
   ]
 }

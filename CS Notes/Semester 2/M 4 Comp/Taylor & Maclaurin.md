@@ -1,4 +1,4 @@
-# Taylor & Maclaurin #TODO 
+# Taylor & Maclaurin 
 ---
 *Date :* 22-03-24
 *Module :* #CM12006 

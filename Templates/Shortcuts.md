@@ -1,3 +1,12 @@
+# Shortcuts #Structuring
+---
+
+[[#System Shortcuts]]
+[[#File shortcuts]]
+
+--- 
+## System Shortcuts
+
 |    Shortcut Key    |                 Functions |
 |------------------| -------------------------|
 |      Ctrl + S      |    Editor: Saves the file |
@@ -17,8 +26,9 @@
 | Alt + Shift + Tab  |              Previous App |
 |     Win + Tab      |                 Task View |
 | Win + Shift + Tab  |               Next Window |
-|                    |                           |
 
+--- 
+## File shortcuts
 
 |               Shortcut Key                |                             Functions |
 |:-----------------------------------------:| -------------------------------------:|

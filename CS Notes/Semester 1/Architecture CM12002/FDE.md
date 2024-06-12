@@ -49,10 +49,6 @@ The contents of the MDR are then transported into the instruction register in pr
 
 By decoding the Instruction, this provides both the required function method and how many operands the CPU should fetch for the instruction’s opcode. This method is completed using a binary decoder commonly called the instruction decoder.
 
-  
-
 #### Execute
-
-  
 
 After the control unit calls the correspondent function for the opcode, the values of operands are passed to the CPU components for manipulation e.g operations like addition and subtraction.

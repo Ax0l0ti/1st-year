@@ -70,16 +70,16 @@ Questions:
 	- How can they be overcome?
 
 ###### Von Neumann Bottleneck
-The speed at which data and instructions can be retrieved from memory becomes a limit on which the speed of the processor can operate. The shared bus between the program memory and data memory leads to the Von Neumann bottleneck beacause program memory and data memory can not be accessed at the same time. 
+The speed at which data and instructions can be retrieved from memory becomes a limit on which the speed of the processor can operate. The shared bus between the program memory and data memory leads to the Von Neumann bottleneck because program memory and data memory can not be accessed at the same time. 
 
-Solutions:
+**Solutions**:
 	- Alternative architectures
 	- Minimise use of main memory
 		- Caching, 
 		- Internal registers
 
 ### The Harvard Architecture 
-The main idea behind harvard architecture to store data and instruction separately. This means that the CPU can access instructions and data simultaneously. 
+The main idea behind Harvard architecture to store data and instruction separately. This means that the CPU can access instructions and data simultaneously. 
 ![[Data movement of CPU.png| 300]]
 
 The Harvard architecture is useful:
@@ -100,21 +100,22 @@ Modifications made to the original Harvard Architecture:
 
 ### Caching
 
-Cache is a data sotre, which store data most often used by the CPUand is capable of more rapid access.
+Cache is a data store, which store data most often used by the CPU and is capable of more rapid access.
 Cache is closer to the CPU and faster than RAM. 
 ![[CPU w other components.png| 400]]
 
 #### Levels of Cache
-- Cache Level 1 (L1)
+- Cache Level 1 (**L1**)
 	- closest to the processor
 	- very fast, stores frequently used data by the CPU
-- Cache Level 2 (L2):
+- Cache Level 2 (**L2**):
 	- Slower than L1, but faster than main memory
 	- Larger than L1 cache
 - Main memory
 	- Larger and slower than cache
 ![[Simplified Computer.png| 200]]
 
+**NOTE** : Increasing Cache size increases volume of storable data in cache at cost of **Longer fetch time** from retrieving individual addresses. ( This is why there is a L1 for high priority quick fetch and L2 for mid priority and quickish fetch required )
 ### Registers
 
 Registers are rapid access data store on the CPU which stores values used in ongoing computations. It has the fastest possible access. 
@@ -125,7 +126,7 @@ Registers are rapid access data store on the CPU which stores values used in ong
 
 Parallelism is carrying out multiple operations simultaneously. 
 
-Von Neumann machine is a uniprocessor architecture whereas computers with multiple ALUs are known as multiprocessors. 
+==Von Neumann== machine is a ==uniprocessor== architecture whereas computers with multiple ALUs are known as multiprocessors. 
 
 Multiprocessing is usually faster but much more difficult to understand, control and predict. So there are alternatives depending on whether each ALU has:
 	- its own control unit (task level)
@@ -136,14 +137,12 @@ There are two possible control architectures for multiprocessors:
 	- Single instruction stream --> Single control unit issuing the same instruction to each ALU ![[Pasted image 20221017114327.png | 200]]
 Independent of the control architecture the ALUs may either all operate on the same data stream or each operate on a different data stream. 
 
-#### Flynn's Taxonomy (Task level x Data level)
+### Flynn's Taxonomy (Task level x Data level)
 ![[Pasted image 20221017114702.png]]
-
-
-###### SISD: Single Instruction Single Data
+##### SISD: Single Instruction Single Data
 uniprocessor architecture such as von Neumann or Harvard architecture ![[Pasted image 20221017115041.png]]
 
-###### SIMD: Single Instruction Multiple Data 
+##### SIMD: Single Instruction Multiple Data 
 Instructions are executed simultaneously. Same instruction from multiple memory locations. 
 e.g. 
 	- Supercomputer modelling (weather)
@@ -151,11 +150,11 @@ e.g.
 	- Graphics / audio applications
 ![[Pasted image 20221017115138.png]]
 
-###### MISD: Multiple Instruction Single Data
+##### MISD: Multiple Instruction Single Data
 Different operations on the same data. Used for Falult Tolerant Computing. e.g for Space shuttle flight control computers. 
 ![[Pasted image 20221017115550.png]]
 
-###### MIMD: Multiple Instruciton Multiple Data
+##### MIMD: Multiple Instruciton Multiple Data
 Multiple processors functioniong asynchronously and independently. e.g multi-core processors. 
 ![[Pasted image 20221017115742.png]]
 
@@ -170,7 +169,7 @@ There are two possible memory architectures:
 
 Shared memory:
 	- leads to memory-to-CPU bottlenecks
-	- Chach coherence becomes a problem 
+	- Cache coherence becomes a problem 
 	- because of the above they don't scale very well
 	- ![[Pasted image 20221017124459.png | 300]]
 	
@@ -180,7 +179,7 @@ Distributed memory:
 	- Distributing and reassembling the data is inefficient
 	- ![[Pasted image 20221017124545.png | 300]]
 
-- **Virtual shared memory** $\rightarrow$ Distributed memeoroy which "seems" shared to the CPUs. 
+- **Virtual shared memory** $\rightarrow$ Distributed memory which "seems" shared to the CPUs. 
 - **Non-uniform memory access (NUMA)** $\rightarrow$ shared memory which has parts which are faster for each CPU. 
 
 ### Limits of Parallelization

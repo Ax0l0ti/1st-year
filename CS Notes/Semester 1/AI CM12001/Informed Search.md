@@ -9,7 +9,7 @@
 ##### Contents: 
 > [[#Greedy Search]]
 > [[#Properties of Heuristics ]]
-> [[# ]]
+> [[#Hill climbing algorithm]]
 > 
 --- 
 
@@ -40,12 +40,14 @@ A* search uses a heuristic to measure the estimated cost of each node, but also 
 - With an admissible heuristic, an A* search will find the optimal solution
 - A heuristic is consistent if it satisfies 
 
-[picture](https://moodle.bath.ac.uk/pluginfile.php/1915608/mod_page/content/20/triangle%20inequality.png)
 
-Hill climbing algorithm
-- Start with a randomly generated state
-- Generate all possible neighbours and take the one with the best value
-- Repeat step 2 until none of the neighbours has a better value
+
+
+
+### Hill climbing algorithm
+1. Start with a randomly generated state
+2. Generate all possible neighbours and take the one with the best value
+3. Repeat **step 2** until none of the neighbours has a better value
 
 
 
