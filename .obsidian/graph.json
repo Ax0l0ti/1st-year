@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "tag:#LASTPOINT  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
       "query": "tag:#PNode  ",
       "color": {
         "a": 1,
@@ -40,13 +47,6 @@
       "color": {
         "a": 1,
         "rgb": 16711680
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
       }
     }
   ],

@@ -4,7 +4,8 @@
 > [[CM12006 Mathematics of Computation]]
 
 ---
-
+#TODO Grab Docus and feed to Chat - move to correct locs
+#LASTPOINT
 ## Polymorphism
 
 1. **Parametric Polymorphism**
