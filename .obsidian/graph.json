@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "file: Resources",
+      "query": "file: Resources ",
       "color": {
         "a": 1,
         "rgb": 530407
@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.88840830449827,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "collapse-forces": false,
+  "centerStrength": 0.285467128027682,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8205450951127715,
+  "scale": 0.2698031969073849,
   "close": false
 }
