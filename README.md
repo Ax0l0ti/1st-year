@@ -7,5 +7,5 @@ $a)$ Set up a semi-decent *Obsid Repo*
 $b)$ gives u a decent start on some lecture notes
 $c)$ ~~shows u how ==**NOT**== to do a *Obsid Repo*~~
 
-Also remember tags are ure besht fwend foreva 
+Also remember Obsid tags are the goat
 #Structuring
