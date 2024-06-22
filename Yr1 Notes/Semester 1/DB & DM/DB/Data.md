@@ -7,15 +7,15 @@
 
 ---
 ##### Contents: 
-> [[# ]]
-> [[# ]]
-> [[# ]]
-> 
+> [[#Flat file Databases]]
+> [[#Database management System (DBMS)]]
+> [[#Relational Databases]]
+> [[#Database vs DBMS]]
+> [[#History of databases summary]]
 --- 
 
-What is a database?
+**What is a database?**
 	A database is an organised collection of interrelated data that models some aspect of the real-world. 
-
 
 ### Flat file Databases
 A flat file database is a type of database that stores data in a single table. Flat file databases are generally in plain-text form, where each line holds only one record. The fields in the record are separated using delimiters such as tabs and commas.

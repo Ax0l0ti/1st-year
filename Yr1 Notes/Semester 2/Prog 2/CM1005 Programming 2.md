@@ -10,6 +10,7 @@ Basically learn to code. Low note content
 ##### Contents: 
 > [[#ChatGPT notes]]
 > [[Java programming language]]
+> [[Haskell]]
 > 
 ---
 

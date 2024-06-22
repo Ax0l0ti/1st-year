@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d7b82e609031a590",
+        "id": "a01c327879197f4b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7c318b40f7a0d89",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Yr1 Notes/Semester 2/M 4 Comp/MfCLN.pdf"
-              }
-            }
-          },
-          {
-            "id": "327e1908e0af0cb7",
+            "id": "b561d8abc44c38f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr1 Notes/Semester 1/Prog 1/Haskell.md",
+                "file": "Yr1 Notes/Semester 2/Prog 2/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23cde25ee4f60606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Number Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yr1 Notes/Semester 1/Prog 1/Haskell.md"
+                "file": "Number Theory.md"
               }
             }
           },
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yr1 Notes/Semester 1/Prog 1/Haskell.md",
+                "file": "Number Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yr1 Notes/Semester 1/Prog 1/Haskell.md",
+                "file": "Number Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,32 +167,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "327e1908e0af0cb7",
+  "active": "23cde25ee4f60606",
   "lastOpenFiles": [
-    "Yr1 Notes/Semester 1/Prog 1/Haskell.md",
-    "Yr1 Notes/Semester 1/Prog 1/CM12003 Programming 1.md",
-    "Yr1 Notes/Semester 1/Prog 1/Data Structures.md",
-    "Yr1 Notes/Semester 1/Prog 1/The C programming language.md",
-    "Yr1 Notes/Semester 1/Prog 1/Programming.md",
-    "Yr1 Notes/Semester 2/M 4 Comp/MfCLN.pdf",
-    "Yr1 Notes/Semester 2/M 4 Comp/CM12006 Mathematics of Computation.md",
-    "Yr1 Notes/Semester 1/DB & DM/DM/Maps Additional.md",
-    "Yr1 Notes/Semester 1/DB & DM/DM/Learning From Problelm Sheets.md",
-    "Yr1 Notes/Semester 1/DB & DM/DM/Partial Orders.md",
-    "Yr1 Notes/Semester 1/DB & DM/DM/CM12004 Discrete Maths.md",
+    "Number Theory.md",
+    "Yr1 Notes/Semester 2/Prog 2/Python.md",
+    "Yr1 Notes/Semester 2/Prog 2/Java programming language.md",
+    "Yr1 Notes/Semester 2/Prog 2/CM1005 Programming 2.md",
+    "Yr1 Notes/Semester 2/Prog 2/Java.md",
+    "Yr1 Notes/Semester 1 & 2/AI 1/Basic Cryptography.md",
+    "Yr1 Notes/Semester 1 & 2/AI 1/AI Ethics.md",
+    "Bobsteve Finklesteve.md",
+    "Yr2 Notes/Test tings.md",
+    "Yr1 Notes/Semester 1 & 2/AI 1/Intro to ML & Supervised Learning.md",
     "Yr1 Notes/Semester 1/DB & DM/DB/CM12004 Databases.md",
-    "Yr1 Notes/Semester 1/DB & DM/DM/Functions (maps).md",
-    "Templates/Notes.md",
-    "Yr2 Notes/Semester 1/Adv Prog/CM22012 Advanced Programming.md",
-    "Yr2 Notes/Semester 1/HCI 1/CM22011 Human-Computer Interaction 1.md",
-    "Yr2 Notes/Holy Grail/ALGChS.md",
-    "Yr2 Notes/Holy Grail/APChS.md",
-    "Yr2 Notes/Holy Grail/CYBChS.md",
-    "Yr2 Notes/Holy Grail/HCIChS.md",
-    "Yr2 Notes/Holy Grail/VCChS.md",
-    "Yr2 Notes/Yr2 Resources.md",
     "Yr1 Notes/Semester 1 & 2/Architecture/CM12002 Computer System Architecture.md",
-    "Yr1 Notes/Semester 1 & 2/Architecture/Architecture.md",
+    "Yr1 Notes/Semester 1 & 2/Architecture/Brief history of Computer.md",
+    "Yr1 Notes/Semester 1 & 2/Architecture/Boolean Logic and Circuits.md",
+    "Yr1 Notes/Semester 1/DB & DM/DM/CM12004 Discrete Maths.md",
+    "Yr1 Notes/Semester 1/DB & DM/DM/Congruence.md",
+    "Yr1 Notes/Semester 1/DB & DM/DM/Divisibility of Integers.md",
+    "Yr1 Notes/Semester 1/DB & DM/DM/Elements of set theory.md",
+    "Yr1 Notes/Semester 1/DB & DM/DM/FSM Turing Machines.md",
+    "Yr1 Notes/Semester 1/DB & DM/DM/Elements of math logic.md",
+    "Yr1 Notes/Semester 1/DB & DM/DM/Number Systems.md",
+    "Yr1 Notes/Semester 1/Prog 1/Programming.md",
+    "Yr1 Notes/Semester 1/Prog 1/The C programming language.md",
+    "Yr1 Notes/Semester 1/Prog 1/Haskell.md",
+    "Yr1 Notes/Semester 1/DB & DM/DM/Relations.md",
+    "Yr1 Notes/Semester 1/DB & DM/DM/Proof.md",
+    "Attachments/Problem sheet 1.pdf",
+    "Yr1 Notes/Semester 2/M 4 Comp/MfCLN.pdf",
+    "Yr1 Notes/Semester 1/DB & DM/DB/DB LN.pdf",
+    "Yr1 Notes/Semester 1 & 2/Architecture/CSysArchLN2.pdf",
     "Attachments/Pasted image 20221017124545.png",
     "Attachments/Pasted image 20221129093252.png",
     "Attachments/Pasted image 20221212113528.png",
@@ -201,18 +209,12 @@
     "Attachments/Pasted image 20221205113625.png",
     "Attachments/Pasted image 20221129112214.png",
     "Attachments/Pasted image 20221122113752.png",
-    "Yr1 Notes/Yr1 Module Codes.md",
-    "Templates/Cheat Sheet.md",
-    "Templates/Module.md",
     "Yr2 Notes/Semester 2/Cybersecurity",
     "Yr2 Notes/Semester 2/HCI 2",
     "Yr2 Notes/Semester 1 & 2/Visual Comp",
     "Yr2 Notes/Semester 1 & 2/ML",
     "Yr2 Notes/Semester 1 & 2/Algo & Complexity",
     "Yr2 Notes/Semester 1 & 2/Software Engi",
-    "Yr2 Notes/Semester 1/Adv Prog",
-    "Yr2 Notes/Semester 1/HCI 1",
-    "Yr2 Notes/Semester 1 & 2",
     "Tips & Playground/Playground/Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"

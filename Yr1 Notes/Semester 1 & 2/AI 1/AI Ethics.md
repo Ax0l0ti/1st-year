@@ -1,7 +1,7 @@
-# Intro to ML & Supervised Learning
+# AI Ethics
 ---
 *Date :* 22-06-2024
-*Module :* 
+*Module :* #CM12001 
 *Resources :*
 
 ---

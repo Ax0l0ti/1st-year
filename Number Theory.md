@@ -1,7 +1,7 @@
-# Intro to ML & Supervised Learning
+# Number Theory
 ---
 *Date :* 22-06-2024
-*Module :* 
+*Module :* #CM12006 
 *Resources :*
 
 ---

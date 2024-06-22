@@ -7,9 +7,8 @@
 
 ---
 ##### Contents: 
-> [[# ]]
-> [[# ]]
-> [[# ]]
+> [[#Entity Relatinoship diagram (ERD)]]
+> [[#Terminolgy in relational algebra]]
 > 
 --- 
 

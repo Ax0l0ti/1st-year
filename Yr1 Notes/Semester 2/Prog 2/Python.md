@@ -1,7 +1,7 @@
-# Intro to ML & Supervised Learning
+# Python
 ---
 *Date :* 22-06-2024
-*Module :* 
+*Module :* #CM12005 
 *Resources :*
 
 ---
@@ -17,4 +17,5 @@
 	$c)$ - 
 ---
 #TODO 
+
 

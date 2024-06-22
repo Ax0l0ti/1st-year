@@ -67,6 +67,8 @@
 
 ## Higher-Order Functions
 
+Higher-Order Functions are functions that calls other functions to compute information. This can be via the parameter call or execution call
+
 1. **Map**
     - Applies a function to each element of a list, returning a new list with the results.
     - Example:
@@ -232,4 +234,4 @@
 
 ---
 
-This cheat sheet provides a structured overview of various Haskell concepts, grouped by categories and topics. Unnecessary details have been removed for clarity.
+

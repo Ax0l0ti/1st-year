@@ -8,9 +8,7 @@
 ---
 ##### Contents: 
 > [[# ]]
-> [[# ]]
-> [[# ]]
-> 
+
 --- 
 
 Turing test is used to test whether a system is acting/thinking like humans or rationally. 
@@ -20,5 +18,5 @@ Turing test is used to test whether a system is acting/thinking like humans or r
 - Questions with binary answers 
 - The answer to the next question is not predictable given previous answers
 
-One experiment conducted to test if the turing test can actually be used to distinguish human from AI is the chinese room experiment. 
+One experiment conducted to test if the Turing test can actually be used to distinguish human from AI is the **chinese room experiment**. 
 

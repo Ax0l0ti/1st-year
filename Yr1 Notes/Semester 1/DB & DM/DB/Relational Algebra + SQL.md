@@ -7,13 +7,13 @@
 
 ---
 ##### Contents: 
-> [[# ]]
-> [[# ]]
-> [[# ]]
+> [[#Basic Operators]]
+> [[#Derive Operators]]
+> [[#SQL commands]]
 > 
 --- 
 
-Basic Operators
+#### Basic Operators
 - Projection $(\pi)$
 - Selection $(σ)$
 - Cross Product $(x)$
@@ -21,12 +21,12 @@ Basic Operators
 - Rename
 - Set difference
 
-Derive Operators
+#### Derive Operators
 - Join
 - Intersect $(\cap)$
 - Division $( / )$
 
-###### SQL commands
+#### SQL commands
 - DDL (Data definition)
 	- CREATE
 	- ALTER

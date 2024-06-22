@@ -7,8 +7,8 @@
 
 ---
 ##### Contents: 
-> [[# ]]
-> [[# ]]
+> [[#Entity Relatinoship diagram (ERD)]]
+> [[#Terminolgy in relational algebra]]
 > [[# ]]
 > 
 --- 
@@ -20,11 +20,8 @@
 	- 3 Tier - most popular client server architecture
 - Database Schema
 	- Logical structure of the database
-
-![400](https://ao.ms/wp-content/uploads/2017/12/twotier.png)
-
 ###### Entity Relatinoship diagram (ERD)
-ERDs are used to model relationship between entiites and attributes. 
+ERDs are used to model relationship between entities and attributes. 
 
 Formats used to express notation styles of cardinality:
 - Chen Style;

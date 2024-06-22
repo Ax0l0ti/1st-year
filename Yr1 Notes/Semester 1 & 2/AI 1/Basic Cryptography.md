@@ -1,7 +1,7 @@
-# Intro to ML & Supervised Learning
+# Basic Cryptography
 ---
 *Date :* 22-06-2024
-*Module :* 
+*Module :* #CM12001 
 *Resources :*
 
 ---
