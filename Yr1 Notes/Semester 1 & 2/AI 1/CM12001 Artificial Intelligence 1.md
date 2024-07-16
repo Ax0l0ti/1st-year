@@ -1,10 +1,15 @@
-# Artificial Intelligence #PNode 
+# Artificial Intelligence #PNode
 ---
-*Module :* #CM12001
-*Teacher*: [Ben Ralph](https://moodle.bath.ac.uk/user/profile.php?id=71461), #EmelieBarman, #BenRalph, #NelloCWaffleMan 
-###### *Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Module :* #CM12001
+> > *Teacher*: [Ben Ralph](https://moodle.bath.ac.uk/user/profile.php?id=71461), #EmelieBarman, #BenRalph, #NelloCWaffleMan 
+> > ###### *Resources :*
+> > 
+
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > Sem 1 
 > 	[[What is AI ]]
 > 	[[The Turing Test ]]
@@ -16,9 +21,10 @@
 > Sem 2
 > 	[[Introduction to Probability]]
 > 	[[MDPs & Value Iteration]]
-> 	[[Intro to ML & Supervised Learning]]
+> 	[[ML & Supervised Learning]]
 > 	[[Unsupervised Learning]]
 > 	[[Bayesian Networks]]
+> 	[[Advanced ML]]
 
 ![[CM12001Sem2TimeTable.png]]
 
@@ -58,7 +64,7 @@ Uniformed search refers to a search algorithm that operates without any informat
 Informed search is a type of search algorithm that utilizes problem-specific knowledge to guide the search process more efficiently towards the goal. Unlike uniformed search, informed search methods use heuristics or domain-specific information to make informed decisions about which path to explore next. Examples include A* search and Greedy Best-First Search.
 
 [[Adversarial Search]]
-Adversarial search refers to a search process in AI that involves two or more agents competing or cooperating in a strategic environment. It is commonly used in game theory and AI for designing algorithms that can make decisions to outperform or compete against an adversary. Examples of such algorithms include minimax algorithm and alpha-beta pruning, often used in games like chess and tic-tac-toe.
+Adversarial search refers to a search process in AI that involves two or more agents competing or cooperating in a strategic environment. It is commonly used in game theory and AI for designing algorithms that can make decisions to outperform or compete against an adversary. Examples of such algorithms include minimax algorithm and $\alpha$-$\beta$ pruning, often used in games like chess and tic-tac-toe.
 
 [[Introduction to Probability]]
 Probability is a branch of mathematics that deals with the likelihood of events occurring. It is used to quantify uncertainty and randomness. In the context of AI, probability is crucial for reasoning under uncertainty, making predictions, and modeling stochastic processes. Basic concepts include random variables, probability distributions, and the rules of probability, such as Bayes' theorem.
@@ -77,3 +83,5 @@ Standard book for reading in the field of AI is Artificial Intelligence by Russe
 The shortcut
 
 The devious self plug
+
+---

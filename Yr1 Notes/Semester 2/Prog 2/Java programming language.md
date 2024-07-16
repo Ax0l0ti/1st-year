@@ -1,12 +1,15 @@
 # The Java programming language
 ---
-*Date :*  15-11-2023 
-*Module :* #CM12005 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  15-11-2023 
+> > *Module :* #CM12005 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Inheritance]]
 > [[#Polymorphism]]
 > 
@@ -15,7 +18,7 @@
 ### Inheritance
 >Inheritance allows the definition of classes as extensions of other classes. 
 
-![[Pasted image 20221129112214.png | 500]]
+![[Java Class example.png| 500]]
 
 Using these classes we can instantiate objects of the music and video files we own and add them to our database. 
 
@@ -98,4 +101,6 @@ Object variables in Java are polymorphic – they can hold objects of more than 
 Item item1 = new Item(...); 
 Item item2 = new Video(...);
 ```
-Polymorphism is where an object can take many different forms. 
+Polymorphism is where an object can take many different forms.
+
+---

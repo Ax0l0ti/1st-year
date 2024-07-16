@@ -1,12 +1,15 @@
 # Programming and Languages
 ---
-*Date :*  04-10-2023 
-*Module :* #CM12003 
-*Teacher*: [Zack Lyons](https://moodle.bath.ac.uk/user/profile.php?id=25337)
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  04-10-2023 
+> > *Module :* #CM12003 
+> > *Teacher*: [Zack Lyons](https://moodle.bath.ac.uk/user/profile.php?id=25337)
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#What is programming]]
 > [[#Levels of Languages]]
 > [[#Advantages of High and Low level languages]]
@@ -29,7 +32,7 @@ Programming is the process of breaking a large, complex task up into smaller and
 
 Programming languages can be categorised into High and Low level languages. Computers can only execute low-level languages. Programs written in high-level languages are translate (compiled or interpreted) to machine code.
 
-In this module [[The C programming language|C]], [[Java]] and [[Python]] programming languages are used. 
+In this module [[The C programming language|C]], [[Haskell]] and [[Python]] programming languages are used. 
 
 ### Levels of Languages
 **High Level Languages**
@@ -136,15 +139,17 @@ A FOR loop is used where we already know the number of times a loop needs to be 
 
 [[The C programming language#^f51657 |Follow the link to see syntax in C]]
 
- | Recursion                                                                                                           | Iteration                                                                                             |     |
- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --- |
- | Recursion is when a function repeatedly calls itself with smaller inputs as the parameter                           | Iteration is when a set of instructions are repeatedly executed                                       |     |
- | Recursive function contains a set of instructions, a statement calling itself and a base condition                  | Iteration contains an initialisation, iteration, condition, and a set of instructions inside the loop |     |
- | Recursion is applied to method                                                                                      | Iteration is applied to a set of instructions                                                         |     |
- | Base case decides when the recursion terminates                                                                     | Value decides the termination of statement                                                            |     |
- | Large numbers of recursion lead to stack overflow.                                                                  | Infinite iteration consumes CPU cycles                                                                |     |
- | Recursion causes overhead of repeated function calling. This means execution of recursion is slower than iteration. | Iteration does not have function calling overhead. This means execution of iteration is faster        |     |
- | Recursion reduces size of code                                                                                      | Iteration makes the size of code larger                                                               |     |
+
+
+| Recursion                                                                                                           | Iteration                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Recursion is when a function repeatedly calls itself with smaller inputs as the parameter                           | Iteration is when a set of instructions are repeatedly executed                                       |
+| Recursive function contains a set of instructions, a statement calling itself and a base condition                  | Iteration contains an initialisation, iteration, condition, and a set of instructions inside the loop |
+| Recursion is applied to method                                                                                      | Iteration is applied to a set of instructions                                                         |
+| Base case decides when the recursion terminates                                                                     | Value decides the termination of statement                                                            |
+| Large numbers of recursion lead to stack overflow.                                                                  | Infinite iteration consumes CPU cycles                                                                |
+| Recursion causes overhead of repeated function calling. This means execution of recursion is slower than iteration. | Iteration does not have function calling overhead. This means execution of iteration is faster        |
+| Recursion reduces size of code                                                                                      | Iteration makes the size of code larger                                                               |
 
 
 ### Arrays
@@ -175,3 +180,5 @@ OOP allows for:
 - **Abstraction**: ability to igonore details of parts and focus attention on a higer level of the problem. 
 - **Modularisation**: the process of dividing a whole into well-defined parts, which can be built and examined separately, and which interact in well-defined ways
 - **Encapulation**: the idea that individual parts should be responsible for their own state
+
+---

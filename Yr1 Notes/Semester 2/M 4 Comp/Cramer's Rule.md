@@ -1,12 +1,15 @@
 # Cramer's Rule
 ---
-*Date :* 25-02-2024
-*Module :* #CM12006 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 25-02-2024
+> > *Module :* #CM12006 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[# ]]  [[#Summary]]
 > [[# ]]
 
@@ -27,4 +30,4 @@ Cramer's rule states that solutions $[ X, Y, Z ] = [ {{D_x}\over{D}} , {{D_y}\ov
 
 [Cramer's rule - Wikipedia](https://en.wikipedia.org/wiki/Cramer%27s_rule)
 
-
+---

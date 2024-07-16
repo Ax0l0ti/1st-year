@@ -1,12 +1,15 @@
 # Data
 ---
-*Date :*  28-11-2023 
-*Module :* #CM12004DB 
-*Teacher*: #BhagiPatel
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  28-11-2023 
+> > *Module :* #CM12004DB 
+> > *Teacher*: #BhagiPatel
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Flat file Databases]]
 > [[#Database management System (DBMS)]]
 > [[#Relational Databases]]
@@ -68,3 +71,5 @@ Relational Databases contain:
 
 ### History of databases summary
 ![[History of Database Timeline.png]]
+
+---

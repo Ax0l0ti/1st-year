@@ -1,9 +1,10 @@
 # Maths for Computation Cheat Sheet
 ---
-### Link: 
- > #CM12006 
- > #CheatSheet 
- > [[CM12006 Mathematics of Computation]]
+> [!info]+ Module Details
+> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
+> *Module Tag :* #CM12006 
+> *Link :* [[CM12006 Mathematics of Computation]]
+> *Cheat Sheet tag :* #CheatSheet
 
 ---
 

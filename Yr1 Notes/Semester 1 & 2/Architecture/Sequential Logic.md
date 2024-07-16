@@ -1,13 +1,16 @@
 # Sequential Logic
 ---
-*Date :*  13-12-2023 
-*Module :* #CM12002 
-*Teacher*: #FabioNemetz 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  13-12-2023 
+> > *Module :* #CM12002 
+> > *Teacher*: #FabioNemetz 
+> > *Resources :*
 
 ---
-##### Contents: 
-> [[#SR Latch (Set-Reset Latch)]]
+> [!abstract]+ Contents
+> List of headings within this topic
+> > [[#SR Latch (Set-Reset Latch)]]
 > [[#Flip-Flops]]
 > --> SR
 > ------> Clocked SR 
@@ -33,7 +36,7 @@ A simple SR Latch implemented with NOR gates
 SR latches are asynchronous (unlocked). Two separate gates can't switch simultaneously. There is a delay before a logic gate responds to an input. 
 
 Below is a characteristic table for the SR latch above. It shows the Set (S) and Reset (R) inputs and the state of Q shown by $Q_n$. $Q_{n+1}$ shows the next state for Q. 
-![[Pasted image 20230104204531.png | 300]]
+![[SR Latch Truth Table.png| 300]]
 
 ###### Problems with simple SR Latches
 - Asynchronous transitions
@@ -52,12 +55,12 @@ There are 3 types of flip-flops we'll look at:
 ###### SR flip-flop (Clocked SR flip-flop or Gated SR latch)
 A clock signal is added to the simple latch so the latch responds to inputs only when the clock signal is present, rather than at any time. 
 So R and S inputs are passed to the NOR gates only during the clock pulse
-![[Pasted image 20221213095430.png]]
+![[SR FF.png]]
 
 ###### D-type flip-flop
 With SR flip-flop, R= 1, S=1 must be avoided. This can done by ensuring that the two inputs are always different. This can be done with a D-type flip-flop. 
 by using and inverter, the non-clock inputs to the two AND gates are guaranteed to be opposite of each other. 
-![[Pasted image 20221213095739.png | 300]]
+![[D Type FF.png| 300]]
 
 •The D flip-flop is referred to as the data flip-flop because it is, in effect, storage for one bit of data. The output of the D flip-flop is always equal to the most recent value applied to the input. Hence, it remembers and produces the last input.
 
@@ -66,7 +69,7 @@ by using and inverter, the non-clock inputs to the two AND gates are guaranteed 
 ### J-K flip flops
 This type of flip-flop makes use of the restricted combination (1,1). It is used to toggle, or change the output state, of the flip-flop.
 ![[J-K Flip Flop.png| 300]]
-![[Pasted image 20221213102205.png | 300]]
+![[JK FF TruthT & symbol.png| 300]]
 The J-K flip-flop is a universal flip-flop: It can behave as an SR flip-flop or D flip-flop
 
 ### Using Flip-Flops
@@ -95,3 +98,5 @@ There are two types of registers:
 
 ###### Synchronous Counter
 - Synchronous counters change all flip-flops of the counter at the same time
+
+---

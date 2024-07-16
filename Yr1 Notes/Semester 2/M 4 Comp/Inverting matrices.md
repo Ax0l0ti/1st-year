@@ -1,12 +1,15 @@
 # Inverting Matrices
 ---
-*Date :* 10-01-24
-*Module :* #CM12006 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 10-01-24
+> > *Module :* #CM12006 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[# ]]  [[#Inverting a 2x2 matrix]]
 > [[#Inverting a 3x3 matrix]]
 
@@ -39,3 +42,5 @@ The symbol $C$ is used for the matrix of the cofactors unless this causes confus
 5. The inverse of the matrix $A$ is given by the formula
 
 $A^{-1} = {{1}\over{\det A}}C^T \\ \space where \space C^T =$ Cofactor Matrix applied to transposed Matrix of Minors   $\begin{bmatrix} + & - & + \\ - & + & - \\ + & - & + \end{bmatrix} \text{ is the Cofactor Matrix formed from -1 powers around row 1 }$
+
+---

@@ -1,15 +1,18 @@
 # Implementing Arithmetic
 ---
-*Date :*  12-12-2023 
-*Module :* #CM12002 
-*Teacher*: #FabioNemetz 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  12-12-2023 
+> > *Module :* #CM12002 
+> > *Teacher*: #FabioNemetz 
+> > *Resources :*
 
 ---
-##### Contents: 
-> [[# ]]
-> [[# ]]
-> [[# ]]
+> [!abstract]+ Contents
+> List of headings within this topic
+> > [[#Adders]]
+> [[#Subtractors]]
+> [[#Shifts]]
 > 
 --- 
 
@@ -48,13 +51,16 @@ Arithmetic overflow happens when the guard a bit in the result is different from
 **Multiplication (Positive Integers)** can be done by adding repeatedly. However, this is not very efficient. So we can do long multiplication instead. 
 Multiplying by powers of 2 is simply a case of shifting a bit pattern to the left. So each time power increases by we do a left shift. 
 
+---
 ### Shifts
 
 Shifts move bit patterns left or right by one or more places. 
+
 There are three types of shift operation:
-	- Logical Shifts
-	- Arithmetic shifts
-	- Circular shifts
+> [!abstract] Types of shift operations
+> - Logical Shifts
+> - Arithmetic shifts
+> - Circular shifts
 
 ###### Logical Shifts
 Logical **left shifts** move bits n-place to the left and corresponds to multiplication by $2^n$ on unsigned binary (overflow can occur). *Simply means left shift doubles the value each time*
@@ -72,3 +78,5 @@ With a **right arithmetic shift**, the sign is kept the same (left most bit) and
 ###### Circular Shifts
 Circular shifts bits are moved out of one end of a register are moved in at the opposite end of the register. 
 For example rotate $11100101$ by 2 left shifts. This would result in $10010111$. All the bits move 2 to the left but instead of filling them with 0s we take the $11$ and place it in the other end.
+
+---

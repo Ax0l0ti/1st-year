@@ -1,18 +1,20 @@
 # Data Structures
 ---
-*Date :* DD-MM-YYYY
-*Module :* #CM12003
-*Teacher*:  #TheGoatHeijltjes 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* DD-MM-YYYY
+> > *Module :* #CM12003
+> > *Teacher*:  #TheGoatHeijltjes 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Stacks]]
 > [[#Stacks in Recursion]]
 > [[# ]]
 > 
 --- 
-
 
 ### Stacks
 Stacks work on the Last In, First Out principle (LIFO).This means that the data that was added last (most recently) is the first one to be removed. 
@@ -30,3 +32,5 @@ A stack data structure is used in recursive algorithms to temporarily store the 
 ![300](https://miro.medium.com/max/1400/1*C3LaaTtC6miYoIlhkX7zQQ.png)
 
 The parameters and variables are stored “above” those that went before (push operation). This means that program pops the stack, it will be in the correct order.
+
+---

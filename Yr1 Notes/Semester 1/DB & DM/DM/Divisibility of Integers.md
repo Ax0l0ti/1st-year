@@ -1,25 +1,21 @@
 # Divisibility of Integers
 ---
-*Date :* 04-12-2023
-*Module :* #CM12004DM 
-*Teacher*: #
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 04-12-2023
+> > *Module :* #CM12004DM 
+> > *Teacher*: #
+> > *Resources :*
 
 ---
-##### Contents: 
-> [[# ]]  [[#ChatGPT notes]]
-> [[# ]]
-> [[# ]]
+> [!abstract]+ Contents
+> List of headings within this topic
+> [[#Speed Run]]
+> [[#Z / mZ]]
+> [[#Maths of Mod]]
 > 
 --- 
-### ChatGPT notes 
-
-Prompt : 
-
-Response : 
-
---- 
-### short notes
+### Speed Run
 - $a = q_1.m + r$ and $b = q_2.m + r$
 - $a = b \space mod \space m$ **means** $( a - b )$ is divisible by $m$ 
 	- also shown as $m|(a-b)$ or $a - b = m . k$
@@ -31,9 +27,8 @@ Response :
 	- $a + c ≡ b + d$ $mod$ $m$ 
 	- $ac ≡ bd$ $mod$ $m$.
 
-### a = b mod m 
-
-
+> [!note] a = b mod m 
+> $a = b \mod m$ means $km + b = a$ where $k$ is an integer variable
 
 ### Z / mZ 
 
@@ -46,3 +41,6 @@ Finite set size of m
 m possible remainders from $0 \leq r \lt m-1$ in $a = q.m + r$
 
 ### Maths of Mod
+#TODO
+
+---

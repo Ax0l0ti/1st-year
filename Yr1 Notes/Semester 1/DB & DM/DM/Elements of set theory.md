@@ -1,12 +1,15 @@
 # Elements of set theory
 ---
-*Date :*  10-10-2023 
-*Module :* #CM12004DM 
-*Teacher*:  [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806)
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  10-10-2023 
+> > *Module :* #CM12004DM 
+> > *Teacher*:  [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806)
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Sets ]]
 > [[Quantifiers#Universal quantifier |Universal quantifier]]
 > [[Quantifiers#Existential quantifier |Existential quantifier]]
@@ -63,8 +66,10 @@ For more see [[Elements of math logic#Boolean Laws]]
 Definition: For two sets A and B, the set $A \setminus B = \{x | (x \in A) \wedge (x \notin B)\}$ is called difference of A and B is called difference of A and B. 
 If sets A,B,C etc... are subset of the universe U. Then $U \setminus A$ is called the complement of A and denoted by $A'$. 
 
-###### Proof of De Morgan laws.  
-$$\begin{array}{}
+
+>[!tip]+ 
+> 
+> $$\begin{array}{}
 x ∈ (A ∪ B)′ \text{ is equivalent to} \\
 x ̸∈ A ∪ B \text{ is equivalent to} \\
 ¬(x ∈ A ∪ B) \text{ is equivalent to} \\
@@ -86,7 +91,7 @@ A \times B = \{(x_1,y_1),(x_1,y_2),(x_2,y_1),(x_2,y_2)\} \\
 E.x.2.  If $A = \{x| \text{ x is real number }, 0 ≤ x ≤ 1 \}, B = \{x| \text{ x is real number}, 1 ≤ x ≤ 2 \}$, then $A × B$ can be represented as a rectangle on the plane with vertices in points with coordinates: $(0, 1), (0, 2), (1, 1), (1, 2)$. 
 
 ### Sets of Sets
-Sets can server as elements of ther sets. e.g. 
+Sets can server as elements of their sets. e.g. 
 1. $\{\{\emptyset\} , \{a\}, \{b\},\{a,b\} \}$ 
 2. $\{\emptyset\}$   --> this a set containing an empty set
 3. $\{\emptyset, \{\emptyset\}\}$ 
@@ -116,4 +121,6 @@ Links to [[Functions (maps)]]
 Definition: A and B have the same cardinality if there exists bijective map $f: A \to B, f: B \to A$   
 Going from even to to odd number; $x \mapsto x+1$; the map is bijective. 
 
-A has "smaller" cardinality than set B if $A \subset B$ and $|A| \ne |B|$. 
+A has "smaller" cardinality than set B if $A \subset B$ and $|A| \ne |B|$.
+
+---

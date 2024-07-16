@@ -1,32 +1,11 @@
-
-# Computer System Architecture Cheat Sheet 
+# Computer System Architecture Cheat Sheet
 ---
-### Link: 
- > #CM12002 
- > #CheatSheet
- > [[CM12002 Computer System Architecture]]
- >Topics
-> [[#Uniprocessor Architectures (von Neumann)]]
-> [[#Parallel Architectures]]
-> [[#Data Representation]]
-> [[#Data Storage]]
-> [[#Real Numbers]]
-> [[#Representing and Executing Instructions]]
-> [[#Operand Modes and Instruction Set]]
-> [[#Control and Pipelining]]
-> [[#Handling I/O, Programmed I/O]]
-> [[#Interrupt/Direct Memory Access]]
-> [[#Boolean Logic and Circuits]]
-> Other Stuff
-> [[#Karnaugh Maps]]
-> [[#Implementing Arithmetic]]
-> [[#Sequential Logic]]
-> [[#Latches & Flip-Flops]]
-> [[#File Management]]
-> [[#Protocols]]
-
+> [!info]+ Cheat Sheet Details
+> Includes information about module, link to module and it's correspondent attribute tag 
+> *Module Tag :* #CM12002 
+> *Link :* [[CM12002 Computer System Architecture]]
+> *Cheat Sheet tag :* #CheatSheet
 ---
-
 ### Equations and phrases
 
 **Structure :** (Topic) Phrase
@@ -45,11 +24,6 @@ $$ \text{Amdhal's law, N processors and p }= \%\text{tasks can be parellised . }
 ### Topics
 #### Uniprocessor Architectures (von Neumann)
 - Key words: von Neumann, uniprocessor, single instruction, single data, memory, CPU
-
-|         | von neumann | harvard |
-| ------- | ----------- | ------- |
-| **Pos** |             |         |
-| **Neg** |             |         |
 #### Parallel Architectures
 [[Architecture]]
 - Key words: parallel, SIMD, MIMD, MISD, concurrency, multicore

@@ -1,13 +1,17 @@
 # DM Problem S 2 - OG's work
 ---
-*Date :* 20-09-2023
-*Module :* #CM12004DM 
-*Teacher*:  
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 20-09-2023
+> > *Module :* #CM12004DM 
+> > *Teacher*:  
+> > *Resources :*
 
 ---
+> [!abstract]+ Contents
+> List of headings within this topic
 
-
+---
 [[Problem sheet 2.pdf|Questions ]]
 
 1. 
@@ -107,23 +111,23 @@
 
 1. Consider the subset relation $⊂$ on the set $A$ = {{b}, {c}, {a, b}, {a, c}, {a, b, c}}
 	
-	a) Is ⊂ a partial order on $A$, a strict partial order on A, or neither? Justify your answer
+	$a)$ Is ⊂ a partial order on $A$, a strict partial order on A, or neither? Justify your answer
 	- Every element $x \in A$ is a subset of itself. Hence $x \subset x$. It is reflexive. 
 	- We don't have$(x,y)$ and $(y,x)$ for all $x,y \in A$, so it is anti-symmetric.
 	- $\{a,b\} and \{a,c\} \to \{a,b,c\}$ hence it is transitive. 
 	
 		It is a **Partial order** on $A$. 
 
-	b) Is $⊂$ a total order on $A$? Justify your answer
+	$b)$ Is $⊂$ a total order on $A$? Justify your answer
 	- Firstly it is a pratial order set. 
 	- To be a total order $\forall (x,y) \in A$ either $x\subset y$ or $y \subset x$. This is False with the elements in $A$. 
 		Hence it is a **Not a Total Order Set**. 
 
-	c) Decide whether there are maximal elements, and whether there are minimal elements, in $A$ with respect to $⊂$. If such elements exist, list them all.
+	$c)$ Decide whether there are maximal elements, and whether there are minimal elements, in $A$ with respect to $⊂$. If such elements exist, list them all.
 		$$ \begin{array}{} 
 		\{b\} \text{is a subset of} \{a,b\}  \text{and} \\
 		 \{c\} \text{is a subset of} \{a,c\} \text{ and } \\ 
 		 \{a,b\} \text{ and } \{a,c\} \text{are a subset of }\{a,b,c\}
 		 \end{array}$$ 
 	- $\{a,b,c\}$ is a maximal. 
-	- $\{b\}$, $\{c\}$ is a minimal. 
+	- $\{b\}$, $\{c\}$ is a minimal.

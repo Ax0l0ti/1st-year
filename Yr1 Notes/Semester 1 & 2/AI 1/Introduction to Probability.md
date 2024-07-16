@@ -1,12 +1,15 @@
 # Intro to Probability
 ---
-*Date :* 09-02-2024
-*Module :* #CM12001 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 09-02-2024
+> > *Module :* #CM12001 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Terminology]]
 > [[#Notation]]
 --- 
@@ -34,3 +37,4 @@ When dealing with uncertainty, we will use tools from **statistics** and **pr
 - Basic laws
 	1. $p(a \wedge b) = p(a) + p(b) - p(a \vee b)$
 
+---

@@ -1,22 +1,33 @@
 # HCI 2 #PNode
 ---
-*Module :* #CM22013 
-*Teachers* : 
-*Resources :* 
-	
-	
+> [!info]+ Module Details
+> Includes module tag, teacher tags and resources 
+> > *Module :* #CM22013 
+> > *Teacher*: 
+> > *Resources :*
+
 ---
-##### Contents: 
-> Sub
-> 	[[]]
+> [!abstract]+ Contents
+> List of links to notes on Topics within the Module
+> 
+> sub grouping
+> > [[#]]
+> [[#]]
+> [[#]]
+> > [[#]]
+> 
 > Coursework
-> 	[[]]
+> > [[]]
+
 ---
 ### Coursework 0 vs 100 Examed
 - Closed-book written examination (EXCB 100%)
 	**Details** - 
 ---
 ### Course Description
+
+> [!info]+  Course Description
+> 
 |                        | Content                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Learning Outcomes:** | - Use established techniques for understanding human activity and modelling human-computer interactions.<br>- Select and use appropriate analytical and empirical evaluation techniques in order to critically evaluate an interaction design.<br>- Use of IT (T/F, A), Problem Solving (T/F, A), Working with Others (T/F, A), Communication (A).                                                                        |

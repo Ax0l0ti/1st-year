@@ -9,6 +9,7 @@
 > [[#Links]]
 > [[#Maths]]
 > [[#Graphs]]
+> [[#Callouts]]
 ---
 
 #### Tables
@@ -24,7 +25,7 @@ I'm **bold** because of \*\*text\*\* | I'm *Italian* because of \*text\* | I'm =
 
 --- 
 #### Bullets 
-\- , \1. and -[  ] used to make : 
+\- , \1. and - \[  \] used to make : 
 - Bullet
 1. Numbered
 - [ ] Checkbox 
@@ -66,3 +67,33 @@ Moving --> Still
 Moving --> Crash
 Crash --> [*]
 ```
+
+--- 
+
+## Callouts
+
+> [!note]+
+> > [!abstract]-  Abstract, Summary, Tldr
+> > Womp womp
+
+> [!info]+ Info, Todo
+> > [!success]+ Success, Check, Done
+> > susssy $\alpha + \lambda$ $$\begin{aligned} \text{womp womp???} \\ = \sum_{i = 0} ^{i \leq 69} x^2 \\ = 0 + c\end{aligned}$$
+> > BOOM and thats how u do it
+> 
+> > [!failure] Failure, Fail, Missing
+> > 
+
+> [!tip] Tip, Hint, Important
+
+
+> [!question] Question, Help, FAQ
+
+> [!warning]+ Warning, Caution, Attention
+> > [!danger] Danger, Error
+> 
+> > [!bug]
+
+> [!example]+
+
+> [!quote] Quote, Cite

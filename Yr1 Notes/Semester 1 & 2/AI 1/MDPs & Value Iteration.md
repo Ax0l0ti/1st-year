@@ -1,14 +1,20 @@
-# title 
+# title
 ---
-*Date :* DD-MM-YYYY
-*Module :* 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* DD-MM-YYYY
+> > *Module :* 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
- > [[#Speed run]]
-> 
+> [!abstract]+ Contents
+> List of headings within this topic
+> [[#Speed run]]
+> [[#Value Iteration]]
+> [[#Policy Iteration]]
+> [[#Comparison and Use Cases]]
+
 --- 
 ### Speed run 
 
@@ -60,3 +66,5 @@ The algorithm alternates between these two steps until the policy $\pi$ converge
     
 
 These algorithms are fundamental in reinforcement learning and are used to solve problems where an agent needs to make a sequence of decisions to maximize some notion of cumulative reward.
+
+---

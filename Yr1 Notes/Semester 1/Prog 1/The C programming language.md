@@ -1,12 +1,15 @@
 # The C programming language
 ---
-*Date :*  20-12-2023 
-*Module :* #CM12003 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  20-12-2023 
+> > *Module :* #CM12003 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Commenting]]
 > [[#Data types in C]]
 > [[#Conditionals]]
@@ -249,3 +252,5 @@ p = p + 1;
 
 
 ![[DeepCopyViaPassByVal.png]]
+
+---

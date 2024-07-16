@@ -1,12 +1,15 @@
 # Eigen vectors & Eigen values
 ---
-*Date :* 21/03/24
-*Module :* #CM12006 
-*Teacher*: 
-*Resources :* drive
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 21/03/24
+> > *Module :* #CM12006 
+> > *Teacher*: 
+> > *Resources :* drive
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#WTF is an eigenvector]]
 > [[#Finding Diagonal Form]]
 > [[#Eigenvalues from Diag Form ]]
@@ -31,3 +34,5 @@ $$ \text{The general 2 x 2 diagonal matrix is} \begin{bmatrix} a & 0 \\ 0 & b \e
 
 ## Eigenvalues from Diag Form
 7.  When you reduce a matrix $A$ to a diagonal matrix $D$, the elements on the diagonal are the eigenvalues of $A.$
+
+---

@@ -1,12 +1,15 @@
- # Informed Search
+# Informed Search
 ---
-*Date :*  21-11-2023 
-*Module :* #CM12001 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  21-11-2023 
+> > *Module :* #CM12001 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Greedy Search]]
 > [[#Properties of Heuristics ]]
 > [[#Hill climbing algorithm]]
@@ -49,5 +52,4 @@ A* search uses a heuristic to measure the estimated cost of each node, but also 
 2. Generate all possible neighbours and take the one with the best value
 3. Repeat **step 2** until none of the neighbours has a better value
 
-
-
+---

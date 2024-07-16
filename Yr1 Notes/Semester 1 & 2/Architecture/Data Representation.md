@@ -1,13 +1,16 @@
 # Data Representation
 ---
-*Date :*  24-10-2023 
-*Module :* #CM12002 
-*Teacher*: [Fabio Nemetz](https://moodle.bath.ac.uk/user/profile.php?id=490)
-*Resources :* [Decimal to IEEE 754 - YouTube](https://www.youtube.com/watch?v=8afbTaA-gOQ&ab_channel=AbishaliniSivaraman)
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  24-10-2023 
+> > *Module :* #CM12002 
+> > *Teacher*: [Fabio Nemetz](https://moodle.bath.ac.uk/user/profile.php?id=490)
+> > *Resources :* [Decimal to IEEE 754 - YouTube](https://www.youtube.com/watch?v=8afbTaA-gOQ&ab_channel=AbishaliniSivaraman)
 
 ---
-##### Contents: 
-> [[#Numeration Systems]]
+> [!abstract]+ Contents
+> List of headings within this topic
+> > [[#Numeration Systems]]
 > [[#Conversion between numeration systems]]
 > [[#Signed integers]]
 > [[#Floating Point Binary]]
@@ -82,7 +85,7 @@ Some examples of numerations systems:
 ###### One's Complement
 - Positive numbers are represent by adding a leading 0 as before. 
 - Negative integers (-n) are represented by swapping 1's and 0's in n. 
-![[Pasted image 20221025095259.png]]
+![[One's Complement.png]]
 This method simplifies arithmetic but leaves us with two representation of zero(+0, -0). 
 
 ###### Two's Complement 
@@ -124,7 +127,7 @@ Floating numbers are stored using the IEEE Standard. There are two basic formats
 - Finally the **VALUE = MANTISSA**$\times$ $2^{EXPONENT}$
 
 Example:
-	![[Pasted image 20221101092345.png]]
+	![[Example Expo & Mantissa.png]]
 	Sign: $0$ $\to$ meaning number is positive
 	Exponent $\to$ $01111100 = 124 \to 124-127 = -3$. (Taking away BIAS)
 	Mantissa: $\to 1 + 2^{-2} = 1.25$ 
@@ -141,3 +144,4 @@ Example:
 - Final result: Sign Exponent Mantissa
 - Example:
 	![[Binary Example.png|400]]
+---

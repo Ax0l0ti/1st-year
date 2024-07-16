@@ -1,13 +1,15 @@
 # Congruences
 ---
-*Date :*  25-11-2023 
-*Module :* #CM12004DM
-*Teacher*: 
-*Resources :* [Congruence Modulo m (Theory) - YouTube](https://www.youtube.com/watch?v=-SpWfD4WsmM&ab_channel=NesoAcademy), [Solving congruences, Simple examples - YouTube](https://www.youtube.com/watch?v=KwxslifHITg&ab_channel=blackpenredpen), [Congruences Complex example - YouTube](https://www.youtube.com/watch?v=LInNgWMtFEs&ab_channel=blackpenredpen)
-
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  25-11-2023 
+> > *Module :* #CM12004DM
+> > *Teacher*: 
+> > *Resources :* [Congruence Modulo m (Theory) - YouTube](https://www.youtube.com/watch?v=-SpWfD4WsmM&ab_channel=NesoAcademy), [Solving congruences, Simple examples - YouTube](https://www.youtube.com/watch?v=KwxslifHITg&ab_channel=blackpenredpen), [Congruences Complex example - YouTube](https://www.youtube.com/watch?v=LInNgWMtFEs&ab_channel=blackpenredpen)
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Divisiblity of Integers]]
 > [[#Division operation in $ frac{Z}{mZ}$]] 
 > [[# ]]
@@ -51,4 +53,6 @@ E.X:
 	$GCD(5,3) = 1$, take $u = 2, v = -1$  then $3u + 5v = 1$ 
 	$[3]^{-1} = [2]$ ; $3 \cdot 2 = 6 \equiv 1 \ mod \ 5$. 
 
-If $m$ is prime number, then any $\ne 0$ element in $\frac{Z}{mZ}$ then $\frac{x}{y}$ is defined $=x \cdot y^{-1}$.  
+If $m$ is prime number, then any $\ne 0$ element in $\frac{Z}{mZ}$ then $\frac{x}{y}$ is defined $=x \cdot y^{-1}$.
+
+---

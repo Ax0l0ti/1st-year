@@ -1,21 +1,29 @@
 # {{title}}
 ---
-*Date :* {{date}}
-*Module :* 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  {{date}}
+> > *Module :* #
+> > *Teacher*: #
+> > *Resources :*
 
 ---
-##### Contents: 
- > [[#Speed run]]
-> 
+> [!abstract]+ Contents
+> List of headings within this topic
+> > [[#Speed run]]
+> [[#]]
+> [[#]]
+> [[#]]
+> [[#]]
+
 --- 
-### Speed run 
+> [!danger]+ *Speed run*
+> Break down of topic 
+> > $a)$ -  
+> $b)$ - 
+> $c)$ - 
 
-1. Break down of topic 
-	$a)$ -  
-	$b)$ - 
-	$c)$ - 
 ---
+
 #TODO 
 #Structuring
-

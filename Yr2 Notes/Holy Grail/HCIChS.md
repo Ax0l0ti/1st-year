@@ -1,11 +1,10 @@
 # Human Computer Interaction Cheat Sheet
 ---
-### Link: 
-> #CheatSheet
-> [[CM22011 Human-Computer Interaction 1 |HCI 1]] 
-> #CM22011 
-> [[CM22013 Human-Computer Interaction 2 |HCI 2]]
-> #CM22013 
+> [!info]+ Module Details
+> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
+> *Module Tag :* #CM22011 #CM22013 
+> *Link :* [[CM22011 Human-Computer Interaction 1]] [[CM22013 Human-Computer Interaction 2]]
+> *Cheat Sheet tag :* #CheatSheet
 
 ---
 ### Equations and phrases

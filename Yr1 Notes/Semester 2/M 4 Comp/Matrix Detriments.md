@@ -1,18 +1,19 @@
-# Matrix Detriments 
+# Matrix Detriments
 ---
-*Date :* 09-02-2024
-*Module :* #CM12006
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 09-02-2024
+> > *Module :* #CM12006
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
-> [[# ]] 
-> [[# ]]
-> [[# ]]
-> 
+> [!abstract]+ Contents
+> List of headings within this topic
+> > [[#Relation to A-Level]] 
+> [[#Det of 2x2 matrix]]
 --- 
-## Overview 
+## Relation to A-Level 
 
 ![[RunDownOfUniDetMethod.png]]
 
@@ -61,3 +62,5 @@ c & d\\
 ##### How tf 2x2 works out in Uni terms 
  So the fancy formula is $\det A = (-1)^{i+1}a_{i1} \det A_{i1} + (-1)^{i+j}a_{ij} \det A_{ij} + ~...~ + (-1)^{i+n}a_{in} \det A_{in}$
  But this is basically $\det A = first + other ~ columns + final$
+ 
+---

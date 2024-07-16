@@ -1,12 +1,15 @@
 # Uniformed search
 ---
-*Date :*  14-11-2023 
-*Module :* #CM12001 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  14-11-2023 
+> > *Module :* #CM12001 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Terms]]
    [[#Breadth First Search]]
 > [[#Depth-first search]]
@@ -88,6 +91,6 @@ The efficiency of an algorithm is measured using the big-O notation. This notati
 | Complete         | Y             | Y           | Y                   |
 | Optimal          | Y             | N           | Y                   |
 | Time Complexity  | O(b^d)        | O(b^m)      | O(b^d)              |
-| Space Complexity | O(b^d)        | O(bm)       | O(bd)               |
+| Space Complexity | O(b^d)        | O(bm)       | O(bd)   |
 
-
+---

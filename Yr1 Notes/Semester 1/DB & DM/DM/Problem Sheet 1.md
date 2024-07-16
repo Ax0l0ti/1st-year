@@ -1,12 +1,17 @@
 # DM Problem S 1 - OG's work
 ---
-*Date :* 20-09-2023
-*Module :* #CM12004DM 
-*Teacher*:  
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 20-09-2023
+> > *Module :* #CM12004DM 
+> > *Teacher*:  
+> > *Resources :*
 
 ---
+> [!abstract]+ Contents
+> List of headings within this topic
 
+---
 [[Problem sheet 1.pdf|Questions]] 
 # Problem Sheet 1
 
@@ -141,7 +146,7 @@ Sincel all the values of $P\rightarrow Q$ are True int the truth table above we 
 
 2. a) There are 16 binary logical connectives. 
 	
-	b) Express XOR via  I) $\neg$ , $\wedge$ 
+	$b)$ Express XOR via  I) $\neg$ , $\wedge$ 
 	$$
 	\begin{array}{|}
 	\hline
@@ -177,7 +182,7 @@ Sincel all the values of $P\rightarrow Q$ are True int the truth table above we 
 	\neg(\neg X \vee Y) \vee \neg(\neg Y \vee X) \\
 	(X \rightarrow Y) \rightarrow \neg(Y \rightarrow X)\\
 	\end{array} $$
-	c) NOR is defined as: $X \text{ NOR } Y ≡ ¬(X ∨ Y )$ .
+	$c)$ NOR is defined as: $X \text{ NOR } Y ≡ ¬(X ∨ Y )$ .
 	Express each of connectives below via only NOR.
 	I) **∧**
 	$$

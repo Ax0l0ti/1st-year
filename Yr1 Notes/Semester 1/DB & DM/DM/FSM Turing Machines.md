@@ -1,12 +1,15 @@
 # FSM Turing Machines
 ---
-*Date :* 15-11-2023
-*Module :* 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 15-11-2023
+> > *Module :* #CM12004DM 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[# ]]  [[#ChatGPT notes]]
 > [[#1. Definition]]
 > [[#2. Components of FSM]]
@@ -95,4 +98,5 @@ e.g $δ \space q0 \times a → q1 \times b \times L$
 - **Extended FSMs (EFSM):** Including additional features like counters and timers.
 
  Finite State Machines and Turing Machines are fundamental concepts in theoretical computer science. Understanding their properties and applications is crucial for a comprehensive grasp of the limits and capabilities of computation.
---- 
+
+---

@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#PNode  ",
+      "query": "tag:#PNode OR tag:#PDFNode  ",
       "color": {
         "a": 1,
         "rgb": 1029083
@@ -57,9 +57,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.437716262975779,
-  "repelStrength": 10,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3784470930822767,
-  "close": true
+  "scale": 0.1376497250486088,
+  "close": false
 }

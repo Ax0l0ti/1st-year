@@ -1,12 +1,15 @@
 # Gaussian elimination
 ---
-*Date :* 10/03/24
-*Module :* #CM12006 
-*Teacher*:  
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 10/03/24
+> > *Module :* #CM12006 
+> > *Teacher*:  
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[# ]]  [[#ChatGPT notes]]
 > [[# ]]
 
@@ -31,4 +34,4 @@ Given the system of linear equations: $$ \begin{cases} 2x + 3y - z = 4 \\ 3x + 2
 
 $\begin{bmatrix} x \\ y \\ z \end{bmatrix} = \begin{bmatrix} 7/5 \\ 2/5 \\ 0 \end{bmatrix} + t\begin{bmatrix} -1 \\ 1 \\ 1 \end{bmatrix}$
 
-
+---

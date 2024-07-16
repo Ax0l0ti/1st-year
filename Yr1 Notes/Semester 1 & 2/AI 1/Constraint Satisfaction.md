@@ -1,12 +1,15 @@
-# Constraint Satisfaction ( CSPs ) 
+# Constraint Satisfaction ( CSPs )
 ---
-*Date :* {{date: 27-11-2023 }}
-*Module :* #CM12001
-*Teacher*: #BenRalph 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* {{date: 27-11-2023 }}
+> > *Module :* #CM12001
+> > *Teacher*: #BenRalph 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[# ]]  [[#ChatGPT notes]]
 > [[# ]]
 > [[# ]]
@@ -18,15 +21,11 @@ Prompt : tell me about Constraint Satisfaction for an advanced university. pleas
 
 Response : Constraint Satisfaction is a problem-solving paradigm used in artificial intelligence and computer science. It deals with problems where the solution must satisfy a set of constraints that define relationships between variables.
 
-### Key Terms:
-
-1. **Constraint:** A restriction or limitation on the possible values that a variable can take.
-    
-2. **Variable:** A placeholder for a value that can change during the problem-solving process.
-    
-3. **Domain:** The set of possible values that a variable can take.
-    
-4. **Constraint Satisfaction Problem (CSP):** A problem defined by a set of variables, their domains, and a set of constraints that specify the allowable combinations of values.
+> [!example] Key terms
+> 1. **Constraint:** A restriction or limitation on the possible values that a variable can take.
+> 2. **Variable:** A placeholder for a value that can change during the problem-solving process.
+> 3. **Domain:** The set of possible values that a variable can take.
+> 4. **Constraint Satisfaction Problem (CSP):** A problem defined by a set of variables, their domains, and a set of constraints that specify the allowable combinations of values.
 
 --- 
 
@@ -44,8 +43,10 @@ A **state** is an assignment of values for all or some variables
 | **solution**   |       complete and consistent | not a solution        |
 #### Types of searches
 
-Uninformed
-Informed
-Hill Climb 
+[[Uniformed search]]
+[[Informed Search]]
+[[Informed Search#Hill climbing algorithm|Hill Climbing]]
 Local Search
-Wave function collapse 
+Wave function collapse - uses suposition
+
+---

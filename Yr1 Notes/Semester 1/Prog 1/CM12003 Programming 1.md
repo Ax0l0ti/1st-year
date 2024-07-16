@@ -1,10 +1,15 @@
 # Programming 1 #PNode
 ---
-*Module :* #CM12003
-*Teacher*: #TheGoatHeijltjes , [Zack Lyons](https://moodle.bath.ac.uk/user/profile.php?id=25337)
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Module :* #CM12003
+> > *Teacher*: #TheGoatHeijltjes , [Zack Lyons](https://moodle.bath.ac.uk/user/profile.php?id=25337)
+> > 
+> > 
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[Programming]]
 > [[The C programming language]]
 > [[Data Structures]]
@@ -19,4 +24,6 @@ The module is 100% coursework based.
 	- Java 50% 
 
 Coursework 1 Set: 18th October Deadline: 4th November
-Cooursework 2 set: 29th November Deadline: 16th December 
+Cooursework 2 set: 29th November Deadline: 16th December
+
+---

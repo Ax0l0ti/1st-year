@@ -1,24 +1,36 @@
 # Cybersecurity #PNode
 ---
-*Module :* #CM22014  
-*Teachers* : 
-*Resources :* 
-	
-	
+> [!info]+ Module Details
+> Includes module tag, teacher tags and resources 
+> > *Module :* #CM22014 
+> > *Teacher*: 
+> > *Resources :*
+
 ---
-##### Contents: 
-> Sub
-> 	[[]]
+> [!abstract]+ Contents
+> List of links to notes on Topics within the Module
+> 
+> sub grouping
+> > [[#]]
+> [[#]]
+> [[#]]
+> > [[#]]
+> 
 > Coursework
-> 	[[]]
+> > [[]]
+
+
 ---
-### Coursework 100 vs 0 Examed
+### Coursework 60 vs 40 Examed
 - CW1 - 
-	**Details** - 
+	**Details** - 40%
 - CW2 - 
-	**Details** - 
+	**Details** - 20%
 ---
 ### Course Description
+
+> [!info]+  Course Description
+> 
 |                        | Content                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Learning Outcomes:** | After successfully completing this unit, students will be able to:<br><br>- describe common security models;<br>- discuss what it means for a given system to be 'secure';<br>- identify security weaknesses in proposed and current systems.                                                                                                                                                                                                                                                                                                                                               |

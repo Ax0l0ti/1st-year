@@ -1,12 +1,15 @@
 # Relations
 ---
-*Date :*  31-10-2023 
-*Module :* #CM12004DM 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  31-10-2023 
+> > *Module :* #CM12004DM 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Relations]]
 > [[#Equivalence relations]]
 > [[#Partition into equivalence classes]]
@@ -47,4 +50,6 @@ E.x.
 When considering partition of any set. Let $A$ be any set (fininte or infinite). Then any set partition $P$ of $A$ is a subset of $2^A \setminus \emptyset$ such that sets in P are pairwise disjoint $(\cap = ∅)$ and their union is $A$. 
 
 **Theorem**: Let $\ast$ be an equivalence relation on $A$. Then all distinct equivalence classes of elements in A form a partition of $A$. 
-$Z = Z$, $Z = E \cup O$ 
+$Z = Z$, $Z = E \cup O$
+
+---

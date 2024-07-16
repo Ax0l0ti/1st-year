@@ -1,12 +1,15 @@
 # Relational Algebra + SQL
 ---
-*Date :*  12-12-2023 
-*Module :* #CM12004DB 
-*Teacher*: #BhagiPatel 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  12-12-2023 
+> > *Module :* #CM12004DB 
+> > *Teacher*: #BhagiPatel 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Basic Operators]]
 > [[#Derive Operators]]
 > [[#SQL commands]]
@@ -47,7 +50,7 @@
 	- SAVE POINT
 
 The below is defined for basic operators on a Student table as an example. 
-![[Pasted image 20221212103826.png]]
+![[Database Example.png]]
 **Projection** works on columns. So in this case selecting all the name from Student would be projection. 
 
 **Selection** works on rows. Selecting name,age from student with roll_no of 2 would be selection. 
@@ -58,5 +61,6 @@ The below is defined for basic operators on a Student table as an example.
 	- Number of column must be same in both tables
 	- Domain of every column must be the same
 
-**Intersection** displays data where between two conditions both are true. For example selecting a student name from student table who is also an employee in the employee table. The conditions required for intersection is the same as for union. 
+**Intersection** displays data where between two conditions both are true. For example selecting a student name from student table who is also an employee in the employee table. The conditions required for intersection is the same as for union.
 
+---

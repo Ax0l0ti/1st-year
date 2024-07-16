@@ -1,12 +1,16 @@
 # Maps Additional
 ---
-*Date :* 24-11-2023
-*Module :* #CM12004DM 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 24-11-2023
+> > *Module :* #CM12004DM 
+> > *Resources :*
+> > 
 
 ---
-##### Contents: 
- > [[#Maps]]
+> [!abstract]+ Contents
+> List of headings within this topic
+> [[#Maps]]
  > [[#Mapping onto Similar Set]]
  > [[#Mapping onto a Bigger Set]]
  > [[#Mapping onto a Smaller Set]]
@@ -37,4 +41,6 @@ Let $A$ and $B$ be sets. $A$ maps to $B$, $A \to B$. Let's write:
 ## Mapping onto Similar Set
 ##### For a ==**Bijective Map**==
 - A bijective map is needs to be (Injective) $|m| \ge |n|$ **and** (Surjective) $|n| \ge |m|$. So it is only possible if $|n| = |m|$
-- To find the total number of Bijective maps from $A \to B$ we do: $n!$ 
+- To find the total number of Bijective maps from $A \to B$ we do: $n!$
+
+---

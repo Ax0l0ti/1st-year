@@ -1,12 +1,15 @@
 # Uniprocessor Architectures
 ---
-*Date :*  10-10-2023 
-*Module :* #CM12002 
-*Teacher*: #FabioNemetz 
-*Resources :* 
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  10-10-2023 
+> > *Module :* #CM12002 
+> > *Teacher*: #FabioNemetz 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#The Von-Neuman Architectre]]
 > [[#The Harvard Architecture]]
 > [[#Caching]]
@@ -119,7 +122,7 @@ Cache is closer to the CPU and faster than RAM.
 ### Registers
 
 Registers are rapid access data store on the CPU which stores values used in ongoing computations. It has the fastest possible access. 
-![[Pasted image 20221017113508.png | 400]]
+![[Cache&RegisterAccess.png| 400]]
 
 
 ### Parallel Architectures
@@ -133,14 +136,14 @@ Multiprocessing is usually faster but much more difficult to understand, control
 	- its own data storage (data level)
 
 There are two possible control architectures for multiprocessors: 
-	- Multiple instruction Streams --> Each ALU is controlled by a separate control unit ![[Pasted image 20221017114231.png | 200]]
-	- Single instruction stream --> Single control unit issuing the same instruction to each ALU ![[Pasted image 20221017114327.png | 200]]
+	- Multiple instruction Streams --> Each ALU is controlled by a separate control unit ![[Multiple Instruction Streams.png| 200]]
+	- Single instruction stream --> Single control unit issuing the same instruction to each ALU ![[Single Instruction Stream.png| 200]]
 Independent of the control architecture the ALUs may either all operate on the same data stream or each operate on a different data stream. 
 
 ### Flynn's Taxonomy (Task level x Data level)
-![[Pasted image 20221017114702.png]]
+![[Flynn's Taxonomy.png]]
 ##### SISD: Single Instruction Single Data
-uniprocessor architecture such as von Neumann or Harvard architecture ![[Pasted image 20221017115041.png]]
+uniprocessor architecture such as von Neumann or Harvard architecture ![[SISD diagrams.png]]
 
 ##### SIMD: Single Instruction Multiple Data 
 Instructions are executed simultaneously. Same instruction from multiple memory locations. 
@@ -148,38 +151,38 @@ e.g.
 	- Supercomputer modelling (weather)
 	- Signal Processing (sound, vision)
 	- Graphics / audio applications
-![[Pasted image 20221017115138.png]]
+![[SIMD diagrams.png]]
 
 ##### MISD: Multiple Instruction Single Data
 Different operations on the same data. Used for Falult Tolerant Computing. e.g for Space shuttle flight control computers. 
-![[Pasted image 20221017115550.png]]
+![[MISD diagrams.png]]
 
 ##### MIMD: Multiple Instruciton Multiple Data
 Multiple processors functioniong asynchronously and independently. e.g multi-core processors. 
-![[Pasted image 20221017115742.png]]
+![[MIMD diagrams.png]]
 
 ### Memory Architectures
 There are two possible memory architectures:  
 - Shared memory  --> Each processor has access to the same memory
- ![[Pasted image 20221017120023.png | 300]]
+ ![[Shared Memory.png| 300]]
 
 - Distributed memory --> Each processor has its own data store. 
- ![[Pasted image 20221017120106.png |  300]]
+ ![[Distributed Memory.png|  300]]
 
 
 Shared memory:
 	- leads to memory-to-CPU bottlenecks
 	- Cache coherence becomes a problem 
 	- because of the above they don't scale very well
-	- ![[Pasted image 20221017124459.png | 300]]
+	- ![[Shared Memory w Caches.png| 300]]
 	
 Distributed memory:
 	- Easy to scale up for large numbers of parallel processors
 	- Communication between processor is indirect, hence inefficient
 	- Distributing and reassembling the data is inefficient
-	- ![[Pasted image 20221017124545.png | 300]]
+	- ![[Distributed Memory w Caches.png| 300]]
 
-- **Virtual shared memory** $\rightarrow$ Distributed memory which "seems" shared to the CPUs. 
+- **Virtual shared memory** $\rightarrow$ Distributed memory which "**seems**" shared to the CPUs. 
 - **Non-uniform memory access (NUMA)** $\rightarrow$ shared memory which has parts which are faster for each CPU. 
 
 ### Limits of Parallelization
@@ -208,4 +211,4 @@ Example Question:
 	\frac{1}{(1-0.5) +\frac{0.5}{2}} \\
 	= 1.33 \text{ times faster}
 	\end{array} $$
-
+---

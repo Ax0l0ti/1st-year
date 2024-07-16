@@ -1,13 +1,16 @@
 # Data Storage
 ---
-*Date :*  25-10-2023 
-*Module :* #CM12002 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  25-10-2023 
+> > *Module :* #CM12002 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
-> [[#The Store]]
+> [!abstract]+ Contents
+> List of headings within this topic
+> > [[#The Store]]
 > [[#Cell Contents]]
 > [[#Cell addresses]]
 > [[#Types of Memory Access]]
@@ -39,5 +42,6 @@ The store consists of a collection of cells. Each cell is given an address for i
 ###### Address Space
 - Address space is a range of addresses associated with physical or virtual locations. (cells, I/O ports, IP addresses etc...)
 - The same address may refere to different location in different spaces. 
-- The length of the address determines(bounds) the size of the space: processors are often referred to in terms of the length of their address space. 
+- The length of the address determines(bounds) the size of the space: processors are often referred to in terms of the length of their address space.
 
+---

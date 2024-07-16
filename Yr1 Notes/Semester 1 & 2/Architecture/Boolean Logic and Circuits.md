@@ -1,18 +1,21 @@
 # Boolean Logic and Circuits
 ---
-*Date :*  05-12-2023 
-*Module :* #CM12002 
-*Teacher*: #FabioNemetz 
-*Resources :* [Introduction to Karnaugh Maps - YouTube](https://www.youtube.com/watch?v=RO5alU6PpSU&ab_channel=TheOrganicChemistryTutor), [Website for creating Sofp & k-maps](http://www.32x8.com/var4.html)
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  05-12-2023 
+> > *Module :* #CM12002 
+> > *Teacher*: #FabioNemetz 
+> > *Resources :* [Introduction to Karnaugh Maps - YouTube](https://www.youtube.com/watch?v=RO5alU6PpSU&ab_channel=TheOrganicChemistryTutor), [Website for creating Sofp & k-maps](http://www.32x8.com/var4.html)
 
 ---
-##### Contents: 
-> [[#Standard Sum of Products (SofP)]]
-> [[#Simplifying Formula]]
-> [[#Karnaugh Maps]]
-> 	[[#Creating K-maps from boolean formula]]
-> 	[[#Creating formulas from K-maps]]
-> 	[[#Application of K-maps]]
+> [!abstract]+ Contents
+> List of headings within this topic
+> >[[#Standard Sum of Products (SofP)]]
+> >[[#Simplifying Formula]]
+> >[[#Karnaugh Maps]]
+> >[[#Creating K-maps from boolean formula]]
+> >[[#Creating formulas from K-maps]]
+> >[[#Application of K-maps]]
 > 
 --- 
 
@@ -49,7 +52,7 @@ $$
 Logic Gate Symbols
 	![300](https://content.instructables.com/F09/9ZEY/IIHRJM27/F099ZEYIIHRJM27.png?auto=webp&frame=1&fit=bounds&md=b6cfc4e817d8619dfead8accac05371d)
 
-![[Pasted image 20221205113625.png]]
+![[And & Or schematics.png]]
 
 There are two basic techniques for determining whether two formulas are equivalent:
 	- Equational reasoning (by algebra)
@@ -62,7 +65,7 @@ Question: Show that $A.(A + B ) = A$
 		![[Binary Arithmetic Example 3.png]]
 Question: Show that $A + A.B = A$
 	Answer:
-		![[Pasted image 20221205114257.png]]
+		![[Binary Arithmetic Example 4.png]]
 
 ### Standard Sum of Products (SofP)
 
@@ -122,5 +125,7 @@ We mark this with a letter 'x' or 'd' in the correspoinding squre of the map. Wh
 For example a seven-segment display uses this idea. 
 	- It is driven by binary coded decimal (BCD)
 	- A separate set of combinational logic turns on or off each segment
-![[Pasted image 20221212113528.png]]
+![[K-map Example.png]]
 ![[Karnaugh maps Example.png]]
+
+---

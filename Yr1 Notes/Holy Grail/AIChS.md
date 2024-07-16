@@ -1,12 +1,10 @@
-
 # AI Cheat Sheet
 ---
-### Link: 
- > #CM12001 
- > #CheatSheet
- > [[CM12001 Artificial Intelligence 1]]
-
-Im too lazy finish this now the exam is done 
+> [!info]+ Cheat Sheet Details
+> Includes information about module, link to module and it's correspondent attribute tag 
+> *Module Tag :* #CM12001 
+> *Link :* [[CM12001 Artificial Intelligence 1]]
+> *Cheat Sheet tag :* #CheatSheet
 
 ---
 
@@ -46,8 +44,10 @@ Im too lazy finish this now the exam is done
 		**==BUT==** ***Simple solulu is normally best Solulu***
 
 5. **Heuristics** 
+    $a)$ All **Consistent** are **Admissible**, ==not all== Admis are Consistent 
     $b)$ **Admissible** -  Never overestimates cost $H(s) \geq h(s)$
     $c)$ **Consistent** -   $h(s) \leq c + h(s')$
+
     
 6. **Social, legal, and ethical implications of AI** 
 	$a)$ Privacy Concerns  
@@ -63,4 +63,4 @@ Im too lazy finish this now the exam is done
     $d)$ Liability Issues  
     $e)$ International Frameworks
 
---- 
+---

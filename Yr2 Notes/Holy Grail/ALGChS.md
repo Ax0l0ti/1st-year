@@ -1,9 +1,10 @@
 # Algorithms and Complexity Cheat Sheet
 ---
-### Link: 
-> #CM22008 
-> #CheatSheet
-> [[CM22008 Algorithms and Complexity]] 
+> [!info]+ Module Details
+> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
+> *Module Tag :* #CM22008 
+> *Link :* [[CM22008 Algorithms and Complexity]]
+> *Cheat Sheet tag :* #CheatSheet
 
 ---
 ### Equations and phrases

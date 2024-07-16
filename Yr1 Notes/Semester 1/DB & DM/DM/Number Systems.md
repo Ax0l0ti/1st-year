@@ -1,12 +1,15 @@
 # Number Systems
 ---
-*Date :* 21-11-2023 
-*Module :* #CM12004DM 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 21-11-2023 
+> > *Module :* #CM12004DM 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[# ]]  [[#ChatGPT notes]]
 > [[# ]]
 > [[# ]]
@@ -14,7 +17,7 @@
 --- 
 ### ChatGPT notes 
 
-Prompt : 
+Prompt :  #TODO 
 
 Response : 
 
@@ -25,4 +28,5 @@ $\mathbb{Z}$
 Def 
 ****
 - bul
-normal 
+normal
+---

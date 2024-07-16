@@ -1,18 +1,20 @@
 # Computing History
 ---
-*Date :*  04-10-2023 
-*Module :* #CM12002 
-*Teacher*: #FabioNemetz
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > > [!info]+ File Details
+> > > *Date :*  04-10-2023 
+> > > *Module :* #CM12002 
+> > > *Teacher*: #FabioNemetz
 
 ---
-##### Contents: 
-> [[#Abstraction]]
+> [!abstract]+ Contents
+> > [[#Abstraction]]
 > [[#Analogue and Digital computing]]
 > [[#Brief history of Computers]]
 > [[#Base of generations of a Computer]]
-> 
---- 
+
+---
 #### Abstraction 
 ![[UI and OS.png| 300 ]]
 
@@ -71,7 +73,6 @@ Processors have gotten smaller and smaller in scale have enabled for:
 - Mobile and ubiquitous computing
 
 
+> [!danger] Moore's Law
 > Computing power doubles over a fixed time(about two years.) 
-    \- Moore's Law
->
-
+> ( Same guy to create  [[FSM Turing Machines#5. Mealy and Moore Machines| Moore's Machines]] ) 

@@ -1,9 +1,11 @@
-# Title Cheat Sheet
+# {{title}} Cheat Sheet
 ---
-### Link: 
-> Course Code
-> #CheatSheet
-> [[]] Course Code Link
+> [!info]+ Module Details
+> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
+> *Module Tag :* 
+> *Link :* 
+> *Cheat Sheet tag :* #CheatSheet
+> 
 
 ---
 ### Equations and phrases
@@ -32,3 +34,4 @@
 
 ---
 #TODO 
+#Structuring

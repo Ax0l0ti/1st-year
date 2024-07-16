@@ -1,12 +1,15 @@
 # Partial Orders
 ---
-*Date :*  14-11-2023 
-*Module :* #CM12004DM 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  14-11-2023 
+> > *Module :* #CM12004DM 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Arithmetic of real numbers]]
 > [[#Reflexive, symmetric & Transitive]]
 > [[#Partial order and total order]]
@@ -58,9 +61,9 @@ Examples:
 
 > **Definition**: A partial order $R$ on $A$ is called total order if for any $x,y \in A$ either $(x,y) \in R$ or $(y,x) \in R$ is true. 
 
-Examples:
-	1) Relation $≤$ on $Z$ is a total order. 
-	2) Let $A = \{∅, \{a\}, \{a, b\}, \{a, b, c\}, \{a, b, c, d\}\}$. The the relation $⊂$ is a total order on $A$.
+> [!Example]
+> 1) Relation $≤$ on $Z$ is a total order. 
+> 2) Let $A = \{∅, \{a\}, \{a, b\}, \{a, b, c\}, \{a, b, c, d\}\}$. The the relation $⊂$ is a total order on $A$.
 
 ### Quick table of Strict vs Partial Order 
 
@@ -98,7 +101,7 @@ Example: $(< on \ Z)$ is asymmetric
 1. If $\le$ be partial order on $A$ then a relation $<$ on A is defined by: $x<y \ if \ (x \le y) \wedge (x \ne y)$ is a strict partial order on A. 
 2. If $<$ is strict partial order on A, then the relation $\le$ on $A$ is defined by $(x \le y) \ if \ (x < y) \vee (x = y)$ is partial order on $A$. 
 
-**Proof**: 
+> [!info] Proof:
 We need to prove that $<$ is asymmetric and transitive
 **Asymmetric**: Suppose that, $(x < y) ∧ (y < x)$ is true for some $x, y ∈ A$. Then, by the definition of $<, (x ≤ y) ∧ (y ≤ x)$. Since the relation $≤$ is antisymmetric, it follows that $x = y$, which contradicts to x $<$ y in view of the definition of $<$. 
 **Transitive**: $(x < y) \wedge (y < z)$ need to prove: $x < z$
@@ -110,10 +113,12 @@ By definition of $<: (x \le y) \wedge (y \le Z)$. By transitivity of $\le$ we ha
 Let $Z$ denote the set of all integers. 
 
 **Definition**: Two non-zero integers $a,b \in Z$ are called relatively prime if their greatest common divisor(GCD) $(a,b) = 1$. 
-Example: 5,6 are relitively prime numbers
-	Divisiors of 5 are {1,5}
+Example: 5,6 are relatively prime numbers
+	Divisors of 5 are {1,5}
 	Divisors of 6 are {1,2,3}
-	Hence their GCD is 1
-Theorem: $a,b \in Z$ are relitively prime if and only if there exists $u,v \in Z$ such that $au + bv = 1$. 
+	Hence their **GCD** is 1
+Theorem: $a,b \in Z$ are relatively prime if and only if there exists $u,v \in Z$ such that $au + bv = 1$. 
 
-**Definition**: For $a, b, m ∈ Z, m > 0$, we say that $a$ is congruent to $b$ modulo $m$ and write $a ≡ b$ mod m, if $a − b$ is divisible by $m$. Equivalently, $a ≡ b$ mod m if $a$ is divisible by $m$ with the same remainder as is b divisible by $m$. 
+**Definition**: For $a, b, m ∈ Z, m > 0$, we say that $a$ is congruent to $b$ modulo $m$ and write $a ≡ b$ mod m, if $a − b$ is divisible by $m$. Equivalently, $a ≡ b$ mod m if $a$ is divisible by $m$ with the same remainder as is b divisible by $m$.
+
+---

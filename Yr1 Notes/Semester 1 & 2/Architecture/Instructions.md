@@ -1,28 +1,30 @@
 # Instructions
 ---
-*Date :*  14-11-2023 
-*Module :* #CM12002 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  14-11-2023 
+> > *Module :* #CM12002 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
-> [[# ]]
-> [[# ]]
-> [[# ]]
-> 
+> [!abstract]+ Contents
+> List of headings within this topic
+> > [[#Registers and the CPU]]
+> [[#Addresses and Sequencing instructions]]
+> [[#Fetch Decode Execute cycles]]
 --- 
 ### Representing and Executing Instructions
 
-Any instruction requires:
-- The operation to be executed
-- The operands upon which the operation is performed
-
->Expressive power is the breadth of ideas that can be represented and communicated.
+>[!Info] Instruction Components
+>- The operation to be executed
+>- The operands upon which the operation is performed
 
 An operand is coded as an address where the actual operand is located. For example, addition could be represented as `Add 10,12` meaning add data in address 10 and address 12. 
 - Instructions occupy more than one byte of storage
 - Typically variable number of bytes
+
+>**Expressive power** is the breadth of ideas that can be represented and communicated.
 
 The memory hierarchy
 	![[Memory Hierachy.png| 400]]
@@ -50,19 +52,18 @@ The memory hierarchy
 
 ### Addresses and Sequencing instructions
 
-###### Registers
-`In control Unit`
-- **Program Counter (PC)**
-	- Holds the address of the next instruction 
-- **Instruction register (IR)**
-	- Holds the instruction currently being executed 
-	`Used for accessing Memoroy`
-- **Memory Address Registers (MAR)**
-	- Holds the address that is being accessed
-- **Memory Buffer (MB)**
-	- Contents of that location while they are being written into or read from the store
+> [!Info] Registers in control Unit
+>  - **Program Counter (PC)**
+> 	 - Holds the address of the next instruction 
+> - **Instruction register (IR)**
+> 	- Holds the instruction currently being executed 
+> 	`Used for accessing Memoroy`
+> - **Memory Address Registers (MAR)**
+> 	 - Holds the address that is being accessed
+> - **Memory Buffer (MB)**
+> 	- Contents of that location while they are being written into or read from the store
 
-![[Pasted image 20221114120135.png | 300]]
+![[Register Interaction with Memory.png| 300]]
 
 ### Fetch Decode Execute cycles
 - **Fetch Phase**: Bring the instructions from store to the instruction register
@@ -89,7 +90,7 @@ Operand addressing modes
 
 
 ### CISC vs RISC
-
+>[!abstract] Definitions
 >**CISC**: Complex Instruction Set Computer
 >**RISC**: Reduced Instruction Set Computer
 
@@ -117,7 +118,7 @@ Operand addressing modes
 
 ###### Unconditional Branch (Jump)
 >A branch instruction in which the branch is always taken is an unconditional branch. *Used as a loop. *
-![[Pasted image 20221121100743.png | 300]]
+![[Branching w Assembly.png| 300]]
 
 - The execute phase of these operations take the operand address and transfers it to the PC. 
 - The next operation then comes from the location addressed by the PC, in the normal way.
@@ -140,3 +141,5 @@ The stack frame used when calling subroutines generally includes:
 	- Argument variables passed on the stack
 	- Local variables 
 	- Saved copies of any registers modified by the subprogram that need to be restored
+
+---

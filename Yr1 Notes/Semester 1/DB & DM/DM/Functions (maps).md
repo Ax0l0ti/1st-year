@@ -1,12 +1,15 @@
 # Functions (maps)
 ---
-*Date :* 24-10-2023 
-*Module :* #CM12004DM 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 24-10-2023 
+> > *Module :* #CM12004DM #CM12006 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Surjective maps]]
 > [[#Injective maps]]
 > [[#Bijective maps]]
@@ -92,14 +95,6 @@ Let $I_A : A → A$ and $I_B : B → B$ be the identity map.
 
 ### Map as a subset of Cartesian Product
 **Definition**: A map $f: A \to B$ is a subset of $A \times B$ such that for every $x \in A$ there exists one and only $y \in B$ with $(x,y)\in f$. 
-E.x. $f(x) = x^2$ the above definition describes their graphs. 
+E.x. $f(x) = x^2$ the above definition describes their graphs.
 
-
-
-
-
-
-
-
-
-
+---

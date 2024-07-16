@@ -1,9 +1,11 @@
 # Advanced Programming Cheat Sheet
 ---
-### Link: 
-> #CM22012
-> #CheatSheet
-> [[CM22012 Advanced Programming]]
+> [!info]+ Module Details
+> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
+> *Module Tag :* #CM22012 
+> *Link :* [[CM22012 Advanced Programming]]
+> *Cheat Sheet tag :* #CheatSheet 
+> 
 ---
 ### Equations and phrases
 **Structure :** (Topic) Phrase

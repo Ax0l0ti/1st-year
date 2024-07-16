@@ -1,17 +1,20 @@
 # Fetch Decode Execute Cycle
 ---
-*Date :* DD-MM-YYYY21-11-2023
-*Module :* #CM12002
-*Teacher*: #FabioNemetz 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* DD-MM-YYYY21-11-2023
+> > *Module :* #CM12002
+> > *Teacher*: #FabioNemetz 
+> > *Resources :*
 
 ---
-##### Contents: 
-> [[# ]]  [[#Overview]]
+> [!abstract]+ Contents
+> List of headings within this topic
+> >  [[#Overview]]
 > [[#Detailed method]]
-> 	[[#Fetch]]
-> 	[[#Decode]]
-> 	[[#Execute]]
+> [[#Fetch]]
+> [[#Decode]]
+> [[#Execute]]
 --- 
 
 
@@ -52,3 +55,5 @@ By decoding the Instruction, this provides both the required function method and
 #### Execute
 
 After the control unit calls the correspondent function for the opcode, the values of operands are passed to the CPU components for manipulation e.g operations like addition and subtraction.
+
+---

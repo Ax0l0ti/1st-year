@@ -1,12 +1,15 @@
 # Elements of math logic
 ---
-*Date :*  03-10-2023 
-*Module :* #CM12004DM
-*Teacher*:  [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806)
-*Resources :
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  03-10-2023 
+> > *Module :* #CM12004DM
+> > *Teacher*:  [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806)
+> > *Resources :
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Logical Connectives]]
 > [[#Boolean Formulae]]
 > [[#Tautoligies]]

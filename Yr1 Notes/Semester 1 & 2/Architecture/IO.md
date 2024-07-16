@@ -1,15 +1,22 @@
 # Input Output
 ---
-*Date :*  28-11-2023 
-*Module :* #CM12002 
-*Teacher*: #FabioNemetz 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  28-11-2023 
+> > *Module :* #CM12002 
+> > *Teacher*: #FabioNemetz 
+> > *Resources :*
 
 ---
-##### Contents: 
-> [[#External devices]]
+> [!abstract]+ Contents
+> List of headings within this topic
+> > [[#External devices]]
 > [[#I/O modules Functions]]
-> [[# ]]
+> [[#Control of I/O devices]]
+> [[#Memory-Mapping of I/O]]
+> [[#Device Flags]]
+> [[#Handling Input / Output]]
+> [[#DMA Direct Memory Access]]
 > 
 --- 
 
@@ -50,7 +57,7 @@ Three techniques are possible for I/O operations:
 - **Direct memory access (DMA)**
 	- The I/O module and main memory exchange data directly without processor involvement. 
 
-![[Pasted image 20221128114739.png | 500]]
+![[Interrupt Types.png]]
 
 ### Control of I/O devices
 
@@ -58,7 +65,7 @@ Three techniques are possible for I/O operations:
 - A stored I/O operation instruction is fetched to the IR in the CPU
 - An instruction from the control unit to the I/O control unit causes the I/O control unit to send signals to the device to set it into action. 
 - Data will need to be transferred to the device (a write) or from the device (a read). The data is stored in a data register
-![[Pasted image 20221129201625.png | 400]]
+![[Control of Device IO.png| 400]]
 
 ##### Multi-Device Control
 The above is for a single device. However, there may be several devices. So the I/O instructions must be structured and coded into a bit pattern with three parts that describe: 
@@ -69,7 +76,7 @@ The above is for a single device. However, there may be several devices. So the 
 The supporting hardware for multiple device control is assigned as such:
 	- I/O data place on a common I/O data bus
 	- The address information can also be placed on a common I/O address bus
-![[Pasted image 20221129203619.png | 400]]
+![[Control of Multi Device IO.png| 400]]
 
 **Advantages** of having a shared I/O bus are:
 	- Simplicity and flexibility $\to$ a single I/O control system with a single connection to the CPU. 
@@ -80,7 +87,7 @@ The supporting hardware for multiple device control is assigned as such:
 ### Memory-Mapping of I/O
 Many architectures connect the CPU to the store unit by a single bus. The number of locations that can be accessed are determined by the number of bits in the address lines of the bus. So if the bus had 24 lines then we can address $2^{24}$ locations. This is the address space of such a machine. This is **memory-mapping** of I/O. 
 
-![[Pasted image 20221129204611.png | 400]]
+![[Memory Mapping of IO.png| 400]]
 This arrangement allows data to be transmitted along the data lines of the bus, address along the address lines and read/write inforamtion along the control lines. 
 
 Advantages of memory-mapping
@@ -104,7 +111,7 @@ Protocols for programmed I/O transfer using device flags:
 
 ###### A generalized I/O program
 In general terms we could synchronize the CPU and a device by carrying out the following kind of program (output. )
-![[Pasted image 20221129092531.png | 200]]
+![[Generalised IO program.png| 200]]
 
 **Busy Wait Strategy**
 •load next data to send to I/O device x;
@@ -136,7 +143,7 @@ Disadvantages of Polling are:
 - When ready I/O module will interrupt the processor
 - The processor executes data transfer and resumes processing
 
-![[Pasted image 20221129093252.png | 200]]
+![[Handling IO.png| 200]]
 
 
 **Simplified mechanism for processing interrupt**
@@ -153,15 +160,14 @@ If while servicing a device another device interrupts then device priorities are
 An interrupt request will not be accepted unless the priority of the device issuing the interrupt request is higher than the operation priority of the current processes. 
 Use of stack to save and restore contexts. 
 
-###### Advantages
-- Are typically less wasteful of CPU time 
-- Generally more responsive than polling
-- Good for controlling multiple devices
+>[!success] Advantages
+>- Are typically less wasteful of CPU time 
+>- Generally more responsive than polling
+>- Good for controlling multiple devices
 
-###### Disadvantages 
-- Need special hardware to support a fast interrupt system
-- "Context switching" is costly in terms of CPU time; 
-
+> [!failure] Disadvantages
+> - Need special hardware to support a fast interrupt system
+> - "Context switching" is costly in terms of CPU time; 
 
 ### DMA: Direct Memory Access
 When large volumes of data are to be moved DMA is used as it is much more efficient. DMA allows access to memory independently of CPU. 
@@ -171,5 +177,6 @@ DMA works as such;
 	- CPU can do something else
 	- CPU is interrupted when transfer is completed
 
-DMA is useful any time the CPU cannot keep up with the rate of data transfer, or where the CPU needs to perform useful work while waiting for a relatively slow I/O data transfer. 
+DMA is useful any time the CPU cannot keep up with the rate of data transfer, or where the CPU needs to perform useful work while waiting for a relatively slow I/O data transfer.
 
+---

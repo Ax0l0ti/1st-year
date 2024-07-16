@@ -1,13 +1,16 @@
-# Taylor & Maclaurin 
+# Taylor & Maclaurin
 ---
-*Date :* 22-03-24
-*Module :* #CM12006 
-*Teacher*: 
-*Resources :*
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :* 22-03-24
+> > *Module :* #CM12006 
+> > *Teacher*: 
+> > *Resources :*
 
 ---
-##### Contents: 
- > [[#Speed run]]
+> [!abstract]+ Contents
+> List of headings within this topic
+> [[#Speed run]]
 
 --- 
 ### Speed run 
@@ -22,3 +25,5 @@
 		$i)$ - Equation $f(x) = f(0) + xf'(0) + { {x^2f''(0)}\over{2!} } + ... + {{x^nf^n(0)}\over{n!} }$
 	
 	$c)$ -  used for Qs like "$f(x)$ in terms of $(x+n)$ powers" $(input \space n = -a)$ , "approx $f(x)$ around $x=2$"
+
+---

@@ -1,9 +1,10 @@
 # Visual Computing Cheat Sheet
 ---
-### Link: 
-> #CM22010 
-> #CheatSheet
-> [[CM22010 Visual Computing]] 
+> [!info]+ Module Details
+> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
+> *Module Tag :* #CM22010 
+> *Link :* [[CM22010 Visual Computing]]
+> *Cheat Sheet tag :* #CheatSheet
 
 ---
 ### Equations and phrases

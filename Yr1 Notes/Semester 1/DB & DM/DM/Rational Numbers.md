@@ -1,12 +1,15 @@
 # Rational Numbers
 ---
-*Date :*  31-10-2023 
-*Module :* #CM12004DM 
-*Teacher*: 
-*Resources :* [Introduction to Cauchy Sequences - YouTube](https://www.youtube.com/watch?v=jD5s2jvnH1k&ab_channel=ElliotNicholson)
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Date :*  31-10-2023 
+> > *Module :* #CM12004DM 
+> > *Teacher*: 
+> > *Resources :* [Introduction to Cauchy Sequences - YouTube](https://www.youtube.com/watch?v=jD5s2jvnH1k&ab_channel=ElliotNicholson)
 
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[#Overview]]
 > [[#Arithmetic operations on $Q$]]
 > [[#Cauchy Sequences]]
@@ -17,16 +20,15 @@
 --- 
 
 # Overview
-
-**Cauchy sequence** 
-- terms in sequence begin to approach each other
-- sequence around a number e.g $\pi$ sequence $= 3, 3.1, 3.12, 3.121, 3.1214$
-- {$a_{n}$} + {$b_{n}$} = {$a_{n} + b_{n}$}
-**Null sequence**
-- sequence approaches 0 
-- basically a Cauchy around 0 
-
-
+>[!abstract] Definitions
+>> [!info] **Cauchy sequence** 
+> > - terms in sequence begin to approach each other
+> > - sequence around a number e.g $\pi$ sequence $= 3, 3.1, 3.12, 3.121, 3.1214$
+> > - {$a_{n}$} + {$b_{n}$} = {$a_{n} + b_{n}$}
+>
+> > [!info] **Null sequence**
+> > - sequence approaches 0 
+> > - basically a **Cauchy around 0** 
 
 Let $A = \{\frac{x}{y} | x,y \in Z, y \ne 0 \}$ then we can't say that $\frac{1}{2} \equiv \frac{27}{54}$. This is because $x$ and $y$ would be different integers from the set, hence they become different from each other even though their representation is the same. 
 $\frac{x_1}{y_1} \text{is equivalent} \frac{x_2}{y_2}$ if and only if $x_1y_2 = x_2y_1$ 
@@ -110,7 +112,4 @@ Suppose $\sqrt{2}  =$ $x/y$ ==simplified== $\implies 2 = x^2 / y^2 \implies 2y^2
 ==CONTRADICTION==
 $x/y$ is simplified yet $y$ is even $\vee$ $x$ is even
 
-### Irrational Approximation
-
-
-
+---

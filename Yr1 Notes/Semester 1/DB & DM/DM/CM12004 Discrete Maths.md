@@ -1,14 +1,15 @@
 # Discrete Mathematics #PNode
 ---
-*Module :*  #CM12004DM 
-*Teacher*: [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806) #Nicolai
-*Resources :* [[DB LN.pdf]], [Discrete Math Playlist Youtube](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
-*Courseworks :* [[Problem sheet 1.pdf |PS1 Questions]], [[Problem Sheet 1 |PS1 Answers]] | [[Problem sheet 2.pdf |PS2 Questions]], [[Problem Sheet 2 |PS2 Answers]]
-*Past Papers*: [Past Papers - OneDrive](https://computingservices-my.sharepoint.com/personal/sb3250_bath_ac_uk/_layouts/15/onedrive.aspx?login_hint=sb3250%40bath%2Eac%2Euk&id=%2Fpersonal%2Fsb3250%5Fbath%5Fac%5Fuk%2FDocuments%2FResources%2FDiscrete%20Maths%2FPast%20Papers)
+> [!info]+ File Details
+> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> > *Module :*  #CM12004DM 
+> > *Teacher*: [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806) #Nicolai
+> > *Resources :* [[DB LN.pdf]], [Discrete Math Playlist Youtube](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+> > *Courseworks :* [[Problem sheet 1.pdf |PS1 Questions]], [[Problem Sheet 1 |PS1 Answers]] | [[Problem sheet 2.pdf |PS2 Questions]], [[Problem Sheet 2 |PS2 Answers]]
 
-###### Discrete Maths
 ---
-##### Contents: 
+> [!abstract]+ Contents
+> List of headings within this topic
 > [[Elements of math logic ]]
 > [[Elements of set theory]]
 > [[Proof]]
@@ -55,8 +56,6 @@ num of maps
 | Antisymmetric |
 | Transitive |
 cauchy sequence - tends to a number 
-null sequence - cauchy but tends to 0 
+null sequence - cauchy but tends to 0
 
-
-
-
+---
