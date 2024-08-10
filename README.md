@@ -7,8 +7,8 @@ $a)$ Set up a semi-decent *Obsid Repo*
 $b)$ gives u a decent start on some lecture notes
 $c)$ ~~shows u how ==**NOT**== to do a *Obsid Repo*~~
 
-Also remember Obsid tags and links are the goat
-#Structuring
+Also remember Obsid Links are the goat
+
 [[Callouts]]
 [[Format cheat sheet]]
 [[Shortcuts]]

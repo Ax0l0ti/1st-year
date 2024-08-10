@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "file: ChS",
+      "color": {
+        "a": 1,
+        "rgb": 239616
+      }
+    },
+    {
       "query": "tag:#PNode OR tag:#PDFNode  ",
       "color": {
         "a": 1,
@@ -26,13 +33,6 @@
       "color": {
         "a": 1,
         "rgb": 530407
-      }
-    },
-    {
-      "query": "tag:#CheatSheet  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711927
       }
     },
     {
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "path: T/ ",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1376497250486088,
+  "scale": 0.15377863142081377,
   "close": false
 }
