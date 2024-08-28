@@ -8,9 +8,11 @@
 >
 | AI       | Comp Sys Archi | Prog 1   | DB & DM                  | Prog 2   | Maths for Comp |
 |----- | -------------- | -------- | ------------------------ | -------- | -------------- |
-| #CM12001 | #CM12002       | #CM12003 | #CM12004DB<br>#CM12004DM | #CM12005 | #CM12006       |
+| CM12001 | CM12002       | CM12003 | CM12004<br>CM12004 | CM12005 | CM12006       |
 
 [[About 1 📗]]
+[[Yr1 Resources]]
+[[Yr 1 PDFS]]
 
 ---
 > [!abstract]+ Contents

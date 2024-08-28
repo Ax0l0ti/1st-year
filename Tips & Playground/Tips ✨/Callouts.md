@@ -1,4 +1,4 @@
-[[STips 🧠]]
+[[Stips ✨]]
 > [!note]+
 > > [!abstract]
 > 

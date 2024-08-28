@@ -1,8 +1,8 @@
-# Cybersecurity #PNode
+# Cybersecurity 
 ---
 > [!info]+ Module Details
-> Includes module tag, teacher tags and resources 
-> > *Module :* #CM22014 
+> Contains details on this (genus:: Module) from [Year::2]: Module tag, Teacher tags and Resources 
+> > *Module :* [[Cyber Security]]
 > > *Teacher*: 
 > > *Resources :*
 

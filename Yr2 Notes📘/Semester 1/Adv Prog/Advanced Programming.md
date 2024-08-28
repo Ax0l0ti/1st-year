@@ -1,8 +1,8 @@
-# Adv Prog #PNode
+# Adv Prog 
 ---
 > [!info]+ Module Details
-> Includes module tag, teacher tags and resources 
-> > *Module :*  #CM22012 
+> Contains details on this (genus:: Module) from [Year::2]: Module tag, Teacher tags and Resources 
+> > *Module :*  [[Advanced Prog]]
 > > *Teacher*: 
 > > *Resources :*
 
@@ -18,6 +18,8 @@
 > 
 > Coursework
 > > [[]]
+
+
 
 ---
 ### Coursework 0 vs 100 Examed

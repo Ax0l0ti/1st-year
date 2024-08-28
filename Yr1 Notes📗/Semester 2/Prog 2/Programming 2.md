@@ -1,8 +1,8 @@
-# Programming 2 #PNode
+# Programming 2 
 ---
-> [!info]+ File Details
-> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
-> > *Module :* #CM12005
+> [!info]+ Module Details
+> Contains details on this (genus:: Module) from [Year::1]: Module tag, Teacher tags and Resources 
+> > *Module :*  [[T🏷️/M📚/Yr1📗/Programming 2|Programming 2]]
 > > *Teacher*:  I genuinely don't know. Went once or twice. He was goated tho
 > > *Resources :*
 > > 

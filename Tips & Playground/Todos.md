@@ -19,6 +19,7 @@ Check emails... Just always
 > > - [ ] Set Emoji Spacing, Set Structure
 > > - [ ] Find Dataview (conts link) 
 > > - [ ] Clean 
+> > - [ ] change tags, regex for tags and replace with inbuilt attributes
 > > \- List of Files containing #TODO : 
 > > > ```dataview 
 LIST 

@@ -6,6 +6,6 @@ aliases:
 # Human-Computer Interation 2
 ---
 > [!info]+ Module Details
-> Includes information about the Module
+> Includes information about the (genus:: Tag)
 > > *Module ID:* **CM12013**
 > > *Main Page*: [[HCI 2]]

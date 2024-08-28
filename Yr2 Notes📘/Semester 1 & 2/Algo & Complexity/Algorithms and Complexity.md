@@ -1,10 +1,12 @@
-# Algorithms and Complexity #PNode
+# Algorithms and Complexity 
 ---
 > [!info]+ Module Details
-> Includes module tag, teacher tags and resources 
-> > *Module :*  #CM22008 
+> Contains details on this (genus:: Module) from [Year::2]: Module tag, Teacher tags and Resources 
+> > *Module :*  [[Algorithms & Complexity]]
 > > *Teacher*: 
 > > *Resources :*
+
+
 
 ---
 > [!abstract]+ Contents

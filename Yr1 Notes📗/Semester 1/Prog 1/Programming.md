@@ -1,7 +1,7 @@
 # Programming and Languages
 ---
 > [!info]+ File Details
-> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> Includes information about this (genus:: Note) from [Year::1]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  04-10-2023 
 > > *Module :* #CM12003 
 > > *Teacher*: [Zack Lyons](https://moodle.bath.ac.uk/user/profile.php?id=25337)

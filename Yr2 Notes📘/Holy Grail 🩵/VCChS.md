@@ -3,7 +3,7 @@
 > [!info]+ Module Details
 > Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
 > *Module Tag :* #CM22010 
-> *Link :* [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing]]
+> *Link :* [[Visual Computing]]
 > *Cheat Sheet tag :* [[Grail 🩷]]
 
 ---

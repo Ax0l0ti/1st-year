@@ -1,10 +1,10 @@
 # AI Cheat Sheet
 ---
 > [!info]+ Cheat Sheet Details
-> Includes information about module, link to module and it's correspondent attribute tag 
+> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag
 > *Module Tag :* #CM12001 
 > *Link :* [[Artificial Intelligence 1]]
-> *Cheat Sheet tag :* [[Grail 🩷]]]
+> *Cheat Sheet tag :* [[Grail 🩷]]
 
 ---
 

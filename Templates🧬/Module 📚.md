@@ -1,7 +1,7 @@
-# {{title}} #PNode
+# {{title}} 
 ---
 > [!info]+ Module Details
-> Includes module tag, teacher tags and resources 
+> Contains details on this (genus:: Module) from [Year::2]: Module tag, Teacher tags and Resources 
 > > *Module :* [[]]
 > > *Teacher*: 
 > > *Resources :*

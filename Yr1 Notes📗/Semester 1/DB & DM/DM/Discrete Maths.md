@@ -1,9 +1,9 @@
-# Discrete Mathematics #PNode
+# Discrete Mathematics 
 ---
-> [!info]+ File Details
-> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
-> > *Module :*  #CM12004DM 
-> > *Teacher*: [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806) #Nicolai
+> [!info]+ Module Details
+> Contains details on this (genus:: Module) from [Year::1]: Module tag, Teacher tags and Resources 
+> > *Module :*  [[Databases & Discrete Maths]]
+> > *Teacher*: [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806)
 > > *Resources :* [[DB LN.pdf]], [Discrete Math Playlist Youtube](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 > > *Courseworks :* [[Problem sheet 1.pdf |PS1 Questions]], [[Problem Sheet 1 |PS1 Answers]] | [[Problem sheet 2.pdf |PS2 Questions]], [[Problem Sheet 2 |PS2 Answers]]
 

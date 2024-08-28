@@ -11,5 +11,8 @@
   },
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "userIgnoreFilters": [
+    "T🏷️/S⚙️/"
+  ]
 }

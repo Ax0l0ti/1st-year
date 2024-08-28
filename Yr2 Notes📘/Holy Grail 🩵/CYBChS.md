@@ -3,7 +3,7 @@
 > [!info]+ Module Details
 > Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
 > *Module Tag :* #CM22014 
-> *Link :* [[CM22014 Cybersecurity]]
+> *Link :* [[Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity]]
 > *Cheat Sheet tag :* [[Grail 🩷]]
 
 ---

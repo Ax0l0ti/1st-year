@@ -2,15 +2,16 @@
 ---
 > [!info]+ Linked Modules for Resources
 > Detailed Modules & Codes : 
-> > [[Yr1 Module Codes]]
+> > [[Yr2 Module Codes]]
 > 
 | Software Eng | Algorithms & Complexity | Machine Learning | Visual Computing | HCI 1    | Advanced Prog | HCI 2    | Cybersecurity |
 | ------------ | ----------------------- | ---------------- | ---------------- | -------- | ------------- | -------- | ------------- |
-| #CM22007     | #CM22008                | #CM22009         | #CM22010         | #CM22011 | #CM22012      | #CM22013 | #CM22014      |
+| CM22007     | CM22008                | CM22009         | CM22010         | CM22011 | CM22012      | CM22013 | CM22014      |
 
 ***Examined*** - [[ALGChS]]  [[VCChS]]  [[APChS]] [[HCIChS]] 
 
 [[About 2 📘]]
+[[Yr2 PDFS]]
 
 ---
 ##### Contents: 
@@ -25,8 +26,7 @@
 --- 
 
 # Software Engineering
-[[Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering]]
-
+[[T🏷️/M📚/Yr2📘/Software Engineering|Software Engineering]]
 
 | Semester | Exam Status    |
 | -------- | -------------- |
@@ -35,7 +35,7 @@
 
 ---
 # Algorithms and Complexity
-[[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity]]
+[[Algorithms & Complexity]]
 Cheat sheet - [[ALGChS]]
 
 | Semester  | Exam Status  |
@@ -45,7 +45,7 @@ Cheat sheet - [[ALGChS]]
 
 ---
 # Machine Learning
-[[Machine Learning]]
+[[ML|Machine Learning]]
 
 | Semester  | Exam Status    |
 | --------- | -------------- |
@@ -54,7 +54,7 @@ Cheat sheet - [[ALGChS]]
 
 ---
 # Visual Computing
-[[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing]]
+[[Visual Comp]]
 Cheat sheet - [[VCChS]]
 
 | Semester  | Exam Status    |
@@ -64,7 +64,7 @@ Cheat sheet - [[VCChS]]
 
 ---
 # Human-Computer Interaction 1
-[[HCI 1]]
+[[Human-Computer Interation 1|HCI1]]
 
 | Semester | Exam Status    |
 | -------- | -------------- |
@@ -72,7 +72,7 @@ Cheat sheet - [[VCChS]]
 
 ---
 # Advanced Programming
-[[Yr2 Notes📘/Semester 1/Adv Prog/Advanced Programming]]
+[[Advanced Prog]]
 Cheat sheet - [[APChS]]
 
 | Semester  | Exam Status    |
@@ -82,7 +82,7 @@ Cheat sheet - [[APChS]]
 
 ---
 # Human-Computer Interaction 2
-[[HCI 2]]
+[[Human-Computer Interation 2|HCI2]]
 Cheat sheet - [[HCIChS]]
 
 | Semester  | Exam Status  |
@@ -92,7 +92,7 @@ Cheat sheet - [[HCIChS]]
 
 ---
 # Cybersecurity
-[[CM22014 Cybersecurity]]
+[[Cyber Security|CyberSec]]
 Cheat sheet - [[CYBChS]]
 
 | Semester  | Exam Status  |

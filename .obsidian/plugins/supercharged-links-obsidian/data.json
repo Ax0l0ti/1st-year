@@ -9,5 +9,90 @@
   "enableBacklinks": true,
   "enableQuickSwitcher": true,
   "enableSuggestor": true,
-  "selectors": []
+  "selectors": [
+    {
+      "type": "path",
+      "name": "",
+      "value": "Yr1 Notes",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "3640-4721",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "Yr2 Notes",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "5384-5a3a",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "Holy Grail",
+      "matchCaseSensitive": true,
+      "match": "contains",
+      "uid": "9c9b-4e5a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": false,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "T🏷️",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "fbe1-865c",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "Playground 🛝/",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "ac2f-cc4a",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "Tips ✨/",
+      "matchCaseSensitive": true,
+      "match": "contains",
+      "uid": "1ba8-6e54",
+      "selectText": false,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "Todos",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "7e34-b143",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": false
+    }
+  ]
 }

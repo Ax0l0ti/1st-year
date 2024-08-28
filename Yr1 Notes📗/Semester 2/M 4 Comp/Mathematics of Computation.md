@@ -1,11 +1,10 @@
-# Maths for Computation #PNode
+# Maths for Computation 
 ---
-> [!info]+ File Details
-> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
-> > *Module :* #CM12006  
-> > *Teachers*:  [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806) #Nicolai 
-> > *Resources :* 
-> > 	[[MfCLN.pdf]]
+> [!info]+ Module Details
+> Contains details on this (genus:: Module) from [Year::1]: Module tag, Teacher tags and Resources 
+> > *Module :*  [[Maths for Computation]]
+> > *Teachers*:  [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806)
+> > *Resources :* [[MfCLN.pdf]]
 
 ---
 > [!abstract]+ Contents

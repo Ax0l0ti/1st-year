@@ -1,7 +1,7 @@
 # Taylor & Maclaurin
 ---
 > [!info]+ File Details
-> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> Includes information about this (genus:: Note) from [Year::1]. Contains details on when this was created, what module the note belongs to.
 > > *Date :* 22-03-24
 > > *Module :* #CM12006 
 > > *Teacher*: 

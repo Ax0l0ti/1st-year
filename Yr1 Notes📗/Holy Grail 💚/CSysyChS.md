@@ -1,10 +1,10 @@
 # Computer System Architecture Cheat Sheet
 ---
 > [!info]+ Cheat Sheet Details
-> Includes information about module, link to module and it's correspondent attribute tag 
+> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag
 > *Module Tag :* #CM12002 
 > *Link :* [[Computer System Architecture]]
-> *Cheat Sheet tag :* [[Grail 🩷]]]]
+> *Cheat Sheet tag :* [[Grail 🩷]]
 ---
 ### Equations and phrases
 

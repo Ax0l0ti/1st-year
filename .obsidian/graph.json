@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "tag:#PNode OR tag:#PDFNode  ",
+      "query": "[]",
       "color": {
         "a": 1,
         "rgb": 1029083
@@ -50,14 +50,14 @@
       }
     },
     {
-      "query": "path: T/ ",
+      "query": "path: T🏷️ ",
       "color": {
         "a": 1,
         "rgb": 16711914
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.21055363321799,
@@ -67,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15377863142081377,
+  "scale": 0.09628026309995567,
   "close": false
 }

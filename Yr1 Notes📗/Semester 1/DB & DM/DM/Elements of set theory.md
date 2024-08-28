@@ -1,7 +1,7 @@
 # Elements of set theory
 ---
 > [!info]+ File Details
-> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> Includes information about this (genus:: Note). Contains details on when this was created, what module the note belongs to.
 > > *Date :*  10-10-2023 
 > > *Module :* #CM12004DM 
 > > *Teacher*:  [Nicolai Vorobjov](https://moodle.bath.ac.uk/user/profile.php?id=2806)

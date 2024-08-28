@@ -1,7 +1,7 @@
 # Maps Additional
 ---
 > [!info]+ File Details
-> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
+> Includes information about this (genus:: Note) from [Year::1]. Contains details on when this was created, what module the note belongs to. 
 > > *Date :* 24-11-2023
 > > *Module :* #CM12004DM 
 > > *Resources :*

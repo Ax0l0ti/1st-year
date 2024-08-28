@@ -1,8 +1,8 @@
-# Computer System Architecture #PNode
+# Computer System Architecture 
 ---
-> [!info]+ File Details
-> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
-> > *Module :* #CM12002
+> [!info]+ Module Details
+> Contains details on this (genus:: Module) from [Year::1]: Module tag, Teacher tags and Resources 
+> > *Module :* [[T🏷️/M📚/Yr1📗/Architecture|Architecture]]
 > > *Teacher*: [Fabio Nemetz](https://moodle.bath.ac.uk/user/profile.php?id=490)
 > > *Resources :* [[arduino_projects_book.pdf |Arduino Booklet]], [[CSysArchLN1.pdf]], [[CSysArchLN2.pdf]]
 > > *Past Papers :* [Past Papers - OneDrive](https://computingservices-my.sharepoint.com/personal/sb3250_bath_ac_uk/_layouts/15/onedrive.aspx?login_hint=sb3250%40bath%2Eac%2Euk&id=%2Fpersonal%2Fsb3250%5Fbath%5Fac%5Fuk%2FDocuments%2FResources%2FSystem%20Architecture%2FPast%20Papers)

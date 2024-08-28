@@ -3,8 +3,8 @@
 > [!info]+ Module Details
 > Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
 > *Module Tag :* #CM22012 
-> *Link :* [[Yr2 Notes📘/Semester 1/Adv Prog/Advanced Programming]]
-> *Cheat Sheet tag :* [[Grail 🩷]]] 
+> *Link :* [[Advanced Programming]]
+> *Cheat Sheet tag :* [[Grail 🩷]]
 > 
 ---
 ### Equations and phrases

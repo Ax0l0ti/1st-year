@@ -1,8 +1,8 @@
-# Artificial Intelligence #PNode
+# Artificial Intelligence 
 ---
-> [!info]+ File Details
-> Includes information about when file was created, what module the note belongs to. **Some** notes have listed teachers and Resources.
-> > *Module :* #CM12001
+> [!info]+ Module Details
+> Contains details on this (genus:: Module) from [Year::1]: Module tag, Teacher tags and Resources 
+> > *Module :* [[AI 1]]
 > > *Teacher*: [Ben Ralph](https://moodle.bath.ac.uk/user/profile.php?id=71461), #EmelieBarman, #BenRalph, #NelloCWaffleMan 
 > > ###### *Resources :*
 > > 

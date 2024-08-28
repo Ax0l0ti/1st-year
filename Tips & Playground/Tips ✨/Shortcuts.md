@@ -3,7 +3,7 @@
 
 [[#System Shortcuts]]
 [[#File shortcuts]]
-[[STips 🧠]]
+[[Stips ✨]]
 
 --- 
 ## System Shortcuts

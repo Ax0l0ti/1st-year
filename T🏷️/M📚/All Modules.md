@@ -1,7 +1,7 @@
 ---
 aliases:
 ---
-# {{title}}
+# All Modules
 ---
 > [!info]+ Module Details
 > Includes information about the (genus:: Tag)
