@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
+                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Inverting matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md"
+                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Inverting matrices.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
+                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Inverting matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
+                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Inverting matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,10 +166,16 @@
   },
   "active": "8a04770c438fa9e4",
   "lastOpenFiles": [
-    "Yr1 Notes📗/Semester 2/M 4 Comp/Eigen vectors & Eigen values.md",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/Function Classification.md",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/Cramer's Rule.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Gaussian Elimination.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Function Classification.md",
+    "T🏷️/M📚/Yr2📘/ML.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Logistic Regression.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Eigen vectors & Eigen values.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Cramer's Rule.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Attachments/Latex Cheatsheet.pdf",
     "Tips & Playground/Tips ✨/Callouts.md",
@@ -180,10 +186,7 @@
     "T🏷️/M📚/Yr2📘/Algorithms & Complexity.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Images & Colours.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Camera & Lenses.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Logistic Regression.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Distance Metrics.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Attachments/Lense physic.png",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
     "Yr2 Notes📘/Holy Grail 🩵/VCChS.md",
@@ -200,9 +203,6 @@
     "Yr2 Notes📘/Semester 1/HCI 1/HCI 1.md",
     "Attachments/HCI1 Lecture Schedule.png",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Mathematics of Computation.md",
-    "Yr1 Notes📗/Holy Grail 💚/MfCChS.md",
-    "Yr1 Notes📗/Yr1 Metadata/Yr1 Resources.md",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/Inverting matrices.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
     "Tips & Playground/Playground 🛝/Canvas Testing.canvas",
     "Yr1 Notes📗/Semester 1 & 2/Architecture/CSysArchLN1.pdf",
