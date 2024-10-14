@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Attachments/Pasted Images",
+  "attachmentFolderPath": "Attachments",
   "pdfExportSettings": {
     "includeName": false,
     "pageSize": "Letter",

@@ -2,7 +2,7 @@
 # Function Classification
 ---
 *Date :* 22-06-2024
-*Module :*  #CM12006 
+*Module :*  (ModCode :: CM12006) 
 *Teacher*: 
 *Resources :*
 

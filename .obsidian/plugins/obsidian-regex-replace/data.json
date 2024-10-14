@@ -1,6 +1,6 @@
 {
-  "findText": "#",
-  "replaceText": "",
+  "findText": "The module is (100)",
+  "replaceText": "$1",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

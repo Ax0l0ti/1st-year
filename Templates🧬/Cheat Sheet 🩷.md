@@ -1,7 +1,7 @@
 # {{title}} Cheat Sheet
 ---
 > [!info]+ Module Details
-> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
+> Includes information about (genus:: Cheat Sheet), link to CS module and it's correspondent attribute tag 
 > *Module Tag :* 
 > *Link :* 
 > *Cheat Sheet tag :* [[Grail 🩷]]

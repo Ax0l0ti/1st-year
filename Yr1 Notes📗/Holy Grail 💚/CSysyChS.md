@@ -1,8 +1,8 @@
 # Computer System Architecture Cheat Sheet
 ---
 > [!info]+ Cheat Sheet Details
-> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag
-> *Module Tag :* #CM12002 
+> Includes information about (genus:: Cheat Sheet), link to CS module and it's correspondent attribute tag
+> *Module Tag :* (ModCode :: CM12002) 
 > *Link :* [[Computer System Architecture]]
 > *Cheat Sheet tag :* [[Grail 🩷]]
 ---

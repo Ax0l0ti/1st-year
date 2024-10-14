@@ -1,5 +1,7 @@
 {
-  "targetAttributes": [],
+  "targetAttributes": [
+    "genus"
+  ],
   "targetTags": true,
   "getFromInlineField": true,
   "enableTabHeader": true,
@@ -35,9 +37,9 @@
       "selectBackground": false
     },
     {
-      "type": "path",
-      "name": "",
-      "value": "Holy Grail",
+      "type": "attribute",
+      "name": "genus",
+      "value": "Cheat Sheet",
       "matchCaseSensitive": true,
       "match": "contains",
       "uid": "9c9b-4e5a",
@@ -47,9 +49,9 @@
       "selectBackground": true
     },
     {
-      "type": "path",
-      "name": "",
-      "value": "T🏷️",
+      "type": "attribute",
+      "name": "genus",
+      "value": "Tag",
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "fbe1-865c",
@@ -92,6 +94,18 @@
       "selectText": true,
       "selectAppend": true,
       "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "attribute",
+      "name": "genus",
+      "value": "Module",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "82d7-5096",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
       "selectBackground": false
     }
   ]

@@ -1,8 +1,8 @@
 # Maths for Computation Cheat Sheet
 ---
 > [!info]+ Module Details
-> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
-> *Module Tag :* #CM12006 
+> Includes information about (genus:: Cheat Sheet), link to CS module and it's correspondent attribute tag 
+> *Module Tag :* (ModCode :: CM12006) 
 > *Link :* [[Mathematics of Computation]]
 > *Cheat Sheet tag :* [[Grail 🩷]]
 

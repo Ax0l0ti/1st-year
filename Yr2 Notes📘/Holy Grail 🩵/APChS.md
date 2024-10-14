@@ -1,8 +1,8 @@
 # Advanced Programming Cheat Sheet
 ---
 > [!info]+ Module Details
-> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
-> *Module Tag :* #CM22012 
+> Includes information about (genus:: Cheat Sheet), link to CS module and it's correspondent attribute tag 
+> *Module Tag :* (ModCode :: CM22012) 
 > *Link :* [[Advanced Programming]]
 > *Cheat Sheet tag :* [[Grail 🩷]]
 > 

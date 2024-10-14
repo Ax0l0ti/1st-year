@@ -2,7 +2,7 @@
 ---
 > [!info]+ Module Details
 > Contains details on this (genus:: Module) from [Year::2]: Module tag, Teacher tags and Resources 
-> > *Module :* [[]]
+> > *Module :* (ModCode :: ) 
 > > *Teacher*: 
 > > *Resources :*
 
@@ -11,10 +11,10 @@
 > List of links to notes on Topics within the Module
 > 
 > sub grouping
-> > [[#]]
-> [[#]]
-> [[#]]
-> > [[#]]
+> > [[]]
+> [[]]
+> [[]]
+> > [[]]
 > 
 > Coursework
 > > [[]]

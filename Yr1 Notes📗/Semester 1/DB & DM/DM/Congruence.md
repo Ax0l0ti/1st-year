@@ -3,7 +3,7 @@
 > [!info]+ File Details
 > Includes information about this (genus:: Note). Contains details on when this was created, what module the note belongs to.
 > > *Date :*  25-11-2023 
-> > *Module :* #CM12004DM
+> > *Module :* (ModCode :: CM12004DM)
 > > *Teacher*: 
 > > *Resources :* [Congruence Modulo m (Theory) - YouTube](https://www.youtube.com/watch?v=-SpWfD4WsmM&ab_channel=NesoAcademy), [Solving congruences, Simple examples - YouTube](https://www.youtube.com/watch?v=KwxslifHITg&ab_channel=blackpenredpen), [Congruences Complex example - YouTube](https://www.youtube.com/watch?v=LInNgWMtFEs&ab_channel=blackpenredpen)
 

@@ -3,7 +3,7 @@
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::1]. Contains details on when this was created, what module the note belongs to. 
 > > *Date :* 22-06-2024
-> > *Module :* #CM12001 
+> > *Module :* (ModCode :: CM12001) 
 > > *Teacher*: 
 > > *Resources :* #Chatted
 

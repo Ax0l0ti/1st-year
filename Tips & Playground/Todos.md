@@ -15,16 +15,17 @@ Check emails... Just always
 ---
 > [!abstract]+ Vault / Work 
 > > [!example]+ Vault Todos
-> > - [ ] Mod file names
-> > - [ ] Set Emoji Spacing, Set Structure
-> > - [ ] Find Dataview (conts link) 
+> > - [x] Mod file names
+> > - [x] Set Emoji Spacing, Set Structure
+> > - [x] Find Dataview (conts link) 
 > > - [ ] Clean 
-> > - [ ] change tags, regex for tags and replace with inbuilt attributes
-> > \- List of Files containing #TODO : 
+> > - [x] change tags, regex for tags and replace with inbuilt attributes
+> > -
+> >  List of Files containing #TODO : 
 > > > ```dataview 
 LIST 
 FROM #TODO AND !#Structuring 
-WHERE file.name != "Todos"
+WHERE file.name != "Todos" AND  file.folder !=  "Templates🧬"
 > 
 > > [!note]+ Work
 
@@ -38,4 +39,7 @@ WHERE file.name != "Todos"
 > - [ ] Job application, Job saftey vids, id verification
 
 
-
+**Cool bags note** 
+- CamelBak Rim Runner X22 Terra Hydration Pack with 2L Reservoir
+- Powderhound 12 Ski/Snowboard Backpack
+- SnoBlast™ 22 Winter Hydration Pack 20L with 2L Reservoir

@@ -10,21 +10,25 @@
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
 > 
-> Design Methods
-> > [[#]]
-> > [[#
-> 
-> User Testing
+> > Design Methods
+> > [[]]
+> > [[]]
+> > User Testing
 > > [[Testing]] bets on $\alpha,\beta,\gamma$
 > > 	[[Ethical Implications of Testing]]
 > 
 > Coursework
-> [[#]]
+> [[]]
 
 ---
-### Coursework 100 vs 0 Examed
+### Coursework 100
 - Project output Group (CWPG 100%)
-	**Details** - 
+	**Details** - Interactive System Design Challenge
+	- You MUST attend labs on the 18th October for group allocation or let us know as soon as possible). 
+	- **Set**: ==4th October==
+	- **Due**: ==12th December== at 8pm.
+	- ==Formative feedback in the labs.==
+
 ---
 ### Course Description
 
@@ -36,3 +40,7 @@
 | **Synopsis:**          | Working in a team, you will apply interaction design and user experience design methods to develop a demonstrable prototype of an interactive system. You will consider principles of user interfaces, user experience, and user testing, including its ethical implications.                                                                                                                                                                                            |
 | **Content:**           | General foundations of HCI. Design Methods (e.g. models of interaction, prototyping techniques, principles of user interface (UI) and user experience (UX) design, designing for accessibility). Introduction to evaluation, including ethical considerations for user testing.                                                                                                                                                                                          |
 
+## Lecture Schedule 
+
+>[!Example]+ Lecture Schedule
+![[HCI1 Lecture Schedule.png]]

@@ -17,17 +17,15 @@
 ---
 > [!abstract]+ Contents
 > List of headings within this topic
-> [[#AI]]
-> [[#Computer System Architecture]]
-> [[#Programming 1]]
-> [[#Databases]]
-> [[#Discrete Mathematics]]
-> [[#Programming 2]]
-> [[#Mathematics for Computation]]
+> [[#AI 1|AI]]
+> [[#T🏷️/M📚/Yr1📗/Architecture Computer System Architecture|Architecture Computer System Architecture]]
+> [[#T🏷️/M📚/Yr1📗/Programming 1 Programming 1|Programming 1 ]]
+> [[#Databases & Discrete Maths]]
+> [[#T🏷️/M📚/Yr1📗/Programming 2 Programming 2|Programming 2]]
+> [[#Maths for Computation]]
 --- 
 
-# AI 
-[[Artificial Intelligence 1]]
+# [[AI 1]] 
 Cheat sheet - [[AIChS]]
 
 | Semester | Exam Status |
@@ -36,8 +34,7 @@ Cheat sheet - [[AIChS]]
 | Sem 2    | - EXAMED    |
 
 ---
-# Computer System Architecture 
-[[Computer System Architecture]]
+# [[T🏷️/M📚/Yr1📗/Architecture|Computer System Architecture]]
 Cheat sheet - [[CSysyChS]]
 
 | Semester | Exam Status |
@@ -50,8 +47,7 @@ Cheat sheet - [[CSysyChS]]
 > [[CSysArchLN2.pdf]]
 
 ---
-## Programming 1
-[[Yr1 Notes📗/Semester 1/Prog 1/Programming 1]]
+## [[T🏷️/M📚/Yr1📗/Programming 1|Programming 1]]
 
 | Semester | Exam Status     |
 | -------- | --------------- |
@@ -59,18 +55,8 @@ Cheat sheet - [[CSysyChS]]
 | Sem 2    | - Not Examined  |
 
 ---
-## Databases
-[[Databases]]
+## [[Databases & Discrete Maths]]
 [[CM12004 Database Notes.pdf]]
-
-| Semester | Exam Status     |
-| -------- | --------------- |
-| Sem 1    | - Not Examined  |
-| Sem 2    | - Not Examined  |
-
----
-## Discrete Mathematics
-[[Discrete Maths]]
 Discrete Maths Lecture notes 1 to 9
 [[DMLec129LN.pdf]]
 
@@ -80,8 +66,7 @@ Discrete Maths Lecture notes 1 to 9
 | Sem 2    | - Not Examined  |
 
 ---
-## Programming 2
-[[Yr1 Notes📗/Semester 2/Prog 2/Programming 2]]
+## [[T🏷️/M📚/Yr1📗/Programming 2|Programming 2]]
 
 | Semester | Exam Status     |
 | -------- | --------------- |
@@ -89,8 +74,7 @@ Discrete Maths Lecture notes 1 to 9
 | Sem 2    | - Not Examined  |
 
 ---
-## Mathematics for Computation
-[[Mathematics of Computation]]
+## [[Maths for Computation]]
 Cheat sheet - [[MfCChS]]
 
 | Semester | Exam Status    |

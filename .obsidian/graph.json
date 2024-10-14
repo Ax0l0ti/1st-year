@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "[]",
+      "query": "line:(/\\:\\: Module/)",
       "color": {
         "a": 1,
         "rgb": 1029083
@@ -57,16 +57,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.21055363321799,
+  "nodeSizeMultiplier": 1.91224906304501,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.437716262975779,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.09628026309995567,
-  "close": false
+  "scale": 0.17681789903803194,
+  "close": true
 }

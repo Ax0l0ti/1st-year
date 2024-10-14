@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a01c327879197f4b",
+        "id": "a8bcefdee2ad605f",
         "type": "tabs",
         "children": [
           {
-            "id": "89a1d29f8ae47916",
+            "id": "8a04770c438fa9e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1 & 2/Architecture/Computer System Architecture.md",
+                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "628bddf9df123242",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/Latex Cheatsheet.pdf"
               }
             }
           }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gaus",
+                "query": "latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -63,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1 & 2/Architecture/Computer System Architecture.md"
+                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md"
               }
             }
           },
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1 & 2/Architecture/Computer System Architecture.md",
+                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1 & 2/Architecture/Computer System Architecture.md",
+                "file": "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,55 +164,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89a1d29f8ae47916",
+  "active": "8a04770c438fa9e4",
   "lastOpenFiles": [
-    "Yr1 Notes📗/Semester 1 & 2/Architecture/Architecture.md",
-    "Yr1 Notes📗/Holy Grail 💚/CSysyChS.md",
-    "Yr1 Notes📗/Holy Grail 💚/AIChS.md",
-    "Yr1 Notes📗/Semester 1 & 2/Architecture/Boolean Logic and Circuits.md",
-    "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
-    "Yr2 Notes📘/Holy Grail 🩵/APChS.md",
-    "Templates🧬/Notes 📝.md",
-    "README.md",
-    "Templates🧬/Module Tag 🏷️.md",
-    "Templates🧬/Module 📚.md",
-    "Templates🧬/Cheat Sheet 🩷.md",
-    "Yr2 Notes📘/Holy Grail 🩵/HCIChS.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Eigen vectors & Eigen values.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Function Classification.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Cramer's Rule.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
-    "Yr1 Notes📗/Semester 1/DB & DM/DM/Discrete Maths.md",
-    "Yr1 Notes📗/Semester 1/DB & DM/DB/Databases.md",
-    "Yr1 Notes📗/Semester 1/Prog 1/Programming 1.md",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/Mathematics of Computation.md",
-    "Yr1 Notes📗/Semester 2/Prog 2/Programming 2.md",
-    "Yr1 Notes📗/Semester 1 & 2/AI 1/Artificial Intelligence 1.md",
-    "Yr1 Notes📗/Semester 1 & 2/Architecture/Computer System Architecture.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
+    "Attachments/Latex Cheatsheet.pdf",
+    "Tips & Playground/Tips ✨/Callouts.md",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
+    "Yr1 Notes📗/Yr1 Metadata/Yr 1 PDFS.md",
+    "T🏷️/S⚙️/Grail 🩷.md",
+    "T🏷️/S⚙️/Playground 🛝.md",
+    "T🏷️/M📚/Yr2📘/Algorithms & Complexity.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Images & Colours.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Camera & Lenses.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Logistic Regression.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Distance Metrics.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
+    "Attachments/Lense physic.png",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
+    "Yr2 Notes📘/Holy Grail 🩵/VCChS.md",
+    "Attachments/CompVision in an image.png",
+    "Attachments/Greyscale.png",
+    "Attachments/CMYK explanation.png",
+    "Yr1 Notes📗/Holy Grail 💚/AIChS.md",
+    "Attachments/Pasted image 20241003155557.png",
+    "Attachments/Multi Class Example.png",
+    "Attachments/Example of Log-less.png",
+    "Attachments/Log-loss Function.png",
+    "Attachments/Sigmoid Function.png",
+    "Yr2 Notes📘/Yr2 Metadata/Yr 2 Exam Periods and weightings.md",
     "Yr2 Notes📘/Semester 1/HCI 1/HCI 1.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/Advanced Programming.md",
-    "Yr2 Notes📘/Semester 2/HCI 2/HCI 2.md",
+    "Attachments/HCI1 Lecture Schedule.png",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Mathematics of Computation.md",
+    "Yr1 Notes📗/Holy Grail 💚/MfCChS.md",
+    "Yr1 Notes📗/Yr1 Metadata/Yr1 Resources.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Inverting matrices.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
     "Tips & Playground/Playground 🛝/Canvas Testing.canvas",
     "Yr1 Notes📗/Semester 1 & 2/Architecture/CSysArchLN1.pdf",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW2.pdf",
     "Yr1 Notes📗/Semester 1/DB & DM/DB/DB LN.pdf",
-    "Attachments/Latex Cheatsheet.pdf",
     "T🏷️/S⚙️/YrAbouts",
     "Tags/Structuring/metadata/YrMeta",
     "Tags/Structuring/metadata",
     "T🏷️/S⚙️",
     "T🏷️/M📚/Yr2📘",
-    "Attachments/graoh.png",
-    "Attachments/Lesson Plan Comp architecture.png",
-    "Attachments/JK FF TruthT & symbol.png",
-    "Attachments/History of Database Timeline.png",
-    "Attachments/Binary Arithmetic Example 3.png",
-    "Attachments/Binary Arithmetic Example.png",
-    "Attachments/Binary Arithmetic.png",
-    "Attachments/Binary Addition Example.png",
-    "Attachments/BIn.png",
-    "Attachments/best first vs optimal path.png",
     "Untitled.canvas",
     "Untitled 2.canvas"
   ]

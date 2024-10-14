@@ -1,8 +1,8 @@
 # Visual Computing Cheat Sheet
 ---
 > [!info]+ Module Details
-> Includes information about Cheat Sheet, link to CS module and it's correspondent attribute tag 
-> *Module Tag :* #CM22010 
+> Includes information about (genus:: Cheat Sheet), link to CS module and it's correspondent attribute tag 
+> *Module Tag :* (ModCode :: CM22010) 
 > *Link :* [[Visual Computing]]
 > *Cheat Sheet tag :* [[Grail 🩷]]
 
@@ -12,6 +12,12 @@
 #### Phrases
 
 #### Equations
+
+> [!info] Visual Comp in an image + 
+> general terms of manipulation in Computer Graphics 
+>
+![[CompVision in an image.png|350]]
+
 
 ---
 ### Topics

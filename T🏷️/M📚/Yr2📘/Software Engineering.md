@@ -5,6 +5,6 @@ aliases:
 # Software Engineering
 ---
 > [!info]+ Module Details
-> Includes information about the (genus:: Tag)
+> Includes information about this Module related (genus:: Tag)
 > > *Module ID:* **CM22007**
 > > *Main Page*: [[Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering|Software Engineering]]

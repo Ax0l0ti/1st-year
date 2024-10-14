@@ -3,7 +3,7 @@
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::1]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  05-12-2023 
-> > *Module :* #CM12002 
+> > *Module :* (ModCode :: CM12002) 
 > > *Teacher*: #FabioNemetz 
 > > *Resources :* [Introduction to Karnaugh Maps - YouTube](https://www.youtube.com/watch?v=RO5alU6PpSU&ab_channel=TheOrganicChemistryTutor), [Website for creating Sofp & k-maps](http://www.32x8.com/var4.html)
 
