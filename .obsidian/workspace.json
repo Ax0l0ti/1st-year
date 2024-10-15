@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
+                "file": "Tips & Playground/Tips ✨/Format cheat sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md"
+                "file": "Tips & Playground/Tips ✨/Format cheat sheet.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
+                "file": "Tips & Playground/Tips ✨/Format cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
+                "file": "Tips & Playground/Tips ✨/Format cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +166,11 @@
   },
   "active": "8a04770c438fa9e4",
   "lastOpenFiles": [
+    "Tips & Playground/Playground 🛝/wibblesticks.md",
+    "Tips & Playground/Playground 🛝/Womp womp.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Inverting matrices.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Gaussian Elimination.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Function Classification.md",
     "T🏷️/M📚/Yr2📘/ML.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
@@ -200,8 +202,6 @@
     "Attachments/Example of Log-less.png",
     "Attachments/Log-loss Function.png",
     "Attachments/Sigmoid Function.png",
-    "Yr2 Notes📘/Yr2 Metadata/Yr 2 Exam Periods and weightings.md",
-    "Yr2 Notes📘/Semester 1/HCI 1/HCI 1.md",
     "Attachments/HCI1 Lecture Schedule.png",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
     "Tips & Playground/Playground 🛝/Canvas Testing.canvas",
