@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a04770c438fa9e4",
+  "active": "eeb5af6a855fd0b7",
   "lastOpenFiles": [
     "Tips & Playground/Playground 🛝/wibblesticks.md",
     "Tips & Playground/Playground 🛝/Womp womp.md",
