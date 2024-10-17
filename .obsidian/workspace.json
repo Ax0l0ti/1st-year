@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips & Playground/Tips ✨/Format cheat sheet.md",
+                "file": "Yr2 Notes📘/Semester 1/HCI 1/Task Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips & Playground/Tips ✨/Format cheat sheet.md"
+                "file": "Yr2 Notes📘/Semester 1/HCI 1/Task Analysis.md"
               }
             }
           },
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips & Playground/Tips ✨/Format cheat sheet.md",
+                "file": "Yr2 Notes📘/Semester 1/HCI 1/Task Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips & Playground/Tips ✨/Format cheat sheet.md",
+                "file": "Yr2 Notes📘/Semester 1/HCI 1/Task Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +164,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eeb5af6a855fd0b7",
+  "active": "8a04770c438fa9e4",
   "lastOpenFiles": [
+    "Attachments/TaskAnalysis.png",
+    "Yr2 Notes📘/Semester 1/HCI 1/HCI 1.md",
+    "Yr2 Notes📘/Semester 1/HCI 1/Task Analysis.md",
+    "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
+    "Tips & Playground/Tips ✨/Format cheat sheet.md",
     "Tips & Playground/Playground 🛝/wibblesticks.md",
     "Tips & Playground/Playground 🛝/Womp womp.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
@@ -183,21 +187,16 @@
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Attachments/Latex Cheatsheet.pdf",
     "Tips & Playground/Tips ✨/Callouts.md",
-    "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
     "Yr1 Notes📗/Yr1 Metadata/Yr 1 PDFS.md",
     "T🏷️/S⚙️/Grail 🩷.md",
     "T🏷️/S⚙️/Playground 🛝.md",
     "T🏷️/M📚/Yr2📘/Algorithms & Complexity.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Images & Colours.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Camera & Lenses.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Distance Metrics.md",
     "Attachments/Lense physic.png",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
-    "Yr2 Notes📘/Holy Grail 🩵/VCChS.md",
     "Attachments/CompVision in an image.png",
     "Attachments/Greyscale.png",
     "Attachments/CMYK explanation.png",
-    "Yr1 Notes📗/Holy Grail 💚/AIChS.md",
     "Attachments/Pasted image 20241003155557.png",
     "Attachments/Multi Class Example.png",
     "Attachments/Example of Log-less.png",
