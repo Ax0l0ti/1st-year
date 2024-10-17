@@ -18,6 +18,7 @@
 >
 ![[CompVision in an image.png|350]]
 
+$$ 𝑆𝑁𝑅 = \frac{P_{signal}}{P_{noise}}$$ 
 
 ---
 ### Topics

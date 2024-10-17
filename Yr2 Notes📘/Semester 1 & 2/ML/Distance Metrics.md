@@ -67,7 +67,7 @@
 ### Jaccard Similarity
 
 >[!info]+ 
-> By treating the points as sets
-> Defined as $$ $$
+> Simply shared categories divided by total number of categories
+> Defined as $$ \frac{A\cap B}{A \cup B} $$
 
 #TODO 

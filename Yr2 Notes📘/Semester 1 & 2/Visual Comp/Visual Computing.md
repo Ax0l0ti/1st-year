@@ -13,7 +13,7 @@
 > >[[Images & Colours]]
 > >[[Camera & Lenses]]
 > > Images
-> > [[]]
+> > [[Noise & Image Dehazing]]
 > > [[]]
 > > Modelling 
 > > [[]]
